@@ -1,0 +1,16 @@
+Canon EOSM have sensor APS-C format (crop factor 1.6 to full frame) with resolution 5184x3456, in 1080p it's 3x3 pixel binning mode
+5184 : 3 = 1728 pixels on wide side (1080p Raw resolution on EOSM), 2.8 k is 1x1 pixel mode(without any pixel binning or line skipping) so, 2800 pixels of our crop sensor (around half of full resolution, what physicaly is "crop sensor" )
+
+Buscar: Pixel Binning, Line skipping y que es full resolution of sensor, full sensor redout.
+
+When adding the hack "Lvface+aewb", using HDMI monitor or not, if I set the shutter fine tune so that I get between 1/46 and 1/48 (a little above 1/46 gives the appropriate blur we're used to, 1/48 seems faster than expected), the value of the shutter jumps to 1/30 as soon as I hit record. It shows in the recorded file, as you see the exposure ramping up within the first 10 frames or so (using other fine tune values will shift the exposure relative to the value). 
+
+
+Estos datos no se si son 100% exactos, pero es un punto de partida:
+1080 RAW Mode [1736x976] = 1.6x Crop Aps-c
+1080 RAW Mode + x3 Crop Mode Enabled 1800px wide = 4.61x Crop (1.6x * 2.88x) 
+2.5K RAW Mode @2.35:1 = 3.29x Crop (1.6 * 2.06) 
+2.8K RAW Mode @2.35:1 = 2.96x Crop (1.6 * 1.85) - (Closest mode to Super16 or the BMPCC FOV)
+5K en torno a Crop 2x
+EOS M sensor size: 22.3 x 14.9 mm
+EOS M sensor width: 5184px 

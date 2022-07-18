@@ -1,0 +1,269 @@
+/* Estilo de enlaces por defecto*/
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000;
+	text-decoration: none;
+}
+a:hover {
+	color: #999;
+	text-decoration: none;
+}
+a:active {
+	color: #000;
+	text-decoration: none;
+}
+
+/* Estilo de enlaces del menú*/
+a.enlace_menu:link {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	text-decoration: none;
+}
+a.enlace_menu:visited {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	text-decoration: none;
+}
+a.enlace_menu:hover {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	text-decoration: none;
+}
+a.enlace_menu:active {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	text-decoration: none;
+}
+
+/* Estilo de enlaces de descarga del número*/
+a.enlace_numero:link {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.enlace_numero:visited {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.enlace_numero:hover {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #999;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.enlace_numero:active {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* Estilo de enlaces normales pero fuente negra*/
+a.enlace_negro:link {
+	color: #000000;
+	text-decoration: none;	
+}
+a.enlace_negro:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a.enlace_negro:hover {
+	color: #000;
+	text-decoration: none;
+}
+a.enlace_negro:active {
+	color: #000000;
+	text-decoration: none;
+}
+
+
+/* Estilo de enlaces normales pero fuente blanca*/
+a.enlace_blanco:link {
+	color: #999;
+	text-decoration: none;	
+}
+a.enlace_blanco:visited {
+	color: #999;
+	text-decoration: none;
+}
+a.enlace_blanco:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.enlace_blanco:active {
+	color: #999;
+	text-decoration: none;
+}
+
+/* Estilo de enlaces normales pero fuente azul*/
+a.enlace_azul:link {
+	color: #009;
+	text-decoration: none;	
+}
+a.enlace_azul:visited {
+	color: #009;
+	text-decoration: none;
+}
+a.enlace_azul:hover {
+	color: #999;
+	text-decoration: none;
+}
+a.enlace_azul:active {
+	color: #009;
+	text-decoration: none;
+}
+
+
+
+/* Estilo de enlaces destacados del contenido web -en rojo- */
+
+a.enlace_destacado_rojo:link {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #C00;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_rojo:visited {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #C00;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_rojo:hover {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #999;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_rojo:active {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #C00;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+/* Estilo de enlaces destacados del contenido web -en azul- */
+
+a.enlace_destacado_azul:link {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #00C;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_azul:visited {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #00C;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_azul:hover {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #999;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_azul:active {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #00C;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+/* Estilo de enlaces destacados del contenido web -en negro- */
+
+a.enlace_destacado_negro:link {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_negro:visited {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_negro:hover {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #999;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_negro:active {
+	font-family: "Adobe Garamond Pro", Garamond, serif;
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.enlace_asociacion:link {
+	color: #000;
+	text-decoration: none;
+}
+a.enlace_asociacion:visited {
+	color: #000;
+	text-decoration: none;
+}
+a.enlace_asociacion:hover {
+	color: #777;
+	text-decoration: none;
+}
+a.enlace_asociacion:active {
+	color: #000;
+	text-decoration: none;
+}
+
+
+
+/* Estilo de enlaces destacados de un texto en gris */
+
+a.enlace_destacado_texto:link {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_texto:visited {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_texto:hover {
+	color: #999;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.enlace_destacado_texto:active {
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}

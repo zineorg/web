@@ -1,0 +1,18 @@
+Integrated Disks
+----------------
+
+
+The firmware of integrated SSDs/Disks might request access to your
+memory according to SATA specification, so better don’t use them being
+plugged to the SATA port, directly. Instead, use them via standard
+SATA-to-USB2 adapter, which is not capable of granting direct access to
+your memory (DMA). Of course, this will slow down your system.
+
+
+Integrated Wifi
+---------------
+
+
+Replace wifi cards that run with proprietary firmware. Or even better,
+replace cards that run with firmware at all. Use one that has no
+firmware, but is driven by the kernel driver only.

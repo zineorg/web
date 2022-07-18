@@ -1,0 +1,371 @@
+/* Para que funcione el grid Masonry CSS (Revisar, se puede mejorar) */
+
+*, *:before, *:after {box-sizing:  border-box !important;}
+
+:root {
+    --accent-color: #3e3e3e;
+    --background:   #fff5e3;
+    --foreground:   #3e3e3e;
+}
+
+@font-face {
+   font-family: Hyperlegible;
+   src: url("AtkinsonHyperlegible-Regular.otf") format("opentype");
+}
+
+html {
+  font-size: 125%;
+  overflow-y: scroll;
+  color: black;
+  background-color: var(--background);
+  -webkit-text-size-adjust: 125%;
+  -ms-text-size-adjust: 125%;
+}
+
+header {
+
+}
+
+body {
+  font-family: 'Hyperlegible';
+  line-height: 1.5em;
+  margin: auto;
+}
+
+.menu {
+    overflow: hidden;
+/*    margin-bottom: 2.5em;*/
+    max-width: auto;
+    top: 0;
+/*  background-color: var(--background);*/
+    text-align: center;
+    color: var(--foreground);
+    border-bottom: 2px solid #666;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    padding: 0.2em;
+    line-height: 3em;
+    text-transform: uppercase;
+}
+
+.menu a {
+  padding: 1em;
+  text-decoration: none;
+  font-size: 85%;
+  white-space: nowrap;
+}
+
+.menu a:hover {
+  background-color: var(--foreground);
+  color: var(--background);
+}
+
+.menu a.seleccion.logo {
+  font-weight: bolder;
+  border-right: 1px solid black;
+}
+
+.menu a.logo:hover {
+}
+
+.cuerpo {
+    line-height: 1.5em;
+    margin-top: 2.5em;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    padding: 0em 1em 0em 1em;
+    box-sizing: border-box;
+}
+
+.intro {
+    margin-top: 0;
+    padding-top: 1px;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid #666;
+}
+
+h1.title {
+    font-size: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: var(--accent-color);
+    padding: 0.3em;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--accent-color);
+    border-top: 2px solid var(--accent-color);
+}
+
+nav#TOC {
+    top: 0;
+    text-align: left;
+    color: var(--foreground);
+    border: 2px solid #666;
+    font-size: 0.95em;
+    max-width: 50%;
+    float: left;
+    margin: 0 1.5em 1em 0;
+    padding: 0.5em 40px 0.5em 0;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+nav#TOC > a {
+    all: unset;
+    color: var(--foreground);
+    text-decoration: underline;
+}
+
+p.date {
+    text-align: right;
+    font-weight: bold;
+    padding-top: 1em;
+}
+
+hr.descripcion {
+    margin: 0;
+}
+
+p.descripcion {
+}
+
+.presentacion {
+    padding-bottom: 1em;
+}
+
+#logo {
+    float: right;
+    padding: 1em;
+    margin: 0;
+    max-width: 50%;
+}
+
+p {
+    -moz-hyphens: auto;
+    hyphens: auto;
+    text-align: justify;
+}
+
+figure {
+    margin-bottom: 2.5em;
+    margin-top: 2.5em;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+figcaption {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+a {
+  color:var(--accent-color);
+}
+
+a:hover {
+    background-color: var(--foreground);
+    color: var(--background);
+}
+
+a:active {
+}
+
+a:focus {
+  outline: dotted black;
+}
+
+a:hover,
+a:active {
+  outline: 0;
+}
+
+h1.title::-moz-selection {
+  background: var(--background);
+  color: var(--accent-color);
+}
+
+h1.title::selection {
+  background: var(--background);
+  color: var(--accent-color);
+}
+
+::-moz-selection {
+  background: var(--accent-color);
+  color: var(--background);
+}
+
+::selection {
+  background: var(--accent-color);
+  color: var(--background);
+}
+
+a::-moz-selection {
+  background: var(--accent-color);
+  color: var(--background);
+}
+
+a::selection {
+  background: var(--accent-color);
+  color: var(--background);
+}
+
+h1 {
+    font-size: 2em;
+    margin-top: 2.5em;
+    text-align:center;
+    line-height: 1em;
+}
+
+h2, h3, h5, h6 {
+    margin-top: 2em;
+}
+
+code {
+}
+
+pre {
+    margin-top: 50px;
+    border-left: 2px solid black;
+    margin-bottom: 50px;   
+    padding: 10px 15px;
+    word-wrap: break-word;
+    overflow: auto;
+    border-left: 2px solid black;
+}
+
+hr {
+    margin-top: 50px;
+    clear: both;
+}
+
+ul {
+
+}
+
+.footnotes p {
+    margin: 0.5em;
+}
+
+#botonarticulos {
+    display: flex;
+    justify-content: right;
+}
+
+footer {
+    text-align:center;
+    border-top: 2px solid #666;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 2.5em;
+    padding: 0.5em;
+}
+
+.articulos {
+    column-width: 10em;
+	column-gap: 0.5em;
+
+}
+
+.articulos p {
+    margin: 0;
+}
+
+a.miniatura {
+    display: inline-block;
+	margin:  0.25rem;
+	padding:  1rem;
+	width:  100%; 
+	border: 3px dotted var(--foreground);
+    text-decoration: none;
+    text-align: left;
+}
+
+.cine {
+    background: #ffdd75;
+}
+
+.bios {
+    background: #ffb26e;
+}
+
+.otros {
+    background: #ff8b8b;
+}
+
+.acercade {
+    border:0;
+}
+
+/* NOTAS AL PIE DE PÁGINA */
+
+a.footnote-ref {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.footnote-back {
+    text-decoration: none;
+    margin-left: 0.5em;
+}
+
+sup { 
+    line-height: 1em;
+    font-size: 0.75em; 
+    padding: 0.20em;
+}
+
+/* ESTILOS POR DEFECTO DE PANDOC
+    Puede que sean prescindibles */
+
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+/* RESOLUCIONES DE TELÉFONO:
+    Al final de la hoja de estilo.*/
+
+@media only screen and (max-width: 665px) {
+
+    .menu a.logo {
+      border-bottom: 1px solid black;
+    }
+    
+    img#logo {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        max-width: 100%;
+
+    }
+    
+    p.descripcion {
+        clear: both;
+    }
+    
+    nav#TOC {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2em;
+        max-width: fit-content;
+    }
+    
+    .presentacion {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+}
+

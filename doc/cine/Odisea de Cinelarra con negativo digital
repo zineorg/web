@@ -1,0 +1,8 @@
+RAW = CinemaDNG
+
+TIFF = ProRes
+
+No obtienes el mismo color de CinemaDNG y de TIFF, pero no es cuestión del bitdepth. MLVApp exporta TIFF a 16bit.
+Si tu exportas TIFF directamente tu exportas información procesada. Si tu exportas cDNG, tu exportas información en RAW (está información tiene que ser después procesada en cualquier otro editor). 
+
+Tiff tiene el balance de blancos bloqueado, «establecido», «inmutable», lo mismo con ProRes el cual también reduce el color de 14 a 12 o 10bit. Si aún así lo que necesitas son secuencias en TIFF para editar en Photoshop o Cinelerra, úsalo; No vas a notar grandes diferencias de información en el color o en el rango dinámico, y serán más que suficientes. Pero presta atención al balance de blancos...
