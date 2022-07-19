@@ -5,7 +5,7 @@ date: 01/01/2022
 lang: es-ES
 author: Ciberética
 keywords: ciberetica, cinelibre, coreboot, libreboot, thinkpad, bios, software libre, hardware libre, privacidad
-header-includes: <style>#intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.proyectos::before{content:"➞ "; font-weight:bolder;}}</style>
+header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.proyectos::before{content:"➞ "; font-weight:bolder;}}</style>
 ---
 
 <div id="presentacion">

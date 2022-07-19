@@ -1,15 +1,15 @@
 ---
-title: Artículos de Ciberética
-description: Sección de artículos de Ciberética sobre Cine libre digital y Hardware y software libres.
+title: Artículos de Zine
+description: Sección de artículos de Zine sobre cómo ver, hacer y compartir cine.
 date: 01/01/2022
 lang: es-ES
-author: Ciberética
-keywords: ciberetica, cine libre, coreboot, libreboot, thinkpad, bios, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, cine
+author: pmiramon
+keywords: zine, cine libre, coreboot, libreboot, thinkpad, bios, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, cine
 header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.articulos::before{content:"➞ "; font-weight:bolder;}}</style>
 rights: Creative Commons Non-Commercial Share Alike 3.0
 ---
 
-# Cine libre digital{.title .cine}
+# La cámara{.title .cine}
 
 <div class="presentacion">
 
@@ -33,11 +33,11 @@ Los sensores digitales han facilitado el acceso a crear cine. Los fabricantes a 
 
 </div><br>
 
-# Informática libre y ética{.title .bios}
+# El proyector{.title .bios}
 
 <div class="presentacion">
 
-![](img/X200.png){#logo}
+![](img/z5.png){#logo}
 
 Los ordenadores y la informática en general son cada día mas una carcel. Con cada avance, con cada dispotivo nuevo se crea una nueva jaula para las personas. Nos hacen dependientes. Y un [enlace](https://www.fsf.org/) m explicabo. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste m explicabo. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste m explicabo.
 
@@ -59,11 +59,11 @@ Los ordenadores y la informática en general son cada día mas una carcel. Con c
 
 </div><br>
 
-# Otros artículos{.title .otros}
+# La copia{.title .otros}
 
 <div class="presentacion">
 
-![](img/logo.png){#logo}
+![](img/X200.png){#logo}
 
 Atrás quedaron los principios de colaboración desinteresada sobre los que se basó Internet. La privacidad y los datos. La sostenibilidad de la técnologia es algo que se plantea muy poco. Y un [enlace](https://www.fsf.org/) m explicabo. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste m explicabo. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste m explicabo. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste m explicabo. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste m explicabo. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste.
 

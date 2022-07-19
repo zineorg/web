@@ -27,6 +27,7 @@ En los nombres de archivo, sustituir espacios por guiones para generar el .html 
 
 
 PARA SABER QUE ARCHIVOS MODIFICAR Y CUALES NO COMPARAMOS POR FECHAS? NO SE SI SE PUEDE CREO QUE NO, habra que pensar otra cosa.
+Comparar por hash!
 
 
 Mirar web de error 404
@@ -38,3 +39,5 @@ find textos/ -name "*.md*" | while read i; do pandoc -s "$i" -o "${i%.*}.html"; 
 basename ${prueba%.*}
 
 
+Comando mejorado para hacer todos los md a la vez:
+for f in ../doc/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c src/style.css -B menu.html -A pie.html -o "../$(basename "${f%.*}").html"; done
