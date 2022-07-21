@@ -82,7 +82,7 @@ body {
     margin-top: 0;
     padding-top: 1px;
     padding-bottom: 0.5em;
-    border-bottom: 2px solid #666;
+    border-bottom: 2px solid var(--foreground);
 }
 
 h1.title {
@@ -92,15 +92,14 @@ h1.title {
     color: var(--accent-color);
     padding: 0.3em;
     text-transform: uppercase;
-    border-bottom: 2px solid var(--accent-color);
-    border-top: 2px solid var(--accent-color);
+    border: 3px dashed var(--accent-color);
 }
 
 nav#TOC {
     top: 0;
     text-align: left;
     color: var(--foreground);
-    border: 2px solid #666;
+    border: 2px solid var(--foreground);
     font-size: 0.95em;
     max-width: 50%;
     float: left;
@@ -283,7 +282,7 @@ a.miniatura {
 	margin:  0.25rem;
 	padding:  1rem;
 	width:  100%; 
-	border: 3px dotted var(--foreground);
+	border: 2px dashed var(--foreground);
     text-decoration: none;
     text-align: left;
 }
