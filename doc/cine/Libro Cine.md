@@ -51,6 +51,7 @@ IDEA: artefactos, aparatos pre-cinematógrafo --> contradicción con artefactos 
 2. Educomunicación - Historia del cine, de Enrique Martínez-Salanova Sánchez.
 3. Cinematógrafo de Wikipedia
 4. Precinematografía en Wikipedia
+5. https://museovirtual.filmoteca.unam.mx/ 
 
 # LECTURAS RECOMENDADAS
 
