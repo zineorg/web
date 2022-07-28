@@ -1,0 +1,1 @@
+ pandoc -o libro.epub titulo.txt 01.md 02.md --epub-metadata=metadata.xml --toc --toc-depth=3
