@@ -1,4 +1,12 @@
-## Prefacio
+---
+title: Prefacio
+lang: es
+date: 03/11/1992
+description: Vincent Lowy es profesor universitario y director de la École nationale supérieure (ENS) Louis-Lumière. Sus actividades de investigación forman parte del Eje ISOR del Centro de Historia del Siglo XIX (París 1 - Universidad de la Sorbona - EA 3550) y se centran en las relaciones entre la historia y el cine y las representaciones sociales y memoriales. Ha dirigido varias colecciones de libros sobre la historia y la estética del cine en Le Bord de l'eau Éditions, donde ha publicado sobre todo Marcel Ophuls (2008), Cinéma et mondialisation (2011) y, más recientemente, con Arnaud Duprat, La Maman et la putain, politique de l'intime (2020).
+categoria: cine
+---
+
+# Prefacio
 
 Desde el principio, sabíamos que este Cahier Louis-Lumière dedicado a los años de Aaton sería especial. No nos preocupaba la seriedad del proyecto: Gilles Mouëllic y Giusy Pisano gozan de una sólida reputación por sus trabajos sobre la historia de las técnicas cinematográficas, y no dudábamos de que movilizarían a una gran cohorte de especialistas enteramente dedicados a la causa «aatoniana».
 
@@ -14,6 +22,4 @@ Los múltiples colaboradores reunidos en este volumen cuentan esta historia, cad
 
 En este sentido, es un motivo especial de orgullo y emoción encontrar incluido aquí un artículo de uno de nuestros alumnos, Thomas Weyland, titulado «Aprendiendo la imagen: De la videocámara a la Delta Penélope». Es quizás el mejor homenaje que podríamos rendir a la memoria de Jean-Pierre Beauviala. Porque, como el sobrino de Rameau de Diderot, podría haber dicho: "Aprendí enseñando a los demás, y saqué buenos alumnos..."
 
-### VINCENT LOWY
 
-Vincent Lowy es profesor universitario y director de la École nationale supérieure (ENS) Louis-Lumière. Sus actividades de investigación forman parte del Eje ISOR del Centro de Historia del Siglo XIX (París 1 - Universidad de la Sorbona - EA 3550) y se centran en las relaciones entre la historia y el cine y las representaciones sociales y memoriales. Ha dirigido varias colecciones de libros sobre la historia y la estética del cine en Le Bord de l'eau Éditions, donde ha publicado sobre todo Marcel Ophuls (2008), Cinéma et mondialisation (2011) y, más recientemente, con Arnaud Duprat, La Maman et la putain, politique de l'intime (2020).
