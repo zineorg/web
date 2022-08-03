@@ -14,3 +14,13 @@ Estos datos no se si son 100% exactos, pero es un punto de partida:
 5K en torno a Crop 2x
 EOS M sensor size: 22.3 x 14.9 mm
 EOS M sensor width: 5184px 
+
+Use this formula:
+
+(5184)/(Horizontal resolution you chosen) x 1.6
+
+e.x.
+
+for 2.5k frtp : 2520x1080
+
+(5184)/2520 x 1.6 =3.29
