@@ -1,12 +1,12 @@
 ---
 title: Zine
-description: Cine libre, autonomía digital y privacidad.
-date: 01/01/2022
+description: Página principal de Zine. Por un cine más libre.
+date: 15/05/2020
 lang: es-ES
 author: pmiramon
-keywords: zine, cine libre, coreboot, libreboot, thinkpad, bios, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, cine
+keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>.intro{display:none;}</style>
-rights: Creative Commons Non-Commercial Share Alike 3.0
+rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
 <div class="presentacion">

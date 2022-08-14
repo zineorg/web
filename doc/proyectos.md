@@ -1,11 +1,12 @@
 ---
 title: Proyectos de Ciberética
-description: Sección de artículos sobre Cine libre digital y Hardware y software libres.
-date: 01/01/2022
+description: Sección de proyectos sobre Cine libre digital y Hardware y software libres.
+date: 15/05/2020
 lang: es-ES
-author: Ciberética
-keywords: ciberetica, cinelibre, coreboot, libreboot, thinkpad, bios, software libre, hardware libre, privacidad
+author: pmiramon
+keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.proyectos::before{content:"➞ "; font-weight:bolder;}}</style>
+rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
 <div id="presentacion">
@@ -14,9 +15,9 @@ En Ciberética encontrarás artículos y guías sobre **tecnología libre, auton
 
 <div class="articulos destacados">
 
-[Introducción a los Thinkpad clásicos: el «único» portátil realmente libre](#intro){.miniatura}
+[Micrófonos omnidireccionales estereo de alta sensibilidad](#intro){.miniatura}
 
-[Reciclando un teléfono Android: tu propio mini-servidor portátil](#intro){.miniatura}
+[Batería externa con Sanyo NCR18650GA](#intro){.miniatura}
 
-[Guía para escritores con herramientas de trabajo libres](prueba-texto.html){.miniatura}
+[Plataforma libre de subtitulos](prueba-texto.html){.miniatura}
 </div>

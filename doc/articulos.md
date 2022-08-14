@@ -1,15 +1,15 @@
 ---
 title: Artículos de Zine
 description: Sección de artículos de Zine sobre cómo ver, hacer y compartir cine.
-date: 01/01/2022
+date: 15/05/2020
 lang: es-ES
 author: pmiramon
-keywords: zine, cine libre, coreboot, libreboot, thinkpad, bios, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, cine
+keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.articulos::before{content:"➞ "; font-weight:bolder;}}</style>
-rights: Creative Commons Non-Commercial Share Alike 3.0
+rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-# La cámara{.title .cine}
+# Hacer cine{.title .cine}
 
 <div class="presentacion">
 
@@ -33,7 +33,7 @@ Los sensores digitales han facilitado el acceso a crear cine. Los fabricantes a 
 
 </div><br>
 
-# El proyector{.title .bios}
+# Ver cine{.title .bios}
 
 <div class="presentacion">
 
@@ -59,7 +59,7 @@ Los ordenadores y la informática en general son cada día mas una carcel. Con c
 
 </div><br>
 
-# La copia{.title .otros}
+# Compartir cine{.title .otros}
 
 <div class="presentacion">
 

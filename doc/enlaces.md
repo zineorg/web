@@ -1,10 +1,10 @@
 ---
 title: Enlaces de Ciberética
-description: Sección de artículos sobre Cine libre digital y Hardware y software libres.
-date: 01/01/2022
+description: Enlaces de Zine sobre Cine libre.
+date: 15/05/2020
 lang: es-ES
-author: Ciberética
-keywords: ciberetica, cinelibre, coreboot, libreboot, thinkpad, bios, software libre, hardware libre, privacidad
+author: pmiramon
+keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.enlaces::before{content:"➞ "; font-weight:bolder;}}</style>
 ---
 
