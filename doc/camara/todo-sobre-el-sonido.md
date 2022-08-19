@@ -18,15 +18,17 @@ Luego está la Primo EM258, que es con la que están fabricados los LOM MikroUSI
 
 Basicamente con estas no hay pérdida, se pueden conseguir de segunda mano a precios razonables, sobretodo las olympus, que tienen ---inmerecidamente--- menos fama que las Sony:
 
-Sony (PCM-D50, PCM-D100)
-Olympus LS-100 (XLR)
-SONY PCM-M10
-Olympus (LS-5, LS-10, LS-11)
-Sony PCM-A10
-Roland R-05
-
-Tascam DR-100 MKIII (not MKI or MKII!)
+Sony (PCM-D50, PCM-D100) Los mejores.
+Sony PCM-M10 (Casi igual que los LS-5,10,11 pero más compacto y más caro de conseguir)
+Olympus (LS-5, LS-10, LS-11) Quizá los mejores relación calidad-precio.
+Roland R-05 Buena relación calidad-precio.
 
 Olympus LS-12/14 (Éstas ligeramente peores)[^*]
+Sony PCM-A10
+
+Olympus LS-100 (XLR) Bien, con XLR, pero mas voluminoso y mas caro.
+Tascam DR-100 MKIII (not MKI or MKII!) Mas voluminoso, buena calidad como la LS-100.
+
+
 
 [^*]: http://www.avisoft.com/recorder-tests/
