@@ -28,22 +28,31 @@ Este video lo explica genial: https://www.youtube.com/watch?v=2p5E7iXxeQE
 > Diferenciar entre multifocal, varifocal y parfocal en los zooms.
 > Historia del zoom, es interesante.
 
+¡¡¡Nuevamente, la distancia focal de cualquier primo es el círculo de imagen aproximado!!!
+Un objetivo de 50mm debería cubrir un sensor de 50mm. El sensor FF es de 8/3 pulgadas. La designación de un objetivo con sensor de 2/3 pulgadas es marketing. Los primeros objetivos de Fujian eran todos de 2/3 pulgadas. El 35mm 1.7 cubre m4/3.
+Sin embargo, si hay un cristal en la montura C, entonces es un objetivo negativo, es decir, un "acelerador" que intensifica la luz y restringe el área del círculo de la imagen. Todos los zooms tienen esto. El círculo de la imagen será más pequeño. Las distancias focales más largas probablemente cubrirán m4/3. Así que la mayoría de los zooms de 75mm 2/3 deberían cubrir en el extremo lejano.... sin necesidad de una lente 1.4 o 1.5 o 2x también. Pero no en el extremo ancho.
+Todos los primes para sensores de 2/3 pulgadas, deberían cubrir m4/3 pero no si son F4 o tal vez incluso F2,8. Cualquier cosa más larga que esto también.
+La montura C restringe la cantidad de luz que cae en el sensor. Mostré el objetivo Fujinon 50mm 1.2 acoplado a una bayoneta Leica M de 3000 dólares. A ese se le quitó la montura C.
+
 
 # Marcas de montura C
 
 ## BBB:
 
-Kowa / Navitar 6mm (1")
-Kowa / Navitar 8.5mm (1")
+Kowa LM6HC / Navitar NMV-6M1 6mm f1.8 (1")
+Kowa LM8HC / Navitar 8mm (1")
 
 Fujinon 35mm f1.7 (1" y 2/3")
 
 Angenieux 5.9mm f1.9
 Kinoptik Tegea 5.7mm f/1.8
+Century II Super Wide-Angle 5.7mm F1.8
 Angenieux 17-68/2.2 (muy nitido, cubre m4/3)
 
+Fujinon 25mm f0.85
+Canon C-16 13mm f1.5
 Fuji Photo Optical Fujinon TV 50mm f0.7 (Máquinas de radiografías)
-Canon 25mm f0.73 (cuidado con el elemento trasero)
+Canon 25mm f0.73 (cuidado con el elemento trasero, creo que podría adaptarlo)
 
 Fujinon 12.5-75mm f1.2 Zoom (2/3")
 

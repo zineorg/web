@@ -6,6 +6,8 @@ Buscar: Pixel Binning, Line skipping y que es full resolution of sensor, full se
 When adding the hack "Lvface+aewb", using HDMI monitor or not, if I set the shutter fine tune so that I get between 1/46 and 1/48 (a little above 1/46 gives the appropriate blur we're used to, 1/48 seems faster than expected), the value of the shutter jumps to 1/30 as soon as I hit record. It shows in the recorded file, as you see the exposure ramping up within the first 10 frames or so (using other fine tune values will shift the exposure relative to the value). 
 
 
+Btw., the rolling shutter has nothing to do with raw sensor readout (not sure whether you intended to suggest this in your initial posting). The EOS M actually has 24.0 ms rolling shutter at 2518x1074 center crop raw readout (according to the MagicLantern forums) which is a quite high value. With full sensor readout/the 5K modes, it's even higher.
+
 Estos datos no se si son 100% exactos, pero es un punto de partida:
 1080 RAW Mode [1736x976] = 1.6x Crop Aps-c
 1080 RAW Mode + x3 Crop Mode Enabled 1800px wide = 4.61x Crop (1.6x * 2.88x) 
