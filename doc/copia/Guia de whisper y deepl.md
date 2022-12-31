@@ -34,4 +34,6 @@ Transcribir y traducir del francés al inglés:
 
 ## Traducción manual al Español con DeepL
 
+No funciona particularmente bien esta traducción. Será mejor esperar a que Whisper añada el español.
+
 Generará 3 archivos, vtt, srt y txt. El txt nos puede ser util para traducirlo al Español con DeepL. Luego solo tendremos que ir añadiendo a mano la traducción a las marcas de tiempo. También se podría hacer directamente la traducción del srt, pero el resultado probablemente sea peor, al no entender el contexto de algunas frases.

@@ -39,6 +39,12 @@ La montura C restringe la cantidad de luz que cae en el sensor. Mostré el objet
 
 ## BBB:
 
+Los tres gran angulares rectilíneos:
+
+1. Kowa LM6HC / Navitar NMV-6M1 6mm f1.8 (El mejor en cuanto distorsión y nitidez)
+2. Azure 6.5mm f2 5megapixels (Intermedio entre el azure 1.4 y el kowa)
+3. Azure 6.5mm f1.4 2megapixels (mas barato, algo menos nítido y algo más de distorsión. Aún así, muy similar al Kinoptik Tegea, bastante bueno. Hay 3 versiones, una con focal fija, otra con enfoque, y la última con enfoque y rosca para filtros!)
+
 Kowa LM6HC / Navitar NMV-6M1 6mm f1.8 (1")
 Kowa LM8HC / Navitar 8mm (1")
 
@@ -46,7 +52,7 @@ Fujinon 35mm f1.7 (1" y 2/3")
 
 Angenieux 5.9mm f1.9
 Kinoptik Tegea 5.7mm f/1.8
-Century II Super Wide-Angle 5.7mm F1.8
+Century II Super Wide-Angle 5.7mm F1.8 (Mismo que Kinoptik)
 Angenieux 17-68/2.2 (muy nitido, cubre m4/3)
 
 Fujinon 25mm f0.85
