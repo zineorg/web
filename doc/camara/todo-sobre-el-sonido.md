@@ -5,14 +5,54 @@
 
 Principalmente hay dos cápsulas:
 
-1. Primo EM272 - Made in Japan (sustituyendo a la EM172)
+1. Primo EM272/Z1 - Made in Japan (sustituye a EM172)
 2. PUI AOM-5024L-HD-R - Made in USA
 
 Son muy parecidas. La EM272 está mas extendida y es la utilizada en los micrófonos *USI* de *lom.audio* y en los *Clippy* de *Micboosters*. Más dificil de conseguir, solo he visto que la vendan suelta en micbooster a un precio mas elevado que la AOM. La AOM, según algunas pruebas parece incluso mejor[^*]. Más fácil de conseguir ya que está en *Banzaimusic* y mucho más barata. Tambíen disponible en Digikey y en Mouser.
 
+Each Primo EM272 microphone capsule has just 14 dB of self noise. At this level, they compete with professional microphones costing upwards of $1000.
+
+|  Manufacturer  |   Mic  | Noise | Price |
+|:--------------:|:------:|:-----:|:-----:|
+| Rode           | NT5    | 16 dB | $219  |
+| Sanken         | CS-3e  | 15 dB | $1499 |
+| Audio Technica | AT4021 | 14 dB | $349  |
+| Primo          | EM272  | 14 dB | $20   |
+| Sennheiser     | MKH416 | 13 dB | $999  |
+
+Contacté directamente con Primo.de para presupuesto EM272Z1:
+
+ 
+```
+MOQ per delivery 10pcs
+
+Price per piece € 9,00
+
+Terms of delivery ex Works, we can offer shipment via postal package at € 14,95
+
+Terms of payment in advance
+
+We generally have some quantity of EM272Z1 in stock.
+
+ 
+
+If you do not have a EU valid VAT number, we must charge 19% german VAT.
+```
+
+He calculado que con el cable Mogami y el conector Neutrik bueno, saldría cada stereo de EM272Z1 a 35€. En SeeSound.es venden BBI-L04 Bubblebee.
+
 Luego está la Primo EM258, que es con la que están fabricados los LOM MikroUSI. La venden en Banzaimusic por 9€.
 
 [^*]: https://drbadphil.com/earsight-microphones
+
+
+### Como emparejar capsulas para estéreo
+
+REW: https://www.roomeqwizard.com/
+
+Pair matching microphones:
+
+https://gearspace.com/board/remote-possibilities-in-location-recording-amp-production/1146764-pair-matching-microphones.html
 
 ### Grabadoras
 

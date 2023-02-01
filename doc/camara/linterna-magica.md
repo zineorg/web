@@ -38,3 +38,5 @@ https://www.canonwatch.com/canon-eos-m-a-camera-for-the-ladies-according-to-cano
 Tatoroses.eu tamaño de sensor
 
 Alternativas: Axiom, Elphel, CinePi.
+
+What's the problem with crop factors? Calculate them ... 1736 is the sensor width in 1080p and 5K frtp, 5208 in crop modes, additionally 1.6 because of APS-C sensor. So if you use 1080p or 5K settings with 1736 of width: 1736/1736*1.6 = 1.6x. If you use 2.8K: 5208/2800*1.6=3x.
