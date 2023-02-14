@@ -56,7 +56,7 @@ https://gearspace.com/board/remote-possibilities-in-location-recording-amp-produ
 
 ### Grabadoras
 
-Basicamente con estas no hay pérdida, se pueden conseguir de segunda mano a precios razonables, sobretodo las olympus, que tienen ---inmerecidamente--- menos fama que las Sony:
+Basicamente con estas no hay pérdida, se pueden conseguir de segunda mano a precios razonables, sobretodo las olympus, que tienen menos fama que las Sony:
 
 Sony (PCM-D50, PCM-D100) Los mejores.
 Sony PCM-M10 (Casi igual que los LS-5,10,11 pero más compacto y más caro de conseguir)
@@ -66,9 +66,26 @@ Roland R-05 Buena relación calidad-precio.
 Olympus LS-12/14 (Éstas ligeramente peores)[^*]
 Sony PCM-A10
 
-Olympus LS-100 (XLR) Bien, con XLR, pero mas voluminoso y mas caro.
+Olympus LS-100 (XLR) Algo peor, con XLR, pero mas voluminoso y mas caro.
 Tascam DR-100 MKIII (not MKI or MKII!) Mas voluminoso, buena calidad como la LS-100.
 
+A secondhand LS-11 or LS-5 would be better than LS-12 in my opinion. I've worked with both and the LS-11/5 (they are the same, LS-11 has more internal storage) have more options for custom recording settings. The pre-amps are also a bit better. The secondhand price is more or less the same. I have 3 recorders and used them a lot for al sorts of recordings.
+
+Olympus seem to have forsaken the "professional" side of the audio market. Their newer recorders are marketed for dictation and band practice. Even the LS-100 has a poor PIP mic input.
+
+I’ve now got the Sound Devices MixPre3 and still use my Olympus LS-11 in ‘ultra-light’ situations. 
 
 
 [^*]: http://www.avisoft.com/recorder-tests/
+
+### ¿Dónde comprarlos?
+
+https://www.veldshop.nl/en/clippy-em272-stereo-microphone.html
+
+immsersivesoundscapes
+
+micbooster
+
+lom.audio
+
+
