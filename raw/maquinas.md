@@ -5,12 +5,12 @@ date: 15/05/2020
 lang: es-ES
 author: pmiramon
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
-header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.proyectos::before{content:"➞ "; font-weight:bolder;}}</style>
+header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.maquinas::before{content:"➞ "; font-weight:bolder;}}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
 <div id="presentacion">
-Máquinas libres y sus instrucciones para su fabricación. Si no puedes fabricartelo tú mismo, quizá puedas encontrar a alguien que lo haga por ti en el FAB/LAB. **software y hardware libres**, la reutilización de dispositivos «obsoletos» y la indepencia frente a los gigantes tecnológicos a través de la **descentralización de servicios** ---creemos que todo esto es fundamental para una sociedad justa, igualitaria y sostenible---. Tu ordenador, tu teléfono o tu cámara son tuyos, no del fabricante. No tenemos publicidad, ni mensajes molestos, ni cookies, ni enlaces referidos.
+Hoy sorprende que las cámaras estén tan pobremente diseñadas, que sean tan incómodas y que su coste final sea tan elevado. Las actualmente supermaterialistas y completamente absurdas cámaras son grandes impedimentos a la fabricación racional y económica que es posible y deseable. Aun con más frecuencia los fabricantes aparecen con alguna novedad innecesaria. La calidad técnica de las películas decrece constantemente; trabajan para satisfacer alguna fantasía estética y fallan en comprender realmente la imagen y el sonido como arte. Mientras, los cineastas están mas polarizados a elegir unicamente entre lo industrial o lo doméstico, obviando un lugar intermedio ---como fue la película de 16mm--- hoy inexistente.
 </div>
 
 <div class="articulos destacados">

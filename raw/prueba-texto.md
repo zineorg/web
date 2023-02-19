@@ -4,7 +4,12 @@ lang: es
 date: 03/11/2020
 description: Vincent Lowy es profesor universitario y director de la École nationale supérieure (ENS) Louis-Lumière. Sus actividades de investigación forman parte del Eje ISOR del Centro de Historia del Siglo XIX (París 1 - Universidad de la Sorbona - EA 3550) y se centran en las relaciones entre la historia y el cine y las representaciones sociales y memoriales. Ha dirigido varias colecciones de libros sobre la historia y la estética del cine en Le Bord de l'eau Éditions, donde ha publicado sobre todo Marcel Ophuls (2008), Cinéma et mondialisation (2011) y, más recientemente, con Arnaud Duprat, La Maman et la putain, politique de l'intime (2020).
 categoria: cine
+keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
+header-includes: <style>@media only screen and (min-width:665px) {a.seleccion.textos::before{content:"➞ "; font-weight:bolder;}}</style>
+rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
+
+
 
 ## Introduction: In Praise of Hybridity
 
