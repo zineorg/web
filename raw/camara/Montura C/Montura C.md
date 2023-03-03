@@ -45,18 +45,19 @@ https://www.pacificrimcamera.com/
 Los tres gran angulares rectilíneos:
 
 1. Kowa LM6HC / Navitar NMV-6M1 6mm f1.8 (El mejor en cuanto distorsión y nitidez)
-2. Azure 6.5mm f2 5megapixels (Intermedio entre el azure 1.4 y el kowa)
-3. Azure 6.5mm f1.4 2megapixels (mas barato, algo menos nítido y algo más de distorsión. Aún así, muy similar al Kinoptik Tegea, bastante bueno. Hay 3 versiones, una con focal fija, otra con enfoque, y la última con enfoque y rosca para filtros!)
+2. Azure 6.5mm f2 5megapixels 06520ML5M (Intermedio entre el azure 1.4 y el kowa)
+3. Azure 6.5mm f1.4 2megapixels 0614MLM (mas barato, algo menos nítido y algo más de distorsión. Aún así, muy similar al Kinoptik Tegea, bastante bueno. Hay 3 versiones, una con focal fija, otra con enfoque, y la última con enfoque y rosca para filtros!)
 
 Kowa LM6HC / Navitar NMV-6M1 6mm f1.8 (1")
 Kowa LM8HC / Navitar 8mm (1")
 
 Fujinon 35mm f1.7 (1" y 2/3" supuestamente mas calidad)
 
-Angenieux 5.9mm f1.9
+Angenieux 5.9mm f1.9 Seems the Angenieux 5.9 sadly does vignette on the BMPCC and D16 except in HD mode.
 Kinoptik Tegea 5.7mm f/1.8
 Century II Super Wide-Angle 5.7mm F1.8 (Mismo que Kinoptik)
 Angenieux 17-68/2.2 (muy nitido, cubre m4/3)
+
 CCTV chino 16mm cubre m43
 Pentax 25mm pequeño cubre m43
 
@@ -78,39 +79,34 @@ Tamron / Sony 12.5-50mm f2 (interesante por su reducido tamaño)
 
 Optex 4 mm (Buena calidad)
 Cosmicar 4.8mm (Enfoque fijo)
-
 Cosmicar 6mm
-Cosmicar 6.5mm
+Cosmicar 6.5mm f/1.8 Enfoque fijo
+
 Schneider Variogon Zoom
 Sun / Cosmicar 22.5-90mm
-Kowa 6mm 2/3" ¿Qué tal será de calidad?
-
-Seems the Angenieux 5.9 sadly does vignette on the BMPCC and D16 except in HD mode.
 
 Kowa LM12XC especial para 4/3"!!
 
-MEJORES:
 
-Son muy buenos estos canon para S16, los zooms mas angulares. Muy caros, y monturas PL:
-Canon 8-64mm T2.4 Super-16 Lens (creo que no es cmount, solo PL)
-Canon 7-63mm T2.6 
-
-Canon 17-102mm
-
-Cosmicar 6.5mm f/1.8 Enfoque fijo
-
-Cualquier Angenieux para 16mm
 
 Cine-Nikkor 13mm RARO
 
 Kowa Prominar 8.5mm muy bueno!
-Kowa / Navitar 6mm 1" C MOUNT MUY BUENO!
 Schneider Variogon Zoom en CMOUNT BUENO!
 
 ### ZOOMS
 
 Investigar los zooms gran angular de 2/3" que hay, sobretodo Fujinon y Canon.
 Fujinon 5.5-47mm  fujinon a8.5x5.5berm-28c
+
+MEJORES:
+
+Son muy buenos estos canon para S16, los zooms mas angulares. Muy caros, y monturas PL:
+Canon 8-64mm T2.4 Super-16 Lens
+Canon 7-63mm T2.6 
+
+Canon 17-102mm
+Cualquier Angenieux para 16mm
 
 A few suggestions of 1" zooms. Image quality of these can vary but some can be as good as the expensive Super 16 PL mount zooms.
 Canon’s 1″ lenses have a model number starting “PV” or “V”, the 2/3″ lenses start with a “J”. The Canon V6x17, f2 17-102mm covers the micro 4/3rds sensor pretty well with just a little vignetting at the shorter end. The Canon V6x16, f1.9 16-100mm vignettes a little more but is still usable on some subjects. 

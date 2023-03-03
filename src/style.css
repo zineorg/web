@@ -282,6 +282,16 @@ a.miniatura {
     text-align: left;
 }
 
+.tarjeta {
+    display: inline-block;
+	margin:  0.25rem;
+	padding:  1rem;
+	width:  100%; 
+	border: 3px dashed var(--foreground);
+    text-decoration: none;
+    text-align: left;
+}
+
 .cine {
     
 }
@@ -356,10 +366,10 @@ sup {
         max-width: fit-content;
     }
     
-    .presentacion {
+/*    .presentacion {
         display: flex;
         flex-direction: column-reverse;
-    }
+    }*/
 
 }
 
