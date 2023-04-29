@@ -61,7 +61,7 @@ Angenieux 17-68/2.2 (muy nitido, cubre m4/3)
 CCTV chino 16mm cubre m43
 Pentax 25mm pequeño cubre m43
 
-Fujinon 25mm f0.85
+Fujinon 25mm f0.85 (Parece fácil de adaptar y de calidad)
 Canon C-16 13mm f1.5
 Fuji Photo Optical Fujinon TV 50mm f0.7 (Máquinas de radiografías)
 Canon 25mm f0.73 (cuidado con el elemento trasero, creo que podría adaptarlo)
