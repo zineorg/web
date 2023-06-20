@@ -262,47 +262,28 @@ footer {
     padding: 0.5em;
 }
 
-.articulos {
+.botonera {
     column-width: 10em;
 	column-gap: 0.5em;
 
 }
 
-.articulos p {
+.botonera p {
     margin: 0;
 }
 
-a.miniatura {
+a.boton {
     display: inline-block;
 	margin:  0.25rem;
 	padding:  1rem;
 	width:  100%; 
 	border: 2px dashed var(--foreground);
     text-decoration: none;
+    text-align: center;
+}
+
+a.articulo {
     text-align: left;
-}
-
-.tarjeta {
-    display: inline-block;
-	margin:  0.25rem;
-    margin-bottom:  1.5rem;
-	padding:  1rem;
-	width:  100%; 
-	border: 3px dashed var(--foreground);
-    text-decoration: none;
-    text-align: left;
-}
-
-.cine {
-    
-}
-
-.bios {
-    
-}
-
-.otros {
-    
 }
 
 .acercade {

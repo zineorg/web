@@ -30,3 +30,5 @@ Persona que usaba x3 crop + x3 bitrate in h.264 CineStyle LUT ---parece interesa
 i begin with bringing the contrast back(i apply technicolor cinestyle in camera). if shadows are still discernible, i will increase blacks, at times all the way to -150. with color–it depends of course, but what i ended up doing most of the time was white balancing towards the cool side and then making shadows warmer. if need be, i adjust the highlights manually to increase the blues there. the clearest example is the thumbnail. hope that helps!
 
 Revisar video https://www.youtube.com/watch?v=C4tgQoqvf0w
+
+Darkframe https://www.youtube.com/watch?v=7a1BiALs6_4

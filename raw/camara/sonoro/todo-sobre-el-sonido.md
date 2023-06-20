@@ -68,7 +68,7 @@ Roland R-05 Buena relación calidad-precio.
 Olympus LS-12/14 (Éstas ligeramente peores)[^*]
 Sony PCM-A10
 
-Olympus LS-100 (XLR) Algo peor, con XLR, pero mas voluminoso y mas caro.
+Olympus LS-100 (XLR) Algo peor, con XLR, pero mas voluminoso y mas caro.(Great preamps and fairly good onboard mics. Terrible software and proprietary batteries)
 Tascam DR-100 MKIII (not MKI or MKII!) Mas voluminoso, buena calidad como la LS-100.
 
 ZOOM F3 (Problemas de estabilidad en largas duraciones o con EM272, no tiene PIP, peor rendimiento con EM272 al no tener entrada minijack y PIP!!)
@@ -96,4 +96,7 @@ micbooster
 
 lom.audio
 
+https://sonorousobjects.nyc/products/so-1-omni-microphone
 
+
+https://whamelectronics.com/product/geophone-sismophone/
