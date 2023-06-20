@@ -76,9 +76,8 @@ body {
     text-align: center;
     border: 3px dashed var(--foreground);
     padding: 0.2em;
-    line-height: 3em;
     margin-bottom: 2em;
-    
+    padding: 1em;
 }
 
 .cuerpo {
