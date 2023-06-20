@@ -8,7 +8,7 @@ keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnolog
 header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.maquinas::before{content:"➞ "; font-weight:bolder;}}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
-
+<div class="alerta">Atención: ¡Esta máquina se encuentra bajo desarrollo!</div>
 <div class="presentacion">
 ![](img/camara.svg){#logo}
 

@@ -68,6 +68,19 @@ body {
 .menu a.logo:hover {
 }
 
+.alerta {
+    font-weight: bolder;
+    color: var(--foreground);
+    text-transform: uppercase;
+    background-color: #ffe377;
+    text-align: center;
+    border: 3px dashed var(--foreground);
+    padding: 0.2em;
+    line-height: 3em;
+    margin-bottom: 2em;
+    
+}
+
 .cuerpo {
     line-height: 1.5em;
     margin-top: 2.5em;
