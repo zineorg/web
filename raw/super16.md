@@ -11,26 +11,16 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 <div class="alerta">Atención: ¡Esta máquina se encuentra bajo desarrollo!</div>
 <div class="presentacion">
 
-Punto de vista técnico y ético sobre las máquinas para captar la imagen y el sonido. Cámaras, ópticas, monturas, técnica, modificaciones, grabadoras y micrófonos, inventores, prototipos, firmwares, revelado, etalonaje y corrección de color, montaje. Los sensores digitales han facilitado el acceso a crear cine. Los fabricantes a su vez, solo han mirado por el beneficio económico. No hay en el mercado alternativa a las antiguas cámaras de cine «no profesional» de 8 y 16mm.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-![Vista de ventilación, grip y montura C.](img/camara1.svg){}
+<br>
 
-Punto de vista técnico y ético sobre las máquinas para captar la imagen y el sonido. Cámaras, ópticas, monturas, técnica, modificaciones, grabadoras y micrófonos, inventores, prototipos, firmwares, revelado, etalonaje y corrección de color, montaje. Los sensores digitales han facilitado el acceso a crear cine. Los fabricantes a su vez, solo han mirado por el beneficio económico. No hay en el mercado alternativa a las antiguas cámaras de cine «no profesional» de 8 y 16mm.
+![](img/camara1.svg){}
 
-![Vista de compartimento de baterías 18650.](img/camara2.svg){}
+<br>
 
-</div>
+![](img/camara2.svg){}
 
-<div class="botonera">
-
-[Fabricación y montaje](#intro){.boton}
-
-[Guía de uso](#intro){.boton}
-
-[Descargar objetos 3D](#intro){.boton}
-
-[Comprar](#intro){.boton}
-
-[Soporte](#intro){.boton}
+<br>
 
 </div>

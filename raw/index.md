@@ -9,7 +9,7 @@ header-includes: <style>.intro{display:none;}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-Zine es un punto de encuentro en torno al cine libre. Parte de un concepto de «autoconstrucción», defendiendo la idea de que cada uno puede y debe construir sus propias herramientas para capturar imagenes y sonidos, de una manera independiente y alternativa a la industria. Con el formato digital como relevo natural y necesario a la película analógica, desde un punto de vista tanto ético como puramente estético. Adoptando para la imagen y el sonido sistemas de trabajo artesanales, generalmente relegados a la película tradicional, herencia de un cine basado en un arte profundamente humano ---y su inevitable relación con las máquinas---, que poco tienen que ver con el consumo y la rentabilidad económica.
+Zine es un fab·lab de artefactos libres y de bajo coste para capturar sonidos e imagenes. Partiendo del concepto de «autoconstrucción», defendemos la idea de que cada uno puede construir sus propias herramientas y debe tener acceso a la información para entenderlas, repararlas y mejorarlas. De manera alternativa a la industria, priorizamos el uso de materiales de alta calidad y con la menor huella ecológica posible.
 
 <div class="botonera">
 
@@ -25,8 +25,6 @@ Zine es un punto de encuentro en torno al cine libre. Parte de un concepto de «
 
 [Quis nostrud exercitation ullalaboris nisi ut aliquip ex ea commodo consequat.](#intro){.boton .articulo}
 
-[Comprar](#intro){.boton}
-
-[Ut enim explicabo.](#intro){.boton .articulo}
+[Quis nostrud exercitation ullalaboris. Quis nostrud exercitation ullalaboris. Quis nostrud exercitation ullalaboris.](#intro){.boton}
 
 </div>

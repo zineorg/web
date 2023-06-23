@@ -1,6 +1,6 @@
 ---
 title: Acerca de Zine
-description: Zine es un proyecto de cine que engloba desde la captura de imagenes y sonidos mediante herramientas libres, hasta su proyección y distribución por canales alternativos al cine basado en el dinero. El proyecto está principalmente centrado en establecer una relación entre las máquinas y las personas, la técnica y la historia del cine, una historia marginada por la industria. Punto de encuentro para personas interesadas en un cine libre.<hr class="descripcion">
+description: Zine es un fab·lab de artefactos libres y de bajo coste para capturar sonidos e imagenes. Partiendo del concepto de «autoconstrucción», defendemos la idea de que cada uno puede construir sus propias herramientas y debe tener acceso a la información para entenderlas, repararlas y mejorarlas. De manera alternativa a la industria, priorizamos el uso de materiales de alta calidad y con la menor huella ecológica posible.<hr class="descripcion">
 lang: es
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
@@ -10,7 +10,7 @@ categoria: acercade
 
 ## Proyecto
 
-Basado en la introducción a la autoconstrucción de casas de Ken Kern, completamente extrapolable a las máquinas de cine. Zine parte del concepto de «autoconstrucción», que establece la idea de que cada uno puede y debe construir sus propias máquinas, de una manera independiente y como alternativa a la industria del cine y a los cineastas que lo representan. Aún hoy sorprende que las cámaras estén tan pobremente diseñadas, que sean tan incómodas y que su coste final sea tan elevado. Algunos culpan a las imposiciones de los fabricantes; otros piensan que es lo que la gente solicita. Aun con más frecuencia los fabricantes aparecen con alguna novedad, como una *cámara súper lenta*, una estabilización robótica, o una altísima sensibilidad. Cada persona en la industria parece estar muy atareada en conseguir mejoras dentro de su especialidad, pero la calidad técnica de las películas decrece constantemente; trabajan para satisfacer alguna fantasía estética y fallan en comprender realmente la imagen y el sonido como arte. Es  nuestra tendencia hacia la especialización ---que se alimenta de un fallo básico por parte de todo nuestro sistema educativo--- la responsable de nuestra incapacidad de satisfacer directamente nuestras propias necesidades. Straub escuchó¹ a Godard decir: «Los progresos técnicos vienen acompañados por una regresión artística tal que dejan de tener importancia».
+Basado en la introducción a la autoconstrucción de casas de Ken Kern, completamente extrapolable a las máquinas de cine. Zine parte del concepto de «autoconstrucción», que establece la idea de que cada uno puede y debe construir sus propias máquinas, de una manera independiente y como alternativa a la industria del cine y a los cineastas que lo representan. Aún hoy sorprende que las cámaras estén tan pobremente diseñadas, que sean tan incómodas y que su coste final sea tan elevado. Algunos culpan a las imposiciones de los fabricantes; otros piensan que es lo que la gente solicita. Aun con más frecuencia los fabricantes aparecen con alguna novedad, como una *cámara súper lenta*, una estabilización robótica, o una altísima sensibilidad. Cada persona en la industria parece estar muy atareada en conseguir mejoras dentro de su especialidad, pero la calidad técnica de las películas decrece constantemente; trabajan para satisfacer alguna fantasía estética y fallan en comprender realmente la imagen y el sonido como arte. Es nuestra tendencia hacia la especialización ---que se alimenta de un fallo básico por parte de todo nuestro sistema educativo--- la responsable de nuestra incapacidad de satisfacer directamente nuestras propias necesidades. Straub escuchó¹ a Godard decir: «Los progresos técnicos vienen acompañados por una regresión artística tal que dejan de tener importancia».
 Esta web, pandoc, fuente tipográfica, código fuente, github.
 
 ![Tabú de Miguel Gomes.](/home/pablo/zine/img/tabu.png)
@@ -21,7 +21,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ## Web
 
-¡Únete a nuestro canal de telegram! Se habla tanto en español como en inglés.
+¡Únete a nuestro canal de telegram!
 
 ## Licencia
 
