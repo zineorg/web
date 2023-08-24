@@ -19,14 +19,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div class="botonera">
 
-[Fabricación y montaje](#intro){.boton}
+[Fabricación](#intro){.boton}
 
-[Guía de uso](#intro){.boton}
-
-[Descargar objetos 3D](#intro){.boton}
+[Descargar 3D](#intro){.boton}
 
 [Comprar](#intro){.boton}
-
-[Soporte](#intro){.boton}
 
 </div>
