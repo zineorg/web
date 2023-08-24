@@ -9,7 +9,7 @@ header-includes: <style>.intro{display:none;}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-Zine es un laboratorio de fabricación de máquinas libres para capturar sonidos e imágenes, con acceso abierto a la documentación de su diseño y construcción, permitiendo su comprensión, replicación, reparación y mejora. También encontrarás pequeñas notas sobre la relación ---de dependencia--- entre la tecnología, la técnica y el arte sonoro y cinematográfico.
+Zine is a fablab of open source machines to capture sounds and images, with free access to the documentation of their design and construction, allowing their understanding, replication, repair and improvement. You will also find short notes on the relationship -of dependence- between technology, technique and sound and film art.
 
 <div class="botonera">
 
