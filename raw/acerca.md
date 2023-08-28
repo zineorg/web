@@ -1,6 +1,6 @@
 ---
 title: Acerca de Zine
-description: Zine parte del concepto de «autoconstrucción», que establece la idea de que cada uno puede y debe construir sus propias máquinas, de una manera independiente y como alternativa a la industria y a quienes adoptan sus mismas fórmulas de consumo, dependencia y obsolescencia.<hr class="descripcion">
+description: Zine parte del concepto de «autofabricación», que establece la idea de que cada uno debe tener el acceso a entender, construir, modificar o reparar sus propias máquinas, de una manera independiente y como alternativa a la industria y a quienes adoptan sus mismas fórmulas de consumo, dependencia y obsolescencia.<hr class="descripcion">
 lang: es
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>

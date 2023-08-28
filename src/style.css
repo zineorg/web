@@ -321,6 +321,24 @@ sup {
     padding: 0.20em;
 }
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+th, td {
+  border: 2px dashed var(--foreground);
+  padding: 0.5em;
+}
+
+thead {
+  background-color: #00000021;
+  text-transform: uppercase;
+}
+
+
 /* ESTILOS POR DEFECTO DE PANDOC
     Puede que sean prescindibles */
 
