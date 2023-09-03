@@ -5,7 +5,7 @@ date: 15/05/2020
 lang: es-ES
 author: pmiramon
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
-header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.carbon::before{content:"➞ "; font-weight:bolder;}}</style>
+header-includes: <style>.intro{display:none;} @media only screen and (min-width:665px) {a.seleccion.microfonos::before{content:"➞ "; font-weight:bolder;}}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
