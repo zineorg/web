@@ -17,7 +17,7 @@ Zine es un laboratorio de fabricación de máquinas libres para capturar sonidos
 
 [Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.](#intro){.boton .articulo}
 
-[Este es un artículo de texto que se justifica con guiones.](prueba-texto.html){.boton .articulo}
+[Este es un artículo de texto que se justifica con guiones.](/notas/prueba-texto.html){.boton .articulo}
 
 [Ut enim explicabo.](#intro){.boton .articulo}
 
