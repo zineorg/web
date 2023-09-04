@@ -1,6 +1,6 @@
 ---
 title: Acerca de Zine
-description: Puede que encuentres algún error pmiramon@protonmail.com <hr class="descripcion">
+description: Este sitio web no te rastrea ni recoge ningún dato. No hay cookies ni ventanas emergentes, como tampoco anuncios ni enlaces referidos. Su diseño es estático y ligero. Nuestra tipografía prioriza la legibilidad, incluso para lectores con discapacidad visual parcial. El código fuente es libre y está disponible en nuestro repositorio. <hr class="descripcion">
 lang: esp
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
@@ -10,20 +10,20 @@ categoria: acercade
 
 ## Proyecto
 
-Zine parte del concepto de «autofabricación», que establece la idea de que cada uno debe tener el acceso a entender, construir, modificar o reparar sus propias máquinas, de una manera independiente y como alternativa a la industria y a quienes adoptan sus mismas fórmulas de consumo, dependencia y obsolescencia. 
+Zine parte del concepto de «autofabricación», que establece la idea de que cada uno debe tener el acceso a entender, construir, modificar o reparar sus propias máquinas, de una manera independiente y como alternativa a la industria y a quienes adoptan sus mismas fórmulas de consumo, dependencia y obsolescencia.
 
-En la actualidad es posible autofabricar ---o que alguien lo haga por ti--- cámaras para hacer cine y micrófonos de alta calidad por muy poco dinero. Sin dependencia de los grandes fabricantes y sus restricciones. Sin la resignación de aceptar sus novedades, basadas en tendencias y en modas. También es posible reutilizar y adaptar «viejas» ópticas de cine y televisión a éstas cámaras.
+En la actualidad es posible fabricar cámaras para hacer cine y micrófonos de alta calidad por muy poco dinero y con herramientas relativamente accesibles. Sin dependencia de los grandes ---y no tan grandes--- fabricantes y sus restricciones, con sus novedades basadas en tendencias y en modas. Sus diseños siempre se basan en ocultar información: no sabes lo que comprás, ni con qué ni cómo está construido, ni mucho menos cómo arreglarlo, mejorarlo o reproducirlo.
 
-Este sitio web no te rastrea. No se recoge ningún dato. No hay cookies ni ventanas emergentes. Tampoco anuncios ni enlaces referidos. Esta web es estática y ligera, y está creada con Pandoc. Su fuente tipográfica es legible para lectores con discapacidad visual parcial. El código fuente está disponible en Github. Los modelos 3D son diseñados con FreeCAD. 
+Otro punto fundamental es la reutilización y adaptación de material, como «viejas» ópticas de cine y televisión, grabadoras de audio usadas y la creación de accesorios a partir de otros productos, como soportes y protectores para el viento.
 
-Otros proyectos cercanos son: Magic Lantern, AXIOM, CinePI, Libreboot/Coreboot y FreeCAD. También nos inspiramos en grandes inventores y cineastas como Jean-Pierre Beauviala o José Val del Omar, quienes marcaron el camino.
+Todo lo que forma parte de Zine está creado únicamente con software libre: desde la propia página web, creada sobre Pandoc, Inkscape e ImageMagick, hasta los modelos 3D ---que son diseñados con FreeCAD---. Una gran fuente de inspiración son los proyectos de Magic Lantern, AXIOM, CinePI, Libreboot/Coreboot, etc. También grandes inventores y cineastas como Jean-Pierre Beauviala o José Val del Omar, quienes marcaron el camino.
 
 ## Licencia
 
-Salvo que se indique lo contrario, todo el contenido de Zine está publicado bajo una licencia libre CC BY-SA 4.0. Eres libre de compartir, copiar y redistribuir el material en cualquier medio o formato; también de adaptarlo, remezclarlo, transformarlo y crear a partir del material para cualquier finalidad, con la condición de compartir siempre éstas contribuciones bajo esta misma licencia. También deberás reconocer adecuadamente la autoría, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puedes hacerlo de cualquier manera razonable, y si tienes alguna duda, siempre puedes contactar conmigo.
+Salvo donde se indique lo contrario, todo el contenido de Zine está publicado bajo una licencia libre CC BY-SA 4.0. Eres libre de compartir, copiar y redistribuir el material en cualquier medio o formato; también de adaptarlo, remezclarlo, transformarlo y crear a partir del material para cualquier finalidad, con la condición de compartir siempre éstas contribuciones bajo esta misma licencia. También deberás reconocer adecuadamente la autoría, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puedes hacerlo de cualquier manera razonable.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-## Donar
+## Contacto
 
-
+Si necesitas contactar conmigo: pmiramon {arroba} protonmail {punto} com
