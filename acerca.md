@@ -1,6 +1,6 @@
 ---
 title: Acerca de Zine
-description: Si encuentras un error, tienes una propuesta o necesitas ayuda, puedes contactar conmigo a través de mi dirección de correo pmiramon@protonmail.com <hr class="descripcion">
+description: Puede que encuentres algún error pmiramon@protonmail.com <hr class="descripcion">
 lang: esp
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
