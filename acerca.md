@@ -1,6 +1,6 @@
 ---
 title: Acerca de Zine
-description: Zine es un laboratorio de fabricación de máquinas libres para capturar sonidos e imágenes, con acceso abierto a la documentación de su diseño, permitiendo su comprensión, replicación, reparación y mejora. También encontrarás pequeñas notas sobre la relación —de dependencia— entre la tecnología, la técnica y el arte sonoro y cinematográfico. <hr class="descripcion">
+description: Zine es un laboratorio de fabricación de máquinas libres para capturar sonidos e imágenes, con acceso abierto a la documentación de su diseño. También encontrarás pequeñas notas sobre la relación —de dependencia— entre la tecnología, la técnica y el arte sonoro y cinematográfico. <hr class="descripcion">
 lang: esp
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
@@ -10,9 +10,9 @@ categoria: acercade
 
 ## Proyecto
 
-Zine parte del concepto de «autofabricación», que establece la idea de que cada uno debe tener el acceso a entender, construir, modificar o reparar sus propias máquinas, de una manera independiente y como alternativa a la industria y a quienes adoptan sus mismas fórmulas de consumo, dependencia y obsolescencia.
+Zine parte del concepto de «autofabricación», que establece la idea de que cada uno debe tener el acceso a comprender, reproducir, modificar o reparar sus propias máquinas, de una manera independiente y como alternativa a la industria y a quienes adoptan sus mismas fórmulas de consumo, dependencia y obsolescencia.
 
-En la actualidad es posible crear cámaras para hacer cine y micrófonos de alta calidad por muy poco dinero y con herramientas relativamente accesibles. Sin dependencia de los grandes ---y no tan grandes--- fabricantes y sus restricciones, con novedades basadas en tendencias y en modas. Sus filosofía es siempre ocultar información: no sabes lo que comprás, ni con qué ni cómo está construido, ni mucho menos cómo arreglarlo, reproducirlo o adaptarlo a tus necesidades.
+En la actualidad es posible crear cámaras para hacer cine y micrófonos de alta calidad por muy poco dinero, con herramientas relativamente accesibles. Sin dependencia de los grandes ---y no tan grandes--- fabricantes y sus restricciones. Su filosofía es siempre ocultar información: no sabes lo que comprás, ni con qué ni cómo está construido, ni mucho menos cómo arreglarlo, replicarlo o adaptarlo a tus necesidades. La mayoría de las veces, son «productos novedad» basados en tendencias y en modas, y por lo tanto, con fecha de caducidad. Necesitamos herramientas con las que puedas establecer una relación a largo plazo.
 
 Otro punto fundamental es la reutilización y adaptación de material, como «viejas» ópticas de televisión y cine, grabadoras de audio usadas y la creación de accesorios a partir de otros objetos, como soportes y protectores para el viento.
 
