@@ -338,6 +338,16 @@ thead {
   text-transform: uppercase;
 }
 
+.idioma {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 10vmin;
+  color: var(--foreground);
+}
+
 
 /* ESTILOS POR DEFECTO DE PANDOC
     Puede que sean prescindibles */
