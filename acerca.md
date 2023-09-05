@@ -1,6 +1,6 @@
 ---
 title: Acerca de Zine
-description: Este sitio web no te rastrea ni recoge ningún dato. No hay cookies ni ventanas emergentes, como tampoco anuncios ni enlaces referidos. Su diseño es estático y ligero. Nuestra tipografía prioriza la legibilidad, incluso para lectores con discapacidad visual parcial. El código fuente es libre y está disponible en nuestro repositorio. <hr class="descripcion">
+description: Zine es un laboratorio de fabricación de máquinas libres para capturar sonidos e imágenes, con acceso abierto a la documentación de su diseño y construcción, permitiendo su comprensión, replicación, reparación y mejora. También encontrarás pequeñas notas sobre la relación —de dependencia— entre la tecnología, la técnica y el arte sonoro y cinematográfico. <hr class="descripcion">
 lang: esp
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
@@ -24,6 +24,6 @@ Salvo donde se indique lo contrario, todo el contenido de Zine está publicado b
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-## Contacto
+## Web
 
-Si necesitas contactar conmigo: pmiramon {arroba} protonmail {punto} com
+Este sitio web estático no te rastrea ni recoge ningún dato. No hay cookies ni ventanas emergentes, como tampoco anuncios ni enlaces referidos. Nuestra tipografía prioriza la legibilidad, incluso para lectores con discapacidad visual. El código fuente es libre y está disponible en nuestro repositorio.
