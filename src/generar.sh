@@ -6,3 +6,7 @@ for f in ../geofono/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantill
 for f in ../camara/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c /src/style.css -B menu.html -A pie.html -o "../camara/$(basename "${f%.*}").html"; done
 for f in ../notas/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c /src/style.css -B menu.html -A pie.html -o "../notas/$(basename "${f%.*}").html"; done
 rm ../README.html
+git add ../ -A
+read mensaje
+git commit -m "$mensaje"
+git push origin main
