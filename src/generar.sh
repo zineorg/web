@@ -7,6 +7,7 @@ for f in ../camara/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla
 for f in ../notas/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c /src/style.css -B menu.html -A pie.html -o "../notas/$(basename "${f%.*}").html"; done
 rm ../README.html
 git add ../ -A
+echo "Introduce el mensaje para el commit:"
 read mensaje
 git commit -m "$mensaje"
 git push origin main
