@@ -349,6 +349,10 @@ thead {
   text-decoration: none;
 }
 
+.idioma a {
+  text-decoration: none;
+}
+
 
 /* ESTILOS POR DEFECTO DE PANDOC
     Puede que sean prescindibles */
