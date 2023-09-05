@@ -11,3 +11,5 @@ echo "Introduce el mensaje para el commit:"
 read mensaje
 git commit -m "$mensaje"
 git push origin main
+# Esperar a que el usuario presione Enter antes de salir
+read -p "Presiona Enter para salir..."
