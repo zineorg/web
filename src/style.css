@@ -346,6 +346,7 @@ thead {
   align-items: center;
   font-size: 10vmin;
   color: var(--foreground);
+  text-decoration: none;
 }
 
 
