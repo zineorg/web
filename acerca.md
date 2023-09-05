@@ -20,7 +20,7 @@ Otro punto fundamental es la reutilización y adaptación de material, como «vi
 
 ## Web
 
-Este sitio web es estático y ligero, lo que ayuda a reducir el creciente consumo de internet[^1]. No te rastrea ni recoge ningún dato, no hay cookies ni ventanas emergentes, como tampoco anuncios ni enlaces referidos. Nuestra tipografía prioriza la legibilidad, incluso para lectores con discapacidad visual. El código fuente es libre y está disponible en nuestro repositorio[^3].
+Este sitio web es estático y ligero, lo que ayuda a reducir el creciente consumo de internet[^2]. No te rastrea ni recoge ningún dato, no hay cookies ni ventanas emergentes, como tampoco anuncios ni enlaces referidos. Nuestra tipografía prioriza la legibilidad, incluso para lectores con discapacidad visual. El código fuente es libre y está disponible en nuestro repositorio[^3].
 
 [^2]: https://solar.lowtechmagazine.com/2015/10/why-we-need-a-speed-limit-for-the-internet/
 [^3]: https://github.com/
