@@ -31,9 +31,9 @@ Los geófonos constan de un sensor sensible al movimiento, generalmente una masa
 
 <div class="botonera">
 
-[Fabricación](#intro){.boton}
+[Instrucciones](#intro){.boton}
 
-[Descargar 3D](#intro){.boton}
+[Archivos 3D](#intro){.boton}
 
 [Comprar](#intro){.boton}
 
