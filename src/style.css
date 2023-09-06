@@ -154,6 +154,9 @@ p.descripcion {
 
 #logo-izq {
     float: left;
+    padding: 1em;
+    margin: 0;
+    max-width: 50%;
 }
 
 p {
