@@ -152,6 +152,10 @@ p.descripcion {
     max-width: 50%;
 }
 
+#logo-izq {
+    float: left;
+}
+
 p {
     -moz-hyphens: auto;
     hyphens: auto;
