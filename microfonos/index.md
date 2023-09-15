@@ -1,7 +1,7 @@
 ---
-title: Artículos de Zine
-description: Sección de artículos de Zine sobre cómo ver, hacer y compartir cine.
-date: 15/05/2020
+title: Micrófonos de Zine
+description: Micrófonos libres de Zine.
+date: 15/11/2023
 lang: es-ES
 author: pmiramon
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
@@ -22,7 +22,7 @@ Los **MicroFono** unde omnis iste natus error sit voluptatem accusantium dolorem
 
 [Archivos 3D](#intro){.boton}
 
-[Comprar](#intro){.boton}
+[Artífices](#intro){.boton}
 
 </div>
 
@@ -39,8 +39,8 @@ Los **Fono** son omnis iste natus error sit voluptatem accusantium doloremque la
 
 [Instrucciones](#intro){.boton}
 
-[Archivos 3D](#intro){.boton}
+[Modelo 3D](#intro){.boton}
 
-[Comprar](#intro){.boton}
+[Artífices](#intro){.boton}
 
 </div>
