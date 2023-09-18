@@ -12,7 +12,7 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 <div class="presentacion">
 ![](img/carbon.svg){#logo}
 
-Los **MicroFono** unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Los **MicroFono** son los mas pequeños microfonos omnidireccionales de alta sensibilidad. Están basados en la cápsula AOM-5024L-HD-R y llevan un conector mini jack de 3,5mm para alimentación PIP y el cable de micrófono mas pequeño Mogami de tan solo 2mm de diamentro. Su diseño tiene la capsula en el sitio perfecto, tiene un agarre para que los paravientos siempre queden en su posición correcta sin posibilidad de salirse y una zona dónde conectar el clip de las pinzas. Están diseñados para ser impresos en PETG+CF. Son los mas discretos y portables, y también pueden ser utilizados directamente con cualquier DSLR. dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
 
 </div>
 
@@ -22,7 +22,7 @@ Los **MicroFono** unde omnis iste natus error sit voluptatem accusantium dolorem
 
 [Archivos 3D](#intro){.boton}
 
-[Artífices](#intro){.boton}
+[Ayuda](#intro){.boton}
 
 </div>
 
@@ -39,8 +39,8 @@ Los **Fono** son omnis iste natus error sit voluptatem accusantium doloremque la
 
 [Instrucciones](#intro){.boton}
 
-[Modelo 3D](#intro){.boton}
+[Accesorios](#intro){.boton}
 
-[Artífices](#intro){.boton}
+[Ayuda](#intro){.boton}
 
 </div>
