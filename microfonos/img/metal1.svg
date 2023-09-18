@@ -7,16 +7,46 @@
    viewBox="0 0 112.44644 123.0094"
    version="1.1"
    id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="metal1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="163.53816"
+     inkscape:cy="227.15802"
+     inkscape:window-width="1865"
+     inkscape:window-height="1172"
+     inkscape:window-x="55"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-187.94662,-169.85507)">
     <g
        id="g6235"
-       transform="matrix(0.1,0,0,0.1,165.71392,157.8136)">
+       transform="matrix(0.1,0,0,0.1,165.71392,157.8136)"
+       style="fill:none">
       <g
          stroke="none"
          fill="#ffffff"
@@ -27,12 +57,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g10"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="M -4.43208e-6,-561.868 C -110.457,-561.868 -200,-498.551 -200,-420.447 c 0,78.105 89.543,141.422 200,141.422 110.457,0 200,-63.317 200,-141.422 0,78.105 -89.543,141.422 -200,141.422 -110.457,0 -200,-63.317 -200,-141.422 v 14.143 -14.143 c 0,-78.104 89.543,-141.421 199.99999556792,-141.421 v 0 C -143.594,-561.868 -260,-479.556 -260,-378.02 v 84.853 c 0,101.536 116.406,183.847 260,183.847 143.594,0 260,-82.311 260,-183.847 0,101.536 -116.406,183.847 -260,183.847 -143.594,0 -260,-82.311 -260,-183.847 v 565.685 c 0,-42.909 21.226,-84.466 60,-117.473 -38.774,33.007 -60,74.564 -60,117.473 v -565.685 -84.853 c 0,101.536 116.406,183.848 260,183.848 143.594,0 260,-82.312 260,-183.848 C 260,-479.556 143.594,-561.868 3.72213e-6,-561.868 H -4.43208e-6 C -143.594,-561.868 -260,-479.556 -260,-378.02 c 0,101.536 116.406,183.848 260,183.848 143.594,0 260,-82.312 260,-183.848 v 84.853 565.685 33.941 c 0,7.564 -0.66,15.121 -1.977,22.628 1.317,7.506 1.977,15.063 1.977,22.627 0,101.536 -116.406,183.848 -260,183.848 -143.594,0 -260,-82.312 -260,-183.848 0,-7.564 0.66,-15.121 1.977,-22.627 16.15,92.081 126.803,161.22 258.023,161.22 131.22,0 241.873,-69.139 258.023,-161.22 1.317,7.506 1.977,15.063 1.977,22.627 v 19.799 c 0,101.536 -116.406,183.848 -260,183.848 -143.594,0 -260,-82.312 -260,-183.848 -0.025,24.863 6.714,49.657 19.437,72.303 8.902,15.891 20.7,30.753 34.899,44.125 15.983,15.063 35.013,28.243 56.243,39.059 21.224,10.822 44.648,19.281 69.2597,25.053 26.7301,6.278 54.863,9.378 82.94674,9.155 28.08396,-0.212 56.11886,-3.748 82.65966,-10.441 47.6189,-11.948 90.2619,-34.181 121.1229,-63.683 13.616,-12.977 24.983,-27.336 33.653,-42.659 12.943,-22.811 19.805,-47.826 19.779,-72.912 V 351.714 C 260,453.25 143.594,535.562 0,535.562 c -143.594,0 -260,-82.312 -260,-183.848 v 19.799 -19.799 c 0,-7.564 0.66,-15.121 1.977,-22.627 C -259.34,321.58 -260,314.023 -260,306.459 v -33.941 c 0,34.4 13.649,68.11 39.396,97.298 26.207,70.974 116.867,120.491 220.604,120.491 103.737,0 194.397,-49.517 220.604,-120.491 C 246.351,340.628 260,306.918 260,272.518 v 33.941 c 0,7.564 -0.66,15.121 -1.977,22.628 C 241.873,421.168 131.22,490.307 0,490.307 c -131.22,0 -241.873,-69.139 -258.023,-161.22 C -259.34,321.58 -260,314.023 -260,306.459 v -33.941 c 0,34.4 13.649,68.11 39.396,97.298 47.487,53.834 130.8749,86.55 220.604,86.55 89.7291,0 173.117,-32.716 220.604,-86.55 C 246.351,340.628 260,306.918 260,272.518 c 0,-42.909 -21.226,-84.466 -60,-117.473 38.774,33.007 60,74.564 60,117.473 V -293.167 -378.02 C 260,-479.556 143.594,-561.868 3.72213e-6,-561.868 L 220,-406.304 c 0,-85.916 -98.497,-155.564 -220,-155.564 -121.503,0 -220,69.648 -220,155.564 m 0,0 c 0,85.915 98.497,155.563 220,155.563 121.503,0 220,-69.648 220,-155.563 L 3.72213e-6,-561.868 C 110.457,-561.868 200,-498.551 200,-420.447 v 14.143 c 0,78.104 -89.543,141.421 -200,141.421 -110.457,0 -200,-63.317 -200,-141.421 0,78.104 89.543,141.421 200,141.421 110.457,0 200,-63.317 200,-141.421 v -14.143 C 200,-498.551 110.457,-561.868 3.72213e-6,-561.868"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path8" />
+           id="path8"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -44,12 +75,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g14"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="M -220.604,369.816 C -194.397,440.79 -103.737,490.307 0,490.307 103.737,490.307 194.397,440.79 220.604,369.816 173.117,423.65 89.7291,456.366 0,456.366 c -89.7291,0 -173.117,-32.716 -220.604,-86.55"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path12" />
+           id="path12"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -61,12 +93,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g18"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -260,371.513 c -0.025,24.863 6.714,49.657 19.437,72.303 8.902,15.891 20.7,30.753 34.899,44.125 15.983,15.063 35.013,28.243 56.243,39.059 21.224,10.822 44.648,19.281 69.2597,25.053 26.7301,6.278 54.863,9.378 82.94674,9.155 28.08396,-0.212 56.11886,-3.748 82.65966,-10.441 47.6189,-11.948 90.2619,-34.181 121.1229,-63.683 13.616,-12.977 24.983,-27.336 33.653,-42.659 12.943,-22.811 19.805,-47.826 19.779,-72.912 0,101.536 -116.406,183.848 -260,183.848 -143.594,0 -260,-82.312 -260,-183.848"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path16" />
+           id="path16"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -78,12 +111,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g22"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 8,-399.233 c 0,-3.125 -3.58172,-5.657 -8,-5.657 v 0 c -4.41828,0 -8,2.532 -8,5.657 v -21.214 c 0,0.594 0.13213,1.184 0.39155,1.749 v -3.497 C -7.86787,-421.63 -8,-421.04 -8,-420.447 v 21.214 c 0,3.124 3.58172,5.656 8,5.656 v 0 c 4.41828,0 8,-2.532 8,-5.656 v -21.214 -42.426 c 0,-3.124 -3.58172,-5.657 -8,-5.657 -4.41828,0 -8,2.533 -8,5.657 0,3.124 3.58172,5.657 8,5.657 v 0 c 4.41828,0 8,-2.533 8,-5.657 0,-3.124 -3.58172,-5.657 -8,-5.657 -4.41828,0 -8,2.533 -8,5.657 0,3.124 3.58172,5.657 8,5.657 v 0 c 4.41828,0 8,-2.533 8,-5.657 v 42.426 c 0,-0.593 -0.13213,-1.183 -0.39155,-1.748 -1.07099,-2.33 -4.14264,-3.908 -7.60845,-3.908 v 0 c -3.46581,0 -6.53746,1.578 -7.60845,3.908 C -7.86787,-421.63 -8,-421.04 -8,-420.447 v -42.426 42.426 c 0,0.594 0.13213,1.184 0.39155,1.749 0.52206,1.136 1.53939,2.126 2.90617,2.828 1.36678,0.702 3.01285,1.08 4.70228,1.08 v 0 c 1.68943,0 3.3355,-0.378 4.70228,-1.08 1.36678,-0.702 2.38411,-1.692 2.90617,-2.828 C 7.86787,-419.263 8,-419.853 8,-420.447 v 21.214"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path20" />
+           id="path20"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -95,12 +129,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g26"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -57.0634,-427.9 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path24" />
+           id="path24"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -112,12 +147,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g30"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -35.2671,-380.466 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path28" />
+           id="path28"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -129,12 +165,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g34"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -35.2671,-449.113 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path32" />
+           id="path32"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -146,12 +183,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g38"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 0,-372.363 c 4.41828,0 8,-2.533 8,-5.657 0,-3.124 -3.58172,-5.657 -8,-5.657 v 0 c -4.41828,0 -8,2.533 -8,5.657 0,3.124 3.58172,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path36" />
+           id="path36"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -163,12 +201,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g42"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -57.0634,-401.679 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path40" />
+           id="path40"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -180,12 +219,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g46"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 35.2671,-380.466 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path44" />
+           id="path44"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -197,12 +237,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g50"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 57.0634,-401.679 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path48" />
+           id="path48"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -214,12 +255,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g54"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 35.2671,-449.113 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path52" />
+           id="path52"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -231,12 +273,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g58"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 57.0634,-427.9 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path56" />
+           id="path56"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -248,12 +291,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g62"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 12.9313,-433.032 c 2.4338,1.25 5.6538,1.43 8.3342,0.464 2.6804,-0.966 4.3681,-2.913 4.3681,-5.04 0,-3.125 -3.5818,-5.657 -8,-5.657 -4.4183,0 -8.00004,2.532 -8.00004,5.657 0,1.81 1.22594,3.512 3.29774,4.576"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path60" />
+           id="path60"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -265,12 +309,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g66"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -12.9313,-433.032 c 2.0718,-1.064 3.29774,-2.766 3.29774,-4.576 0,-3.125 -3.58174,-5.657 -8.00004,-5.657 -4.4182,0 -8,2.532 -8,5.657 0,2.127 1.6877,4.074 4.3681,5.04 2.6804,0.966 5.9004,0.786 8.3342,-0.464"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path64" />
+           id="path64"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -282,12 +327,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g70"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 20.9232,-412.143 c 1.2161,2.646 4.9733,4.274 8.86,3.839 3.8867,-0.435 6.7485,-2.805 6.7485,-5.587 0,-2.783 -2.8618,-5.152 -6.7485,-5.588 -3.8867,-0.435 -7.6439,1.193 -8.86,3.84 -0.2594,0.564 -0.3915,1.154 -0.3915,1.748 0,0.593 0.1321,1.183 0.3915,1.748"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path68" />
+           id="path68"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -299,12 +345,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g74"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -20.9232,-412.143 c 0.2594,-0.565 0.3915,-1.155 0.3915,-1.748 0,-0.594 -0.1321,-1.184 -0.3915,-1.748 -1.2161,-2.647 -4.9733,-4.275 -8.86,-3.84 -3.8867,0.436 -6.7485,2.805 -6.7485,5.588 0,2.782 2.8618,5.152 6.7485,5.587 3.8867,0.435 7.6439,-1.193 8.86,-3.839"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path72" />
+           id="path72"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -316,12 +363,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g78"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 20.9232,-412.143 c 1.2161,2.646 4.9733,4.274 8.86,3.839 3.8867,-0.435 6.7485,-2.805 6.7485,-5.587 0,-2.783 -2.8618,-5.152 -6.7485,-5.588 -3.8867,-0.435 -7.6439,1.193 -8.86,3.84 v 3.496"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path76" />
+           id="path76"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -333,12 +381,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g82"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -20.9232,-415.639 v 3.496 c -1.2161,2.646 -4.9733,4.274 -8.86,3.839 -3.8867,-0.435 -6.7485,-2.805 -6.7485,-5.587 0,-2.783 2.8618,-5.152 6.7485,-5.588 3.8867,-0.435 7.6439,1.193 8.86,3.84"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path80" />
+           id="path80"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -350,12 +399,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g86"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -57.0634,-427.9 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 v 11.314"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path84" />
+           id="path84"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -367,12 +417,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g90"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -57.0634,-439.214 v 11.314 c -4.4183,0 -8,-2.533 -8,-5.657 0,-3.124 3.5817,-5.657 8,-5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path88" />
+           id="path88"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -384,12 +435,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g94"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -35.2671,-380.466 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 v 11.314"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path92" />
+           id="path92"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -401,12 +453,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g98"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -35.2671,-391.78 v 11.314 c -4.4183,0 -8,-2.533 -8,-5.657 0,-3.124 3.5817,-5.657 8,-5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path96" />
+           id="path96"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -418,12 +471,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g102"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -35.2671,-449.113 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 v 11.314"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path100" />
+           id="path100"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -435,12 +489,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g106"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -57.0634,-401.679 c 4.4183,0 8,-2.533 8,-5.657 0,-3.124 -3.5817,-5.657 -8,-5.657 v 11.314"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path104" />
+           id="path104"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -452,12 +507,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g110"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 0,-404.89 v 11.313 c -4.41828,0 -8,-2.532 -8,-5.656 0,-3.125 3.58172,-5.657 8,-5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path108" />
+           id="path108"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -469,12 +525,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g114"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 0,-393.577 c 4.41828,0 8,-2.532 8,-5.656 0,-3.125 -3.58172,-5.657 -8,-5.657 v 0 11.313"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path112" />
+           id="path112"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -486,12 +543,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g118"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 0,-372.363 c 4.41828,0 8,-2.533 8,-5.657 0,-3.124 -3.58172,-5.657 -8,-5.657 v 0 11.314"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path116" />
+           id="path116"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -503,12 +561,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g122"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 0,-383.677 v 11.314 c -4.41828,0 -8,-2.533 -8,-5.657 0,-3.124 3.58172,-5.657 8,-5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path120" />
+           id="path120"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -520,12 +579,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g126"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -35.2671,-460.427 v 11.314 c -4.4183,0 -8,-2.533 -8,-5.657 0,-3.124 3.5817,-5.657 8,-5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path124" />
+           id="path124"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -537,12 +597,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g130"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -57.0634,-412.993 v 11.314 c -4.4183,0 -8,-2.533 -8,-5.657 0,-3.124 3.5817,-5.657 8,-5.657"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path128" />
+           id="path128"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -554,12 +615,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g134"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 7.60845,-422.195 v 3.497 c -0.52206,1.136 -1.53939,2.126 -2.90617,2.828 -1.36678,0.702 -3.01285,1.08 -4.70228,1.08 v 0 -11.313 c 3.46581,0 6.53746,1.578 7.60845,3.908"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path132" />
+           id="path132"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -571,12 +633,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g138"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 0,-426.103 v 11.313 c -1.68943,0 -3.3355,-0.378 -4.70228,-1.08 -1.36678,-0.702 -2.38411,-1.692 -2.90617,-2.828 v -3.497 c 1.07099,-2.33 4.14264,-3.908 7.60845,-3.908"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path136" />
+           id="path136"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -588,12 +651,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g142"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="M 7.60845,-418.698 C 7.86787,-419.263 8,-419.853 8,-420.447 c 0,-0.593 -0.13213,-1.183 -0.39155,-1.748 v 3.497"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path140" />
+           id="path140"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -605,12 +669,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g146"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -20.9232,-412.143 c 0.2594,-0.565 0.3915,-1.155 0.3915,-1.748 0,-0.594 -0.1321,-1.184 -0.3915,-1.748 v 3.496"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path144" />
+           id="path144"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -622,12 +687,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g150"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 20.9232,-415.639 v 3.496 c -0.2594,-0.565 -0.3915,-1.155 -0.3915,-1.748 0,-0.594 0.1321,-1.184 0.3915,-1.748"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path148" />
+           id="path148"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -642,12 +708,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g154"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 258.023,329.087 C 259.34,336.593 260,344.15 260,351.714"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path152" />
+           id="path152"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -662,12 +729,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g158"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 260,351.714 C 260,453.25 143.594,535.562 0,535.562 c -143.594,0 -260,-82.312 -260,-183.848"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path156" />
+           id="path156"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -682,12 +750,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g162"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,351.714 c 0,-7.564 0.66,-15.121 1.977,-22.627"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path160" />
+           id="path160"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -702,12 +771,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g166"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 260,306.459 c 0,101.537 -116.406,183.848 -260,183.848 -143.594,0 -260,-82.311 -260,-183.848"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path164" />
+           id="path164"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -722,12 +792,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g174"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,272.518 c 0,101.536 116.406,183.848 260,183.848 143.594,0 260,-82.312 260,-183.848"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path172" />
+           id="path172"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -742,12 +813,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g182"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,272.518 c 0,101.536 116.406,183.848 260,183.848 143.594,0 260,-82.312 260,-183.848"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path180" />
+           id="path180"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -762,12 +834,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g186"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,-293.167 c 0,101.536 116.406,183.847 260,183.847 143.594,0 260,-82.311 260,-183.847"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path184" />
+           id="path184"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -782,12 +855,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g190"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M -4.43208e-6,-561.868 C -143.594,-561.868 -260,-479.556 -260,-378.02"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path188" />
+           id="path188"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -802,12 +876,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g194"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,-378.02 c 0,101.536 116.406,183.848 260,183.848 143.594,0 260,-82.312 260,-183.848"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path192" />
+           id="path192"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -822,12 +897,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g198"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 260,-378.02 C 260,-479.556 143.594,-561.868 3.72213e-6,-561.868"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path196" />
+           id="path196"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -842,12 +918,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g202"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,-293.167 c 0,101.536 116.406,183.847 260,183.847 143.594,0 260,-82.311 260,-183.847"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path200" />
+           id="path200"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -862,12 +939,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g210"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -200,-406.304 c 0,78.104 89.543,141.421 200,141.421 110.457,0 200,-63.317 200,-141.421"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path208" />
+           id="path208"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -882,12 +960,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g214"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 0,-561.868 c -110.457,0 -200,63.317 -200,141.421"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path212" />
+           id="path212"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -902,12 +981,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g218"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -200,-420.447 c 0,78.105 89.543,141.422 200,141.422 110.457,0 200,-63.317 200,-141.422"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path216" />
+           id="path216"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -922,12 +1002,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g222"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 200,-420.447 C 200,-498.551 110.457,-561.868 0,-561.868"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path220" />
+           id="path220"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -942,12 +1023,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g226"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 35.2671,-380.466 c 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path224" />
+           id="path224"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -962,12 +1044,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g230"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 43.2671,-386.123 c 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path228" />
+           id="path228"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -982,12 +1065,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g234"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 27.2671,-386.123 c 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path232" />
+           id="path232"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1002,12 +1086,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g238"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 57.0634,-401.679 c 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path236" />
+           id="path236"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1022,12 +1107,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g242"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 65.0634,-407.336 c 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path240" />
+           id="path240"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1042,12 +1128,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g246"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 49.0634,-407.336 c 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path244" />
+           id="path244"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1062,12 +1149,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g250"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 20.9232,-415.639 c -0.2594,0.564 -0.3915,1.154 -0.3915,1.748"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path248" />
+           id="path248"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1082,12 +1170,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g254"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 20.5317,-413.891 c 0,3.124 3.5817,5.657 8,5.657 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path252" />
+           id="path252"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1102,12 +1191,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g258"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 36.5317,-413.891 c 0,-2.783 -2.8618,-5.152 -6.7485,-5.588 -3.8867,-0.435 -7.6439,1.193 -8.86,3.84"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path256" />
+           id="path256"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1122,12 +1212,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g262"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 57.0634,-427.9 c 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path260" />
+           id="path260"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1142,12 +1233,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g266"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 65.0634,-433.557 c 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path264" />
+           id="path264"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1162,12 +1254,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g270"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 49.0634,-433.557 c 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path268" />
+           id="path268"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1182,12 +1275,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g274"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 35.2671,-449.113 c 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path272" />
+           id="path272"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1202,12 +1296,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g278"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 43.2671,-454.77 c 0,-3.124 -3.5817,-5.657 -8,-5.657 -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path276" />
+           id="path276"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1222,12 +1317,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g282"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 27.2671,-454.77 c 0,3.124 3.5817,5.657 8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path280" />
+           id="path280"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1242,12 +1338,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g286"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 12.9313,-433.032 c 2.4338,1.25 5.6538,1.43 8.3342,0.464 2.6804,-0.966 4.3681,-2.913 4.3681,-5.04"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path284" />
+           id="path284"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1262,12 +1359,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g290"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 25.6336,-437.608 c 0,-3.125 -3.5818,-5.657 -8,-5.657 -4.4183,0 -8.00004,2.532 -8.00004,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path288" />
+           id="path288"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1282,12 +1380,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g294"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 9.63356,-437.608 c 0,1.81 1.22594,3.512 3.29774,4.576"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path292" />
+           id="path292"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1302,12 +1401,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g298"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 0,-383.677 c -4.41828,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path296" />
+           id="path296"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1322,12 +1422,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g302"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -8,-378.02 c 0,3.124 3.58172,5.657 8,5.657 4.41828,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path300" />
+           id="path300"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1342,12 +1443,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g306"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 8,-378.02 c 0,-3.124 -3.58172,-5.657 -8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path304" />
+           id="path304"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1362,12 +1464,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g310"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 0,-404.89 c -4.41828,0 -8,2.532 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path308" />
+           id="path308"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1382,12 +1485,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g314"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -8,-399.233 c 0,3.124 3.58172,5.656 8,5.656 4.41828,0 8,-2.532 8,-5.656"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path312" />
+           id="path312"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1402,12 +1506,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g318"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 8,-399.233 c 0,-3.125 -3.58172,-5.657 -8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path316" />
+           id="path316"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1422,12 +1527,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g322"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -20.9232,-415.639 c -1.2161,-2.647 -4.9733,-4.275 -8.86,-3.84 -3.8867,0.436 -6.7485,2.805 -6.7485,5.588"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path320" />
+           id="path320"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1442,12 +1548,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g326"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -36.5317,-413.891 c 0,3.124 3.5817,5.657 8,5.657 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path324" />
+           id="path324"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1462,12 +1569,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g330"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -20.5317,-413.891 c 0,-0.594 -0.1321,-1.184 -0.3915,-1.748"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path328" />
+           id="path328"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1482,12 +1590,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g334"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -35.2671,-391.78 c -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path332" />
+           id="path332"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1502,12 +1611,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g338"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -43.2671,-386.123 c 0,3.124 3.5817,5.657 8,5.657 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path336" />
+           id="path336"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1522,12 +1632,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g342"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -27.2671,-386.123 c 0,-3.124 -3.5817,-5.657 -8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path340" />
+           id="path340"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1542,12 +1653,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g346"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -57.0634,-412.993 c -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path344" />
+           id="path344"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1562,12 +1674,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g350"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -65.0634,-407.336 c 0,3.124 3.5817,5.657 8,5.657 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path348" />
+           id="path348"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1582,12 +1695,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g354"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -49.0634,-407.336 c 0,-3.124 -3.5817,-5.657 -8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path352" />
+           id="path352"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1602,12 +1716,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g358"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 0,-426.103 c -3.46581,0 -6.53746,1.578 -7.60845,3.908"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path356" />
+           id="path356"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1622,12 +1737,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g362"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 7.60845,-422.195 C 6.53746,-424.525 3.46581,-426.103 0,-426.103"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path360" />
+           id="path360"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1642,12 +1758,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g366"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M -7.60845,-422.195 C -7.86787,-421.63 -8,-421.04 -8,-420.447"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path364" />
+           id="path364"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1662,12 +1779,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g370"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -8,-420.447 c 0,1.811 1.22595,3.513 3.29772,4.577"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path368" />
+           id="path368"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1682,12 +1800,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g374"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 4.70228,-415.87 C 6.77405,-416.934 8,-418.636 8,-420.447"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path372" />
+           id="path372"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1702,12 +1821,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g378"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 8,-420.447 c 0,-0.593 -0.13213,-1.183 -0.39155,-1.748"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path376" />
+           id="path376"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1722,12 +1842,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g382"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -4.70228,-415.87 c 2.8039,1.44 6.60066,1.44 9.40456,0"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path380" />
+           id="path380"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1742,12 +1863,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g386"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -12.9313,-433.032 c 2.0718,-1.064 3.29774,-2.766 3.29774,-4.576"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path384" />
+           id="path384"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1762,12 +1884,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g390"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -9.63356,-437.608 c 0,-3.125 -3.58174,-5.657 -8.00004,-5.657 -4.4182,0 -8,2.532 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path388" />
+           id="path388"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1782,12 +1905,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g394"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -25.6336,-437.608 c 0,2.127 1.6877,4.074 4.3681,5.04 2.6804,0.966 5.9004,0.786 8.3342,-0.464"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path392" />
+           id="path392"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1802,12 +1926,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g398"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 0,-457.216 c 4.41828,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path396" />
+           id="path396"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1822,12 +1947,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g402"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 8,-462.873 c 0,-3.124 -3.58172,-5.657 -8,-5.657 -4.41828,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path400" />
+           id="path400"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1842,12 +1968,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g406"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -8,-462.873 c 0,3.124 3.58172,5.657 8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path404" />
+           id="path404"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1862,12 +1989,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g410"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -57.0634,-439.214 c -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path408" />
+           id="path408"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1882,12 +2010,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g414"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -65.0634,-433.557 c 0,3.124 3.5817,5.657 8,5.657 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path412" />
+           id="path412"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1902,12 +2031,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g418"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -49.0634,-433.557 c 0,-3.124 -3.5817,-5.657 -8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path416" />
+           id="path416"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1922,12 +2052,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g422"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -35.2671,-460.427 c -4.4183,0 -8,2.533 -8,5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path420" />
+           id="path420"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1942,12 +2073,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g426"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -43.2671,-454.77 c 0,3.124 3.5817,5.657 8,5.657 4.4183,0 8,-2.533 8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path424" />
+           id="path424"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1962,12 +2094,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g430"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -27.2671,-454.77 c 0,-3.124 -3.5817,-5.657 -8,-5.657"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path428" />
+           id="path428"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -1982,12 +2115,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g434"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -7.60845,-422.195 v 3.497"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path432" />
+           id="path432"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2002,12 +2136,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g438"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 7.60845,-422.195 v 3.497"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path436" />
+           id="path436"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2022,12 +2157,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g442"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,371.513 c -0.025,24.863 6.714,49.657 19.437,72.303 8.902,15.891 20.7,30.753 34.899,44.125 15.983,15.063 35.013,28.243 56.243,39.059 21.224,10.822 44.648,19.281 69.2597,25.053 26.7301,6.278 54.863,9.378 82.94674,9.155 28.08396,-0.212 56.11886,-3.748 82.65966,-10.441 47.6189,-11.948 90.2619,-34.181 121.1229,-63.683 13.616,-12.977 24.983,-27.336 33.653,-42.659 12.943,-22.811 19.805,-47.826 19.779,-72.912"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path440" />
+           id="path440"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2042,12 +2178,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g446"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,351.714 v 19.799"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path444" />
+           id="path444"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2062,12 +2199,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g450"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 260,351.714 v 19.799"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path448" />
+           id="path448"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2082,12 +2220,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g454"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,272.518 v 33.941"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path452" />
+           id="path452"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2102,12 +2241,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g458"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 260,272.518 v 33.941"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path456" />
+           id="path456"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2122,12 +2262,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g462"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M -260,-293.167 V 272.518"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path460" />
+           id="path460"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2142,12 +2283,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g466"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 260,-293.167 V 272.518"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path464" />
+           id="path464"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2162,12 +2304,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g470"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,-378.02 v 84.853"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path468" />
+           id="path468"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2182,12 +2325,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g474"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 260,-378.02 v 84.853"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path472" />
+           id="path472"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2202,12 +2346,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g478"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -200,-420.447 v 14.143"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path476" />
+           id="path476"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2222,12 +2367,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g482"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 200,-420.447 v 14.143"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path480" />
+           id="path480"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2242,12 +2388,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g502"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260,371.513 c 0,101.536 116.406,183.848 260,183.848 143.594,0 260,-82.312 260,-183.848"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path500" />
+           id="path500"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2262,12 +2409,13 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g510"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 20.9232,-415.639 v 3.496"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path508" />
+           id="path508"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2282,17 +2430,19 @@
          transform="matrix(1,0,0,1.0389344,1083.2913,735.79869)"
          font-size="31.75px"
          id="g522"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -20.9232,-415.639 v 3.496"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path520" />
+           id="path520"
+           style="fill:none" />
       </g>
     </g>
     <g
        id="g5995"
-       transform="matrix(0.1,0,0,0.1,165.71392,156.54997)">
+       transform="matrix(0.1,0,0,0.1,165.71392,156.54997)"
+       style="fill:none">
       <g
          stroke="none"
          fill="#ffffff"
@@ -2303,12 +2453,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g714"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 259.84,480.889 0.005,26.258 c 0.023,9.227 -2.681,18.302 -7.312,26.303 -2.998,5.156 -6.685,9.959 -11.06,14.409 -5.613,5.709 -12.193,10.971 -19.741,15.785 -11.977,7.679 -26.32,14.43 -42.731,20.316 -16.402,5.879 -34.873,10.894 -54.852,14.912 -29.2684,5.902 -61.8121,9.67 -95.1424,11.046 -33.32351,1.387 -67.4335,0.382 -99.6539,-2.948 -37.1517,-3.824 -71.7207,-10.711 -100.5027,-20.149 -19.889,-6.523 -37.055,-14.214 -50.995,-23.165 -13.2,-8.513 -23.7,-18.179 -30.529,-29.828 -4.73,-8.067 -7.5,-17.239 -7.481,-26.571 -0.01,-49.851 116.387,-90.288 259.9813,-90.319 143.5937,-0.03 260.0087,40.358 260.0187,90.209 0.023,9.227 -2.681,18.302 -7.312,26.303 -2.998,5.156 -6.685,9.959 -11.06,14.409 -5.613,5.709 -12.193,10.971 -19.741,15.785 -11.977,7.679 -26.32,14.43 -42.731,20.316 -16.402,5.879 -34.873,10.894 -54.852,14.912 -1.246,0.251 -2.589,-0.038 -3.945,-0.85 L 239.849,525.907 C 239.84,479.891 132.38,442.61 -0.168256,442.638 -132.717,442.666 -240.16,479.993 -240.151,526.009 m 0,0 c 0.01,46.017 107.47,83.298 240.018044,83.27 C 132.415,609.251 239.859,571.924 239.849,525.907 l -119.645,72.115 c 1.356,0.812 2.699,1.101 3.945,0.85 -29.2684,5.902 -61.8121,9.67 -95.1424,11.046 -33.32351,1.387 -67.4335,0.382 -99.6539,-2.948 -37.1517,-3.824 -71.7207,-10.711 -100.5027,-20.149 -19.889,-6.523 -37.055,-14.214 -50.995,-23.165 -13.2,-8.513 -23.7,-18.179 -30.529,-29.828 -4.73,-8.067 -7.5,-17.239 -7.481,-26.571 -0.01,-49.851 116.387,-90.288 259.9813,-90.319 143.5937,-0.03 260.0087,40.358 260.0187,90.209 l -0.005,-26.258 c -0.002,-10.222 -5.006,-20.369 -14.797,-30.007 9.787,-9.642 14.786,-19.791 14.784,-30.013 C 259.817,371.018 143.402,330.63 -0.191976,330.661 -143.786,330.691 -260.183,371.128 -260.173,420.979 c 0.002,10.222 5.006,20.369 14.797,30.007 -9.787,9.642 -14.786,19.791 -14.784,30.013 l 0.005,26.258 -0.005,-26.258 c -0.002,-10.222 4.997,-20.371 14.784,-30.013 5.781,-5.696 13.193,-11.176 22.125,-16.359 22.258,-36.61 115.302,-62.825 223.067734,-62.847 C 107.583,371.757 200.638,397.932 222.911,434.533 175.947,407.311 91.241,390.661 -0.179262,390.68 -91.5995,390.699 -176.299,407.386 -223.251,434.627 c -8.932,5.183 -16.344,10.663 -22.125,16.359 -9.791,-9.638 -14.795,-19.785 -14.797,-30.007 l -0.009,-45.014 C -260.193,326.114 -143.796,285.676 -0.201511,285.646 143.393,285.616 259.807,326.003 259.818,375.855 l -0.159,-750.242 c 0.004,21.067 -21.217,41.475 -59.988,57.688 38.771,-16.213 59.992,-36.621 59.988,-57.688 -0.011,-49.852 -116.425,-90.24 -260.019434,-90.209 -143.593566,0.03 -259.991566,40.467 -259.980566,90.319 l 0.159,750.242 -0.159,-750.242 c -0.011,-49.852 116.387,-90.289 259.980566,-90.319 C 143.234,-464.627 259.648,-424.239 259.659,-374.387 l -0.024,-112.537 c -0.003,-11.444 -6.274,-22.782 -18.479,-33.411 l -37.165,-32.363 c -3.179,-2.769 -6.823,-5.47 -10.912,-8.091 -23.067,-30.527 -102.551,-51.801 -193.47078,-51.782 -90.91982,0.02 -170.39422,21.327 -193.44922,51.864 -4.088,2.622 -7.73,5.325 -10.908,8.095 l -37.151,32.379 c -12.201,10.634 -18.468,21.975 -18.465,33.419 l 0.024,112.537 c 0.004,21.067 21.234,41.466 60.012,57.663 -38.778,-16.197 -60.008,-36.596 -60.012,-57.663 l -0.024,-112.537 c -0.003,-11.444 6.264,-22.785 18.465,-33.419 39.395,-34.334 135.078,-56.877 241.515727,-56.9 106.437273,-0.022 202.130273,22.48 241.540273,56.798 12.205,10.629 18.476,21.967 18.479,33.411 l 0.024,112.537 0.159,750.242 0.009,45.014 C 259.817,371.018 143.402,330.63 -0.191976,330.661 -143.786,330.691 -260.183,371.128 -260.173,420.979 l -0.009,-45.014 C -260.193,326.114 -143.796,285.676 -0.201511,285.646 143.393,285.616 259.807,326.003 259.818,375.855 l 0.009,45.014 c 0.002,10.222 -4.997,20.371 -14.784,30.013 -5.783,-5.693 -13.198,-11.17 -22.132,-16.349 8.934,5.179 16.349,10.656 22.132,16.349 9.791,9.638 14.795,19.785 14.797,30.007"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path712" />
+           id="path712"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2320,12 +2471,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g718"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 219.849,522.16 c 0.005,-2.868 -0.543,-5.766 -1.644,-8.693 -1.947,-5.169 -5.737,-10.519 -11.466,-15.79 -11.5,-10.643 -30.882,-20.735 -55.898,-28.742 -18.056,-5.807 -39.005,-10.574 -61.6593,-14.013 -12.8713,-1.956 -26.2864,-3.488 -40.001,-4.568 -9.7201,-0.765 -19.5462,-1.301 -29.4784,-1.608 -13.29874,-0.411 -26.7049,-0.406 -40,0.016 -9.7978,0.311 -19.493,0.845 -29.0855,1.602 -13.7128,1.082 -27.1275,2.617 -39.999,4.576 -22.7098,3.452 -43.6968,8.233 -61.7838,14.059 -24.845,7.966 -44.137,17.984 -55.657,28.556 -5.824,5.313 -9.679,10.71 -11.657,15.922 -1.121,2.957 -1.678,5.882 -1.671,8.777 0.005,27.309 42.01,52.531 110.169,66.152 68.1592,13.621 152.0992,13.567 220.156,-0.14 0,2.071 0.899,4.289 2.007,4.952 l -336.332,-67.212 c 0.009,42.949 100.305,77.744 224.016867,77.718 C 123.578,603.698 223.858,568.86 223.849,525.911 m 0,0 C 223.84,482.962 123.545,448.166 -0.167079,448.193 -123.879,448.219 -224.16,483.057 -224.151,526.006 l 336.332,67.212 c -1.108,-0.663 -2.007,-2.881 -2.007,-4.952 67.89,-13.674 109.68,-38.863 109.675,-66.106"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path716" />
+           id="path716"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2337,12 +2489,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g722"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="M 239.849,525.907 C 239.84,479.891 132.38,442.61 -0.168256,442.638 -132.717,442.666 -240.16,479.993 -240.151,526.009 m 0,0 c 0.01,46.017 107.47,83.298 240.018044,83.27 C 132.415,609.251 239.859,571.924 239.849,525.907"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path720" />
+           id="path720"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2354,12 +2507,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g726"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -224.151,526.006 c 0.009,42.949 100.305,77.744 224.016867,77.718 C 123.578,603.698 223.858,568.86 223.849,525.911 m 0,0 C 223.84,482.962 123.545,448.166 -0.167079,448.193 -123.879,448.219 -224.16,483.057 -224.151,526.006"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path724" />
+           id="path724"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2371,12 +2525,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g730"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -151.166,468.999 c -24.845,7.966 -44.137,17.984 -55.657,28.556 -5.824,5.313 -9.679,10.71 -11.657,15.922 -1.121,2.957 -1.678,5.882 -1.671,8.777 0.005,27.309 42.01,52.531 110.169,66.152 68.1592,13.621 152.0992,13.567 220.156,-0.14 l -0.023,-108.785 c -6.792,1.368 -13.7898,2.608 -20.9633,3.717 l 0.0119,56.589 c -8e-4,-3.835 -8.9557,-6.942 -20.0014,-6.939 -11.0457,0.002 -19.9994,3.112 -19.9986,6.947 6e-4,2.483 3.8192,4.776 10.0155,6.014 6.1962,1.238 13.8271,1.233 20.0141,-0.013 6.1718,-1.243 9.971,-3.533 9.9704,-6.009 -8e-4,-3.835 -8.9557,-6.942 -20.0014,-6.939 -11.0457,0.002 -19.9994,3.112 -19.9986,6.947 6e-4,2.483 3.8192,4.776 10.0155,6.014 6.1962,1.238 13.8271,1.233 20.0141,-0.013 6.1718,-1.243 9.971,-3.533 9.9704,-6.009 l -0.0119,-56.589 -0.006,-28.276 c -12.8713,-1.956 -26.2864,-3.488 -40.001,-4.568 l 0.0079,37.488 0.011,51.953 -0.011,-51.953 c -9.7079,0.778 -19.5565,1.326 -29.4777,1.641 l 0.0019,8.698 c -8e-4,-3.835 -8.9558,-6.942 -20.001507,-6.94 -11.045693,0.003 -19.999293,3.113 -19.998493,6.948 5e-4,2.483 3.8191,4.776 10.0154,6.014 6.19626,1.238 13.82717,1.233 20.01413,-0.013 6.17177,-1.243 9.97097,-3.533 9.97047,-6.009 -8e-4,-3.835 -8.9558,-6.942 -20.001507,-6.94 -11.045693,0.003 -19.999293,3.113 -19.998493,6.948 5e-4,2.483 3.8191,4.776 10.0154,6.014 6.19626,1.238 13.82717,1.233 20.01413,-0.013 6.17177,-1.243 9.97097,-3.533 9.97047,-6.009 l -0.0019,-8.698 -0.0086,-40.737 c -13.29874,-0.411 -26.7049,-0.406 -40,0.016 l 0.0086,40.721 0.0019,8.706 -0.0019,-8.706 c -9.7884,-0.31 -19.5055,-0.848 -29.0861,-1.609 l 0.011,52.021 c -8e-4,-3.835 -8.9558,-6.942 -20.0015,-6.939 -11.0457,0.002 -19.9993,3.112 -19.9985,6.947 5e-4,2.483 3.8191,4.776 10.0154,6.014 6.1963,1.238 13.8272,1.233 20.0141,-0.013 6.1719,-1.243 9.971,-3.533 9.9705,-6.009 -8e-4,-3.835 -8.9558,-6.942 -20.0015,-6.939 -11.0457,0.002 -19.9993,3.112 -19.9985,6.947 5e-4,2.483 3.8191,4.776 10.0154,6.014 6.1963,1.238 13.8272,1.233 20.0141,-0.013 6.1719,-1.243 9.971,-3.533 9.9705,-6.009 l -0.011,-52.021 -0.008,-37.51 c -13.7128,1.082 -27.1275,2.617 -39.999,4.576 l 0.006,28.316 0.012,56.647 -0.012,-56.647 c -22.7758,-3.503 -43.6688,-8.324 -61.7898,-14.257"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path728" />
+           id="path728"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2388,12 +2543,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g734"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 110.174,588.266 c 67.89,-13.674 109.68,-38.863 109.675,-66.106 0.005,-2.868 -0.543,-5.766 -1.644,-8.693 -1.947,-5.169 -5.737,-10.519 -11.466,-15.79 -11.5,-10.643 -30.882,-20.735 -55.898,-28.742 -12.347,4.048 -26.001,7.587 -40.69,10.546 l 0.023,108.785"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path732" />
+           id="path732"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2405,12 +2561,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g738"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -204.749,-552.612 c 3.178,-2.77 6.82,-5.473 10.908,-8.095 38.445,-24.66 112.7016,-40.034 193.451723,-40.051 80.750077,-0.017 155.013277,15.325 193.468277,39.969 4.089,2.621 7.733,5.322 10.912,8.091 l 37.165,32.363 C 201.746,-554.653 106.053,-577.155 -0.384273,-577.133 -106.822,-577.11 -202.505,-554.567 -241.9,-520.233 l 37.151,-32.379"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path736" />
+           id="path736"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2422,12 +2579,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g742"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="M 222.911,434.533 C 175.947,407.311 91.241,390.661 -0.179262,390.68 -91.5995,390.699 -176.299,407.386 -223.251,434.627 -200.993,398.017 -107.949,371.802 -0.183266,371.78 107.583,371.757 200.638,397.932 222.911,434.533"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path740" />
+           id="path740"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2439,12 +2597,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g746"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -193.841,-560.707 c 38.445,-24.66 112.7016,-40.034 193.451723,-40.051 80.750077,-0.017 155.013277,15.325 193.468277,39.969 -23.067,-30.527 -102.551,-51.801 -193.47078,-51.782 -90.91982,0.02 -170.39422,21.327 -193.44922,51.864"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path744" />
+           id="path744"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2456,12 +2615,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g750"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 49.1807,450.354 0.0079,37.488 c -9.7079,0.778 -19.5565,1.326 -29.4777,1.641 l -0.0086,-40.737 c 9.9322,0.307 19.7583,0.843 29.4784,1.608"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path748" />
+           id="path748"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2473,12 +2633,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g754"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -20.2977,448.762 0.0086,40.721 c -9.7884,-0.31 -19.5055,-0.848 -29.0861,-1.609 l -0.008,-37.51 c 9.5925,-0.757 19.2877,-1.291 29.0855,-1.602"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path752" />
+           id="path752"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2490,12 +2651,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g758"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m -89.3822,454.94 0.006,28.316 c -22.7758,-3.503 -43.6688,-8.324 -61.7898,-14.257 18.087,-5.826 39.074,-10.607 61.7838,-14.059"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path756" />
+           id="path756"
+           style="fill:none" />
       </g>
       <g
          stroke="none"
@@ -2507,12 +2669,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g762"
-         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+         style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
         <path
            d="m 110.151,479.481 c 14.689,-2.959 28.343,-6.498 40.69,-10.546 -18.056,-5.807 -39.005,-10.574 -61.6593,-14.013 l 0.006,28.276 c 7.1735,-1.109 14.1713,-2.349 20.9633,-3.717"
            vector-effect="non-scaling-stroke"
            fill-rule="evenodd"
-           id="path760" />
+           id="path760"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2527,12 +2690,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g766"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 110.151,479.481 c 14.689,-2.959 28.343,-6.498 40.69,-10.546"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path764" />
+           id="path764"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2547,12 +2711,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g770"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -151.166,468.999 c 18.121,5.933 39.014,10.754 61.7898,14.257"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path768" />
+           id="path768"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2567,12 +2732,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g774"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -49.3752,487.874 c 9.5806,0.761 19.2977,1.299 29.0861,1.609"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path772" />
+           id="path772"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2587,12 +2753,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g778"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 19.7109,489.483 c 9.9212,-0.315 19.7698,-0.863 29.4777,-1.641"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path776" />
+           id="path776"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2607,12 +2774,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g782"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 89.1877,483.198 c 7.1735,-1.109 14.1713,-2.349 20.9633,-3.717"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path780" />
+           id="path780"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2627,12 +2795,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g786"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 259.84,480.889 C 259.829,431.037 143.415,390.65 -0.179262,390.68 -143.773,390.71 -260.171,431.147 -260.16,480.999"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path784" />
+           id="path784"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2647,12 +2816,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g790"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -59.3347,545.904 c 6.1719,-1.243 9.971,-3.533 9.9705,-6.009"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path788" />
+           id="path788"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2667,12 +2837,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g794"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -49.3642,539.895 c -8e-4,-3.835 -8.9558,-6.942 -20.0015,-6.939 -11.0457,0.002 -19.9993,3.112 -19.9985,6.947"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path792" />
+           id="path792"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2687,12 +2858,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g798"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -89.3642,539.903 c 5e-4,2.483 3.8191,4.776 10.0154,6.014 6.1963,1.238 13.8272,1.233 20.0141,-0.013"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path796" />
+           id="path796"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2707,12 +2879,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g802"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 79.2292,545.796 c 6.1718,-1.243 9.971,-3.533 9.9704,-6.009"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path800" />
+           id="path800"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2727,12 +2900,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g806"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 89.1996,539.787 c -8e-4,-3.835 -8.9557,-6.942 -20.0014,-6.939 -11.0457,0.002 -19.9994,3.112 -19.9986,6.947"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path804" />
+           id="path804"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2747,12 +2921,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g810"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 49.1996,539.795 c 6e-4,2.483 3.8192,4.776 10.0155,6.014 6.1962,1.238 13.8271,1.233 20.0141,-0.013"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path808" />
+           id="path808"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2767,12 +2942,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g814"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 9.74233,504.19 c 6.17177,-1.243 9.97097,-3.533 9.97047,-6.009"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path812" />
+           id="path812"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2787,12 +2963,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g818"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 19.7128,498.181 c -8e-4,-3.835 -8.9558,-6.942 -20.001507,-6.94 -11.045693,0.003 -19.999293,3.113 -19.998493,6.948"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path816" />
+           id="path816"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2807,12 +2984,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g822"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -20.2872,498.189 c 5e-4,2.483 3.8191,4.776 10.0154,6.014 6.19626,1.238 13.82717,1.233 20.01413,-0.013"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path820" />
+           id="path820"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2827,12 +3005,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g826"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 245.043,450.882 c 9.787,-9.642 14.786,-19.791 14.784,-30.013"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path824" />
+           id="path824"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2847,12 +3026,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g830"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 259.827,420.869 C 259.817,371.018 143.402,330.63 -0.191976,330.661 -143.786,330.691 -260.183,371.128 -260.173,420.979"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path828" />
+           id="path828"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2867,12 +3047,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g834"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.173,420.979 c 0.002,10.222 5.006,20.369 14.797,30.007"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path832" />
+           id="path832"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2887,12 +3068,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g838"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M -260.182,375.965 C -260.193,326.114 -143.796,285.676 -0.201511,285.646 143.393,285.616 259.807,326.003 259.818,375.855"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path836" />
+           id="path836"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2907,12 +3089,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g842"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M -260.182,375.965 C -260.193,326.114 -143.796,285.676 -0.201511,285.646 143.393,285.616 259.807,326.003 259.818,375.855"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path840" />
+           id="path840"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2927,12 +3110,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g846"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.341,-374.277 c -0.011,-49.852 116.387,-90.289 259.980566,-90.319 C 143.234,-464.627 259.648,-424.239 259.659,-374.387"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path844" />
+           id="path844"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2947,12 +3131,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g850"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.365,-486.814 c -0.003,-11.444 6.264,-22.785 18.465,-33.419"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path848" />
+           id="path848"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2967,12 +3152,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g854"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -241.9,-520.233 c 39.395,-34.334 135.078,-56.877 241.515727,-56.9 106.437273,-0.022 202.130273,22.48 241.540273,56.798"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path852" />
+           id="path852"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -2987,12 +3173,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g858"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 241.156,-520.335 c 12.205,10.629 18.476,21.967 18.479,33.411"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path856" />
+           id="path856"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3007,12 +3194,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g866"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.341,-374.277 c -0.011,-49.852 116.387,-90.289 259.980566,-90.319 C 143.234,-464.627 259.648,-424.239 259.659,-374.387"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path864" />
+           id="path864"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3027,12 +3215,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g874"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -204.749,-552.612 c 33.334,-29.052 114.2973,-48.127 204.359723,-48.146 90.062477,-0.019 171.033277,19.021 204.380277,48.06"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path872" />
+           id="path872"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3047,12 +3236,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g878"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -193.841,-560.707 c 23.055,-30.537 102.5294,-51.844 193.44922,-51.864 90.91978,-0.019 170.40378,21.255 193.47078,51.782"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path876" />
+           id="path876"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3067,12 +3257,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g882"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 219.849,522.16 c 0.005,-2.868 -0.543,-5.766 -1.644,-8.693 -1.947,-5.169 -5.737,-10.519 -11.466,-15.79 -7.395,-6.819 -17.998,-13.447 -31.291,-19.409 -14.753,-6.63 -32.813,-12.45 -53.148,-17.099 -20.327,-4.656 -42.928,-8.141 -66.5604,-10.262 -28.7261,-2.588 -58.98341,-3.148 -88.3519,-1.634 -29.3729,1.503 -57.857,5.08 -83.1557,10.436 -23.15,4.89 -43.639,11.267 -60.032,18.648 -13.139,5.902 -23.649,12.455 -31.023,19.198 -5.824,5.313 -9.679,10.71 -11.657,15.922 -1.121,2.957 -1.678,5.882 -1.671,8.777"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path880" />
+           id="path880"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3087,12 +3278,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g886"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 124.149,598.872 c -29.2684,5.902 -61.8121,9.67 -95.1424,11.046 -33.32351,1.387 -67.4335,0.382 -99.6539,-2.948 -37.1517,-3.824 -71.7207,-10.711 -100.5027,-20.149 -19.889,-6.523 -37.055,-14.214 -50.995,-23.165 -13.2,-8.513 -23.7,-18.179 -30.529,-29.828 -4.73,-8.067 -7.5,-17.239 -7.481,-26.571"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path884" />
+           id="path884"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3107,12 +3299,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g890"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 259.845,507.147 c 0.023,9.227 -2.681,18.302 -7.312,26.303 -2.998,5.156 -6.685,9.959 -11.06,14.409 -5.613,5.709 -12.193,10.971 -19.741,15.785 -11.977,7.679 -26.32,14.43 -42.731,20.316 -16.402,5.879 -34.873,10.894 -54.852,14.912"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path888" />
+           id="path888"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3127,12 +3320,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g894"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.16,480.999 0.005,26.258"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path892" />
+           id="path892"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3147,12 +3341,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g898"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 259.84,480.889 0.005,26.258"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path896" />
+           id="path896"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3167,12 +3362,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g902"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -89.3822,454.94 0.018,84.963"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path900" />
+           id="path900"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3187,12 +3383,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g906"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -49.3832,450.364 0.019,89.531"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path904" />
+           id="path904"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3207,12 +3404,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g910"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 49.1807,450.354 0.0189,89.441"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path908" />
+           id="path908"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3227,12 +3425,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g914"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 89.1817,454.922 0.0179,84.865"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path912" />
+           id="path912"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3247,12 +3446,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g918"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -20.2977,448.762 0.0105,49.427"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path916" />
+           id="path916"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3267,12 +3467,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g922"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 19.7023,448.746 0.0105,49.435"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path920" />
+           id="path920"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3287,12 +3488,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g926"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.182,375.965 0.009,45.014"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path924" />
+           id="path924"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3307,12 +3509,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g930"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 259.818,375.855 0.009,45.014"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path928" />
+           id="path928"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3327,12 +3530,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g934"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.341,-374.277 0.159,750.242"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path932" />
+           id="path932"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3347,12 +3551,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g938"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 259.659,-374.387 0.159,750.242"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path936" />
+           id="path936"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3367,12 +3572,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g942"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.365,-486.814 0.024,112.537"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path940" />
+           id="path940"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3387,12 +3593,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g946"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 259.635,-486.924 0.024,112.537"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path944" />
+           id="path944"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3407,12 +3614,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g950"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 203.991,-552.698 37.165,32.363"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path948" />
+           id="path948"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3427,12 +3635,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g954"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -204.749,-552.612 -37.151,32.379"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path952" />
+           id="path952"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3447,12 +3656,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g958"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -224.151,526.006 c 0.009,42.949 100.305,77.744 224.016867,77.718 C 123.578,603.698 223.858,568.86 223.849,525.911 m 0,0 C 223.84,482.962 123.545,448.166 -0.167079,448.193 -123.879,448.219 -224.16,483.057 -224.151,526.006"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path956" />
+           id="path956"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3467,12 +3677,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g962"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M 239.849,525.907 C 239.84,479.891 132.38,442.61 -0.168256,442.638 -132.717,442.666 -240.16,479.993 -240.151,526.009 m 0,0 c 0.01,46.017 107.47,83.298 240.018044,83.27 C 132.415,609.251 239.859,571.924 239.849,525.907"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path960" />
+           id="path960"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3487,12 +3698,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g966"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 110.174,588.266 c 67.89,-13.674 109.68,-38.863 109.675,-66.106"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path964" />
+           id="path964"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3507,12 +3719,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g970"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -220.151,522.254 c 0.005,27.309 42.01,52.531 110.169,66.152 68.1592,13.621 152.0992,13.567 220.156,-0.14"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path968" />
+           id="path968"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3527,12 +3740,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g974"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m -260.155,507.257 c -0.01,-49.851 116.387,-90.288 259.9813,-90.319 143.5937,-0.03 260.0087,40.358 260.0187,90.209"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path972" />
+           id="path972"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3547,12 +3761,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g978"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 112.181,593.218 c -1.108,-0.663 -2.007,-2.881 -2.007,-4.952"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path976" />
+           id="path976"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3567,12 +3782,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g982"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="m 124.149,598.872 c -1.246,0.251 -2.589,-0.038 -3.945,-0.85"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path980" />
+           id="path980"
+           style="fill:none" />
       </g>
       <g
          stroke-linejoin="bevel"
@@ -3587,12 +3803,13 @@
          transform="translate(486.192,749.122)"
          font-size="31.75px"
          id="g990"
-         style="fill-rule:evenodd">
+         style="fill-rule:evenodd;fill:none">
         <path
            d="M -223.251,434.627 C -200.993,398.017 -107.949,371.802 -0.183266,371.78 107.583,371.757 200.638,397.932 222.911,434.533"
            vector-effect="none"
            fill-rule="evenodd"
-           id="path988" />
+           id="path988"
+           style="fill:none" />
       </g>
     </g>
   </g>

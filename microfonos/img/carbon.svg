@@ -7,16 +7,46 @@
    viewBox="0 0 177.39711 165.86122"
    version="1.1"
    id="svg17442"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="carbon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17444"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="264.62738"
+     inkscape:cy="498.03029"
+     inkscape:window-width="1865"
+     inkscape:window-height="1172"
+     inkscape:window-x="55"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs17439" />
   <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-35.223562,-16.620154)">
     <g
        id="g11928"
-       transform="matrix(0.1,0,0,0.1,-92.679659,374.53639)">
+       transform="matrix(0.1,0,0,0.1,-92.679659,374.53639)"
+       style="fill:none">
       <g
          id="g7530-4"
          transform="translate(1097.2869,-3855.5502)"
@@ -5923,7 +5953,8 @@
       </g>
       <g
          id="g8447"
-         transform="translate(34.712154,-59.269425)">
+         transform="translate(34.712154,-59.269425)"
+         style="fill:none">
         <g
            font-family="'Sans Serif'"
            fill-opacity="1"
@@ -5934,12 +5965,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g862-3-7"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="M 162.042,259.938 294.754,37.6012 C 313.88,5.55819 316.974,-28.9486 303.68,-61.9605 270.797,-143.619 144.752,-201.413 -0.457774,-201.413 c -145.210226,0 -271.254226,57.794 -304.138226,139.4525 -13.294,33.0119 -10.2,67.51869 8.926,99.5617 l 132.712,222.3368 v -15.712 c 0,-51.815 72.754,-93.82 162.500226,-93.82 89.746274,0 162.499774,42.005 162.499774,93.82 v 15.712"
-             id="path860-6-4" />
+             id="path860-6-4"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -5951,12 +5983,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g866-0-6"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="m 311.792,-102.785 v -265.362 c 0,-99.564 -139.799,-180.277 -312.249774,-180.277 -172.451226,0 -312.250226,80.713 -312.250226,180.277 v 265.362 c 0,-99.565 139.799,-180.278 312.250226,-180.278 172.450774,0 312.249774,80.713 312.249774,180.278"
-             id="path864-50-4" />
+             id="path864-50-4"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -5968,12 +6001,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g874-4-9"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="m 303.68,-61.9605 c 5.391,-13.3853 8.112,-27.0825 8.112,-40.8245 0,-99.565 -139.799,-180.278 -312.249774,-180.278 -172.451226,0 -312.250226,80.713 -312.250226,180.278 0,13.742 2.722,27.4392 8.112,40.8245 32.884,-81.6585 158.928,-139.4525 304.138226,-139.4525 145.209774,0 271.254774,57.794 304.137774,139.4525"
-             id="path872-3-1" />
+             id="path872-3-1"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -5985,12 +6019,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g878-5-2"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="m 162.042,340.436 v -80.498 -15.712 c 0,-51.815 -72.7535,-93.82 -162.499774,-93.82 -89.746226,0 -162.500226,42.005 -162.500226,93.82 v 15.712 80.498 c 30.68,-35.603 93.6228,-58.112 162.500226,-58.112 68.877474,0 131.819774,22.509 162.499774,58.112"
-             id="path876-1-3" />
+             id="path876-1-3"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6002,12 +6037,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g882-7-1"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="m 181.042,444.267 v -57.154 c 0,-16.198 -6.503,-32.175 -19,-46.677 -30.68,-35.603 -93.6223,-58.112 -162.499774,-58.112 -68.877426,0 -131.820226,22.509 -162.500226,58.112 -12.496,14.502 -19,30.479 -19,46.677 v 57.154 c 0,-57.873 81.261,-104.789 181.500226,-104.789 100.239674,0 181.499774,46.916 181.499774,104.789"
-             id="path880-4-8" />
+             id="path880-4-8"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6019,12 +6055,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g886-3-1"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="m -44.6519,469.783 c 17.8748,10.32 44.757192,13.407 68.1118,7.822 23.3547,-5.585 38.5823,-18.743 38.5823,-33.338 0,-14.594 -15.2276,-27.752 -38.5823,-33.337 -23.354608,-5.585 -50.237,-2.498 -68.1118,7.822 -11.7211,6.767 -18.3059,15.945 -18.3059,25.515 0,9.571 6.5848,18.749 18.3059,25.516"
-             id="path884-1-3" />
+             id="path884-1-3"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6036,12 +6073,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g890-4-8"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="m -44.6519,469.783 c 17.8748,10.32 44.757192,13.407 68.1118,7.822 23.3547,-5.585 38.5823,-18.743 38.5823,-33.338 0,-14.594 -15.2276,-27.752 -38.5823,-33.337 -23.354608,-5.585 -50.237,-2.498 -68.1118,7.822 v 51.031"
-             id="path888-69-9" />
+             id="path888-69-9"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6053,12 +6091,13 @@
            font-style="normal"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g894-4-2"
-           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+           style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="non-scaling-stroke"
              d="m -44.6519,418.752 v 51.031 c -11.7211,-6.767 -18.3059,-15.945 -18.3059,-25.516 0,-9.57 6.5848,-18.748 18.3059,-25.515"
-             id="path892-2-4" />
+             id="path892-2-4"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6073,12 +6112,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g898-2-5"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m 303.68,-61.9605 c 5.391,-13.3853 8.112,-27.0825 8.112,-40.8245"
-             id="path896-6-1" />
+             id="path896-6-1"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6093,12 +6133,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g902-4-0"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m 311.792,-102.785 c 0,-99.565 -139.799,-180.278 -312.249774,-180.278 -172.451226,0 -312.250226,80.713 -312.250226,180.278"
-             id="path900-1-0" />
+             id="path900-1-0"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6113,12 +6154,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g906-2-1"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m -312.708,-102.785 c 0,13.742 2.722,27.4392 8.112,40.8245"
-             id="path904-8-3" />
+             id="path904-8-3"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6133,12 +6175,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g910-8-3"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m 311.792,-368.147 c 0,-99.564 -139.799,-180.277 -312.249774,-180.277 -172.451226,0 -312.250226,80.713 -312.250226,180.277"
-             id="path908-9-0" />
+             id="path908-9-0"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6153,12 +6196,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g914-2-0"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m -44.6519,469.783 c 17.8748,10.32 44.757192,13.407 68.1118,7.822 23.3547,-5.585 38.5823,-18.743 38.5823,-33.338"
-             id="path912-8-0" />
+             id="path912-8-0"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6173,12 +6217,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g918-8-2"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m 62.0422,444.267 c 0,-19.928 -27.9822,-36.084 -62.499974,-36.084 -34.517826,0 -62.500026,16.156 -62.500026,36.084"
-             id="path916-8-2" />
+             id="path916-8-2"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6193,12 +6238,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g922-6-2"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m -62.9578,444.267 c 0,9.571 6.5848,18.749 18.3059,25.516"
-             id="path920-83-4" />
+             id="path920-83-4"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6213,12 +6259,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g926-8-7"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M -128.798,518.364 C -76.889,548.334 1.17737,557.299 68.9993,541.08 136.821,524.861 181.042,486.651 181.042,444.267"
-             id="path924-3-9" />
+             id="path924-3-9"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6233,12 +6280,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g930-3-8"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M 181.042,444.267 C 181.042,386.394 99.7819,339.478 -0.457774,339.478 -100.697,339.478 -181.958,386.394 -181.958,444.267"
-             id="path928-3-5" />
+             id="path928-3-5"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6253,12 +6301,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g934-8-4"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m -181.958,444.267 c 0,27.792 19.122,54.446 53.16,74.097"
-             id="path932-0-7" />
+             id="path932-0-7"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6273,12 +6322,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g938-4-8"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M 181.042,387.113 C 181.042,329.239 99.7819,282.324 -0.457774,282.324 -100.697,282.324 -181.958,329.239 -181.958,387.113"
-             id="path936-7-6" />
+             id="path936-7-6"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6293,12 +6343,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g942-6-0"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m 162.042,244.226 c 0,-51.815 -72.7535,-93.82 -162.499774,-93.82 -89.746226,0 -162.500226,42.005 -162.500226,93.82"
-             id="path940-8-0" />
+             id="path940-8-0"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6313,12 +6364,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g946-9-6"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m 294.754,37.6012 c 44.518,-74.5818 -0.124,-157.2122 -110.188,-203.9562 -110.0635,-46.744 -259.984,-46.744 -370.048,0 -110.064,46.744 -154.705,129.3744 -110.188,203.9562"
-             id="path944-0-4" />
+             id="path944-0-4"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6333,12 +6385,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g950-6-3"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M 311.792,-102.785 V -368.147"
-             id="path948-8-7" />
+             id="path948-8-7"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6353,12 +6406,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g954-7-5"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M -312.708,-102.785 V -368.147"
-             id="path952-9-8" />
+             id="path952-9-8"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6373,12 +6427,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g958-0-1"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M 181.042,444.267 V 387.113"
-             id="path956-3-0" />
+             id="path956-3-0"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6393,12 +6448,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g962-3-9"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M -181.958,444.267 V 387.113"
-             id="path960-3-3" />
+             id="path960-3-3"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6413,12 +6469,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g966-7-0"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m 162.042,340.436 v -96.21"
-             id="path964-32-2" />
+             id="path964-32-2"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6433,12 +6490,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g970-6-6"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="m -162.958,340.436 v -96.21"
-             id="path968-5-4" />
+             id="path968-5-4"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6453,12 +6511,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g974-2-3"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M -162.958,259.938 -295.67,37.6012"
-             id="path972-6-8" />
+             id="path972-6-8"
+             style="fill:none" />
         </g>
         <g
            font-family="'Sans Serif'"
@@ -6473,12 +6532,13 @@
            stroke-linecap="round"
            transform="rotate(180,779.80603,-1368.1545)"
            id="g978-5-6"
-           style="fill-rule:evenodd">
+           style="fill-rule:evenodd;fill:none">
           <path
              fill-rule="evenodd"
              vector-effect="none"
              d="M 162.042,259.938 294.754,37.6012"
-             id="path976-8-7" />
+             id="path976-8-7"
+             style="fill:none" />
         </g>
       </g>
     </g>
