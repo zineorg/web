@@ -12,15 +12,14 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 <div class="presentacion">
 ![](img/carbon.svg){#logo}
 
-Los **MicroFono** son los mas pequeños microfonos omnidireccionales de alta sensibilidad. Están basados en la cápsula AOM-5024L-HD-R y llevan un conector mini jack de 3,5mm para alimentación PIP y el cable de micrófono mas pequeño Mogami de tan solo 2mm de diamentro. Su diseño tiene la capsula en el sitio perfecto, tiene un agarre para que los paravientos siempre queden en su posición correcta sin posibilidad de salirse y una zona dónde conectar el clip de las pinzas. Están diseñados para ser impresos en PETG+CF. Son los mas discretos y portables, y también pueden ser utilizados directamente con cualquier DSLR. dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
-
+Los **micrófonos** son unos pequeños microfonos omnidireccionales de muy alta sensibilidad y bajo ruido. Están basados en la cápsula AOM-5024L y están diseñados para usarse a través de una conexión PIP a una entrada de mini jack de 3,5mm. Utilizan un cable de alta calidad, el cable miniatura W2368 de Mogami de tan solo 2mm de diamentro. Su forma mantiene la capsula y el paravientos en el sitio perfecto, manteniendose siempre un espacio vacío entre el cortavientos y dicha cápsula. Están diseñados para ser impresos en PETG+CF. Tienen un surco dónde agarrar los antivientos y un saliente donde enganchar los clips de pinza. También pueden ser utilizados directamente en cualquier DSLR que disponga de entrada minijack con PIP.
 </div>
 
 <div class="botonera">
 
 [Instrucciones](#intro){.boton}
 
-[Archivos 3D](#intro){.boton}
+[Archivos 3D](3D/microfono.FCStd){.boton}
 
 [Ayuda](#intro){.boton}
 
@@ -31,8 +30,7 @@ Los **MicroFono** son los mas pequeños microfonos omnidireccionales de alta sen
 <div class="presentacion">
 ![](img/metal1.svg){#logo-izq}
 
-Los **Fono** son omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-
+Los **micrófonos de metal** son unos micrófonos de muy alta sensibilidad y bajo ruido con cuerpo aluminio. Están basados en la cápsula EM272Z1 de Primo y pueden funcionar tanto en una entrada minijack mediante PIP como en una entrada XLR balanceada ---gracias a SimpleP48---, solo dependiendo del cable que se utilice para conectarlos, ya que constan de un conector mini-XLR en su cuerpo que los hace muy versátiles. Su diseño parte de un tubo de aluminio y su fabricación puede ser realizada completamente con herramientas manuales. Llevan un cable miniatura Mogami de máxima calidad con el apantallamiento trenzado. El cuerpo de aluminio permite utilizarlo con accesorios más eficientes, como mini-blimps, liras y antivientos autofabricados. 
 </div>
 
 <div class="botonera">

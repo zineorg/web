@@ -11,7 +11,7 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 
 <div class="presentacion">
 
-Zine16 es un proyecto en desarrollo. Se trata de una cámara digital libre de 16mm basada en Magic Lantern. El cuerpo está realizado en plástico reforzado con fibras de carbono y su empuñadura es de filamento de madera. Esta completamente diseñada en FreeCAD. Utiliza dos baterías universales 18650 en un pequeño circuito de protección contra polaridad inversa basado en un mosfet (pfet). Dispone de ventilación activa y disipadores de calor. Utiliza lentes de cine de montura C de 16mm y super16.
+Zine16 es un proyecto en desarrollo. Se trata de una cámara digital libre de 16mm basada en Magic Lantern. El cuerpo está realizado en plástico reforzado con fibras de carbono y su empuñadura es de filamento de madera. Esta completamente diseñada en FreeCAD. Utiliza dos baterías universales 18650 en un pequeño circuito de protección contra polaridad inversa basado en un mosfet (pfet). Dispone de ventilación activa mediante un ventilador y disipadores de calor. Utiliza ópticas de cine de montura C de 16mm y super16.
 
 <br>
 
