@@ -163,8 +163,6 @@ p.descripcion {
 }
 
 p {
-    -moz-hyphens: auto;
-    hyphens: auto;
     text-align: left;
 }
 
@@ -277,7 +275,7 @@ ul {
 
 footer {
     text-align:center;
-    border-top: 2px solid #666;
+    border-top: 4px solid var(--foreground);
     padding-top: 1em;
     padding-bottom: 1em;
     margin-top: 2.5em;
@@ -380,8 +378,10 @@ thead {
 @media only screen and (max-width: 665px) {
 
     .menu a.logo {
-      border-bottom: 1px solid black;
+      border-bottom: 3px solid var(--foreground);
     }
+
+    
     
     img#logo {
         float: none;
