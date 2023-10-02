@@ -297,7 +297,7 @@ a.boton {
 	margin:  0.25rem;
 	padding:  1rem;
 	width:  100%; 
-	border: 2px dashed var(--foreground);
+	border: 4px dashed var(--foreground);
     text-decoration: none;
     text-align: center;
 }
