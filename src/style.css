@@ -40,7 +40,7 @@ body {
 /*  background-color: var(--background);*/
     text-align: center;
     color: var(--foreground);
-    border-bottom: 2px solid #666;
+    border-bottom: 4px solid var(--foreground);
     padding-bottom: 1em;
     padding-top: 1em;
     padding: 0.2em;
@@ -50,9 +50,9 @@ body {
 }
 
 .menu a {
-  padding: 1em;
+  padding: 0.75em;
   text-decoration: none;
-  font-size: 85%;
+  font-size: 150%;
   white-space: nowrap;
   flex-grow: 1;
   min-width: 0;
@@ -65,7 +65,7 @@ body {
 
 .menu a.seleccion.logo {
   font-weight: bolder;
-  border-right: 1px solid black;
+  border-right: 3px solid var(--foreground);
 }
 
 .menu a.logo:hover {
@@ -165,7 +165,7 @@ p.descripcion {
 p {
     -moz-hyphens: auto;
     hyphens: auto;
-    text-align: justify;
+    text-align: left;
 }
 
 figure {
