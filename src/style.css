@@ -265,7 +265,7 @@ pre {
 
 hr {
     margin-top: 3em;
-    margin-top: 3em;
+    margin-bottom: 3em;
     clear: both;
     border-top: 3px solid var(--foreground); 
 }
