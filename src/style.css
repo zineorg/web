@@ -347,20 +347,8 @@ thead {
 }
 
 .idioma {
-  display: flex;
-  width: 100vw;
-  height: 100vh;
-  justify-content: center;
-  align-items: center;
-  font-size: 10vmin;
-  color: var(--foreground);
-  text-decoration: none;
+    border-left: 3px solid var(--foreground);
 }
-
-.idioma a {
-  text-decoration: none;
-}
-
 
 /* ESTILOS POR DEFECTO DE PANDOC
     Puede que sean prescindibles */
