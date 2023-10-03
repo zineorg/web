@@ -25,7 +25,7 @@ Los **micrófonos** son unos pequeños microfonos omnidireccionales de muy alta 
 
 </div>
 
-<hr><br>
+<hr>
 
 <div class="presentacion">
 ![](img/metal1.svg){#logo-izq}
