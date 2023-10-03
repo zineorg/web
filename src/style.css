@@ -68,6 +68,10 @@ body {
   border-right: 3px solid var(--foreground);
 }
 
+.menu a.seleccion.idioma {
+  border-left: 3px solid var(--foreground);
+}
+
 .menu a.logo:hover {
 }
 
