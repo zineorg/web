@@ -153,14 +153,18 @@ p.descripcion {
     float: right;
     padding: 1em;
     margin: 0;
-    width: 30%;
+    max-width: 40%;
+    min-width: 30%;
+    max-height: 31rem;
 }
 
 #logo-izq {
     float: left;
     padding: 1em;
     margin: 0;
-    max-width: 50%;
+    max-width: 40%;
+    min-width: 30%;
+    max-height: 31rem;
 }
 
 p {
