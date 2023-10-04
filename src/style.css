@@ -1,6 +1,6 @@
 /* Para que funcione el grid Masonry CSS (Revisar, se puede mejorar) */
 
-*, *:before, *:after {box-sizing:  border-box !important;}
+*, *:before, *:after {box-sizing: border-box !important;}
 
 :root {
     --accent-color: #3e3e3e;
@@ -14,12 +14,10 @@
 }
 
 html {
-  font-size: 190%;
+  font-size: calc(20px + 0.390625vw);
   overflow-y: scroll;
   color: black;
   background-color: var(--background);
-  -webkit-text-size-adjust: 200%;
-  -ms-text-size-adjust: 200%;
 }
 
 header {
@@ -52,7 +50,7 @@ body {
 .menu a {
   padding: 0.1em;
   text-decoration: none;
-  font-size: 105%;
+  font-size: 1.05rem;
   white-space: nowrap;
   flex-grow: 1;
   min-width: 0;
@@ -105,7 +103,7 @@ body {
 }
 
 h1.title {
-    font-size: 2em;
+    font-size: 2rem;
     margin-top: 1em;
     margin-bottom: 1em;
     color: var(--accent-color);
@@ -118,7 +116,7 @@ nav#TOC {
     text-align: left;
     color: var(--foreground);
     border: 3px solid var(--foreground);
-    font-size: 0.95em;
+    font-size: 0.95rem;
     max-width: 50%;
     float: left;
     margin: 0 1.5em 1em 0;
@@ -155,7 +153,7 @@ p.descripcion {
     float: right;
     padding: 1em;
     margin: 0;
-    max-width: 50%;
+    width: 30%;
 }
 
 #logo-izq {
@@ -240,10 +238,10 @@ a::selection {
 }
 
 h1 {
-    font-size: 2em;
-    margin-top: 2.5em;
+    font-size: 2rem;
+    margin-top: 2.5rem;
     text-align:center;
-    line-height: 1em;
+    line-height: 1rem;
 }
 
 h2, h3, h5, h6 {
@@ -330,7 +328,7 @@ a.footnote-back {
 
 sup { 
     line-height: 1em;
-    font-size: 0.75em; 
+    font-size: 0.75rem; 
     padding: 0.20em;
 }
 
