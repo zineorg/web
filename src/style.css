@@ -74,7 +74,6 @@ body {
 .menu a.seleccion.idioma:hover {
   background-color: inherit;
   color: inherit;
-  text-decoration: underline;
 }
 
 .menu a.logo:hover {
