@@ -68,6 +68,11 @@ body {
 
 .menu a.seleccion.idioma {
   border-left: 3px solid var(--foreground);
+  filter: brightness(0%);
+}
+
+.menu a.seleccion.idioma:hover {
+  filter: brightness(100%);
 }
 
 .menu a.logo:hover {
@@ -351,10 +356,6 @@ th, td {
 thead {
   background-color: #00000021;
   text-transform: uppercase;
-}
-
-.idioma {
-    border-left: 3px solid var(--foreground);
 }
 
 /* ESTILOS POR DEFECTO DE PANDOC
