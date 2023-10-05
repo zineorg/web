@@ -72,7 +72,9 @@ body {
 }
 
 .menu a.seleccion.idioma:hover {
-  filter: brightness(100%);
+  background-color: inherit;
+  color: inherit;
+  text-decoration: underline;
 }
 
 .menu a.logo:hover {
