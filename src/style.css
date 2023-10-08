@@ -41,7 +41,7 @@ body {
     border-bottom: 4px solid var(--foreground);
     padding-bottom: 1em;
     padding-top: 1em;
-    padding: 0.2em;
+    padding: 0;
     line-height: 3em;
     display: flex;
     flex-wrap: wrap;
@@ -66,29 +66,7 @@ body {
   border-right: 3px solid var(--foreground);
 }
 
-.menu a.seleccion.idioma {
-  border-left: 3px solid var(--foreground);
-  filter: brightness(0%);
-}
-
-.menu a.seleccion.idioma:hover {
-  background-color: inherit;
-  color: inherit;
-}
-
 .menu a.logo:hover {
-}
-
-.alerta {
-    font-weight: bolder;
-    color: var(--foreground);
-    text-transform: uppercase;
-    background-color: #ffe377;
-    text-align: center;
-    border: 3px dashed var(--foreground);
-    padding: 0.2em;
-    margin-bottom: 2em;
-    padding: 1em;
 }
 
 .cuerpo {
@@ -287,12 +265,32 @@ ul {
 }
 
 footer {
-    text-align:center;
+    overflow: hidden;
+    max-width: auto;
+    bottom: 0;
+    text-align: center;
+    color: var(--foreground);
     border-top: 4px solid var(--foreground);
-    padding-top: 1em;
     padding-bottom: 1em;
-    margin-top: 2.5em;
-    padding: 0.5em;
+    padding-top: 1em;
+    padding: 0;
+    line-height: 3em;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer a {
+  padding: 0.1em;
+  text-decoration: none;
+  font-size: 1.05rem;
+  white-space: nowrap;
+  flex-grow: 1;
+  min-width: 0;
+}
+
+.footer a:hover {
+  background-color: var(--foreground);
+  color: var(--background);
 }
 
 .botonera {

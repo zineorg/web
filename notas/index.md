@@ -9,7 +9,7 @@ header-includes: <style>.intro{display:none;} @media only screen and (min-width:
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-Las notas son «fragmentos» que hacen referencia a ideas, obras, hechos y citas relacionadas con el cine y el arte sonoro. Su orden de visualización no responde a ningún patrón preestablecido y su contenido no es estático ni definitivo.
+Las notas son «fragmentos» que hacen referencia a ideas, obras, citas y enlaces relacionadas con el cine, el arte sonoro y su relación con la ténica. Su orden de visualización no responde a ningún patrón y su contenido no es estático ni definitivo.
 
 <div class="botonera">
 
