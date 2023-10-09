@@ -375,9 +375,8 @@ thead {
 /* ANIMACIÓN GRANO */
 
 .fotograma {
-  position: absolute;
+  position: relative;
   overflow: hidden;
-  background: radial-gradient(ellipse at center, #ffeeac 0%, #5b2c15 100%);
 }
 
 .fotograma::after {
