@@ -11,13 +11,6 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 
 <div class="fotograma">
 
-<img src="https://i1.sndcdn.com/avatars-000118905051-meo3rs-t500x500.jpg" alt="">
-
-</div>
-
-
-<div class="fotograma">
-
 ![](https://i1.sndcdn.com/avatars-000118905051-meo3rs-t500x500.jpg){}
 
 </div>
