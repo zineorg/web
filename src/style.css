@@ -386,9 +386,8 @@ thead {
   height: 200vh;
   left: -50%;
   top: -50%;
-  opacity:0.1;
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/76/1k_Dissolve_Noise_Texture.png);
-  background-position: top left;
+  opacity:0.075;
+  background-image: url(/img/grano.png);
   animation:grano 1.5s steps(10) infinite;
 }
 @keyframes grano {
