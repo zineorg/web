@@ -9,10 +9,6 @@ header-includes: <style>.intro{display:none;} @media only screen and (min-width:
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-<div class="fotograma">
-
-![](https://i1.sndcdn.com/avatars-000118905051-meo3rs-t500x500.jpg){}
-
-</div>
+<div class="fotograma">![](https://i1.sndcdn.com/avatars-000118905051-meo3rs-t500x500.jpg){}</div>
 
 
