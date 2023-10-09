@@ -375,57 +375,25 @@ thead {
 /* ANIMACIÓN GRANO */
 
 .fotograma {
-    position: relative;
-    display: inline-block;
-    overflow: hidden; /* Evita que el grano se escape por los lados */
+  position: absolute;
+  overflow: hidden;
+  background: radial-gradient(ellipse at center, #ffeeac 0%, #5b2c15 100%);
 }
 
-.fotograma::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 300%;
-    height: 300%;
-    background-image:url("https://upload.wikimedia.org/wikipedia/commons/7/76/1k_Dissolve_Noise_Texture.png");
-    opacity: 0.1; /* Ajusta la opacidad del grano */
-    pointer-events: none; /* Evita que el pseudo-elemento interfiera con los eventos del ratón */
-    animation: grain 8s steps(10) infinite;
+.fotograma::after {
+  content:"";
+  position: absolute;
+  width:200vw;
+  height: 200vh;
+  left: -50%;
+  top: -50%;
+  opacity:0.1;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/76/1k_Dissolve_Noise_Texture.png);
+  background-position: top left;
+  animation:grano 1.5s steps(10) infinite;
 }
-
-@keyframes grain {
-  0%, 100% { transform:translate(0, 0) }
-  10%{
-    transform:translate(-5%,-10%)
-  }
-  20%{
-    transform:translate(-15%,-20%)
-  }
-  30%{
-    transform:translate(-5%,-10%)
-  }
-  40%{
-    transform:translate(-15%,-20%)
-  }
-  
-  50%{
-    transform:translate(-5%,-10%)
-  }
-  60%{
-    transform:translate(-15%,-20%)
-  }
-  70%{
-    transform:translate(-5%,-10%)
-  }
-  80%{
-    transform:translate(-15%,-20%)
-  }
-  90%{
-    transform:translate(-5%,-10%)
-  }
-  100%{
-    transform:translate(-15%,-20%)
-  }
+@keyframes grano {
+  50% {background-position: center;}
 }
 
 /* ESTILOS POR DEFECTO DE PANDOC
