@@ -1,7 +1,7 @@
 ---
 title: Acerca de Zine
 description: Zine es un laboratorio de fabricación de máquinas libres para capturar sonidos e imágenes, con acceso abierto a la documentación de su diseño. También encontrarás pequeñas notas sobre la relación —de dependencia— entre la tecnología, la técnica y el arte sonoro y cinematográfico. <hr class="descripcion">
-lang: esp
+lang: es
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
@@ -12,7 +12,7 @@ categoria: acercade
 
 Zine parte del concepto de «autofabricación»[^1], que establece la idea de que cada uno debe tener el acceso a comprender, reproducir, modificar o reparar sus propias máquinas, de una manera independiente y como alternativa a la industria y a quienes adoptan sus mismas fórmulas de consumo, dependencia y obsolescencia.
 
-En la actualidad es posible crear cámaras para hacer cine y micrófonos de alta calidad por muy poco dinero, con herramientas relativamente accesibles. Sin dependencia de los grandes ---y no tan grandes--- fabricantes y sus restricciones. Su filosofía es siempre ocultar información: no sabes lo que comprás, ni con qué ni cómo está construido, ni mucho menos cómo arreglarlo, replicarlo o adaptarlo a tus necesidades. La mayoría de las veces, son «productos novedad» basados en tendencias y en modas, y por lo tanto, con fecha de caducidad. Necesitamos herramientas con las que establecer una relación a largo plazo.
+En la actualidad es posible construir uno mismo sus propias herramientas para hacer cine y arte sonoro. Sin dependencia de los grandes ---y no tan grandes--- fabricantes y sus restricciones. No tienes el control sobre las máquinas: no sabes lo que comprás, ni con qué ni cómo está fabricado, ni mucho menos cómo arreglarlo, replicarlo o adaptarlo a tus necesidades. La mayoría de las veces, son «productos novedosos» basados en tendencias y en modas, y por lo tanto, con fecha de caducidad. Necesitamos herramientas con las que establecer una relación a largo plazo.
 
 Otro punto fundamental es la reutilización y adaptación de material, como «viejas» ópticas de televisión y cine, grabadoras de audio usadas y la creación de accesorios a partir de otros objetos, como soportes y protectores para el viento.
 
@@ -25,7 +25,7 @@ Este sitio web es estático y ligero, lo que ayuda a reducir el creciente consum
 [^2]: https://solar.lowtechmagazine.com/2015/10/why-we-need-a-speed-limit-for-the-internet/
 [^3]: https://github.com/
 
-Todo lo que forma parte de Zine está creado únicamente con software libre: desde la propia página web, creada sobre Pandoc, Inkscape e ImageMagick, hasta los modelos 3D ---que son diseñados con FreeCAD---. Una gran fuente de inspiración son los proyectos de Magic Lantern, AXIOM, CinePI, Libreboot/Coreboot, etc. También grandes inventores y cineastas como Jean-Pierre Beauviala o José Val del Omar, quienes marcaron el camino.
+Todo lo que forma parte de Zine está creado únicamente con software libre. La propia página web está creada sobre Pandoc, Inkscape e ImageMagick. Todos los modelos 3D son diseñados con FreeCAD.
 
 ## Licencia
 
