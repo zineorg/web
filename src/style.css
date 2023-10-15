@@ -27,7 +27,10 @@ header {
 body {
   font-family: 'Hyperlegible';
   line-height: 1.5em;
-  margin: auto;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  height: 100vh;
+  margin: 0;
 }
 
 .menu {
@@ -78,6 +81,9 @@ body {
     max-width: 1080px;
     padding: 0em 1em 0em 1em;
     box-sizing: border-box;
+    align-self: center;
+    justify-self: center;
+
 }
 
 .intro {
