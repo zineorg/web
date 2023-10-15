@@ -12,7 +12,7 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 <div class="presentacion">
 ![](img/geofono.svg){#logo}
 
-Un geófono es un dispositivo utilizado para capturar sonidos poco comunes o difíciles de obtener con micrófonos convencionales. Estos transductores constan de una masa suspendida en un resorte, que convierte las vibraciones en señales eléctricas; éstas son registradas y procesadas por equipos de grabación de audio como sonidos de baja frecuencia, llegando a registrar sonidos muy graves. Gracias a su alta sensibilidad, puede capturar vibraciones muy pequeñas: aparatos electricos, tráfico rodado, estructuras urbanas, flujos de agua, colmenas y hormigueros, instrumentos musicales e incluso el movimiento de la savía en el interior de los árboles.
+Un geófono es un dispositivo utilizado para capturar sonidos poco comunes o difíciles de obtener con micrófonos convencionales. Estos transductores constan de una masa suspendida en un resorte, que convierte las vibraciones en señales eléctricas; éstas son registradas y procesadas por equipos de grabación de audio como sonidos de baja frecuencia, llegando a registrar sonidos muy graves. Gracias a su alta sensibilidad, puede capturar incluso vibraciones muy pequeñas: aparatos electricos, tráfico rodado, estructuras urbanas, flujos de agua, colmenas y hormigueros, instrumentos musicales e incluso el movimiento de la savía en el interior de los árboles.
 
 En geofísica se utilizan para detectar y registrar las vibraciones o movimientos del suelo. Estas vibraciones pueden ser generadas por diversas fuentes, como terremotos, explosiones, maquinaria pesada o el movimiento de fluidos subterráneos. Son un componente esencial de los sismógrafos.
 

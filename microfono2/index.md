@@ -1,5 +1,5 @@
 ---
-title: Micrófonos de Zine
+title: Micrófono2 ~ Zine
 description: Micrófonos libres de Zine.
 date: 15/11/2023
 lang: es-ES
@@ -10,9 +10,9 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
 <div class="presentacion">
-![](img/metal1.svg){#logo}
+![](img/microfono2.svg){#logo}
 
-Los **micrófonos de metal** son unos micrófonos de muy alta sensibilidad y bajo ruido con cuerpo aluminio. Están basados en la cápsula EM272Z1 de Primo y pueden funcionar tanto en una entrada minijack mediante PIP como en una entrada XLR balanceada ---gracias a SimpleP48---, solo dependiendo del cable que se utilice para conectarlos, ya que constan de un conector mini-XLR en su cuerpo que los hace muy versátiles. Su diseño parte de un tubo de aluminio y su fabricación puede ser realizada completamente con herramientas manuales. Llevan un cable miniatura Mogami de máxima calidad con el apantallamiento trenzado. El cuerpo de aluminio permite utilizarlo con accesorios más eficientes, como mini-blimps, liras y antivientos autofabricados. 
+Micrófonos de alta sensibilidad y bajo ruido con cuerpo aluminio. Están basados en la cápsula EM272Z1 de Primo y su diseño es modular gracias a su conector miniXLR, ya que pueden ser utilizados tanto en una entrada minijack mediante PIP como en una entrada XLR balanceada ---gracias a SimpleP48---, solo dependiendo del cable que se les conecte. Su diseño parte de un tubo de aluminio y su fabricación puede ser realizada completamente con herramientas manuales. Este cuerpo de aluminio permite utilizarlos con accesorios más eficientes, como liras, mini-blimps y paravientos autoconfeccionados. Utilizan un cable miniatura de Mogami de máxima calidad con apantallamiento trenzado.
 </div>
 
 <div class="botonera">

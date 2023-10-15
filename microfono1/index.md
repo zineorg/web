@@ -1,8 +1,8 @@
 ---
-title: Micrófonos de Zine
+title: Micrófono1 ~ Zine
 description: Micrófonos libres de Zine.
-date: 15/11/2023
-lang: es-ES
+date: 15/10/2023
+lang: es
 author: pmiramon
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
 header-includes: <style>.intro{display:none;} .cuerpo{max-width:95%;} @media only screen and (min-width:665px) {a.seleccion.microfono1::before{content:"➞ "; font-weight:bolder;}}</style>
@@ -10,9 +10,9 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
 <div class="presentacion">
-![](img/carbon.svg){#logo}
+![](img/microfono1.svg){#logo}
 
-Los **micrófonos** son unos pequeños microfonos omnidireccionales de muy alta sensibilidad y bajo ruido. Están basados en la cápsula AOM-5024L y están diseñados para usarse a través de una conexión PIP a una entrada de mini jack de 3,5mm. Utilizan un cable de alta calidad, el cable miniatura W2368 de Mogami de tan solo 2mm de diamentro. Su forma mantiene la capsula y el paravientos en el sitio perfecto, manteniendose siempre un espacio vacío entre el cortavientos y dicha cápsula. Están diseñados para ser impresos en PETG+CF. Tienen un surco dónde agarrar los antivientos y un saliente donde enganchar los clips de pinza. También pueden ser utilizados directamente en cualquier DSLR que disponga de entrada minijack con PIP.
+Estos pequeños micrófonos estéreo de alta sensibilidad y bajo ruido, son perfectos para grabaciones de campo. Tienen un patrón omnidireccional y tienen una resistencia alta a las intereferencias. Están basados en la cápsula de condensador electreto AOM-5024L, además de un conector Neutrik minijack de 3,5mm y del cable miniatura Mogami W2368 de tan solo 2mm de diamentro. El cuerpo está impreso en PET reciclado con fibras de carbono y su diseño mantiene siempre la distancia adecuada entre la capsula y el paravientos, manteniendo siempre una cámara de aire que disminuye notablemente el efecto del viento sobre la cápsula. Aunque es recomendable utilizarlos junto a una grabadora de audio, también pueden ser utilizados en cualquier cámara DSLR o dispositivo que disponga de entrada de audio de 3,5mm con PIP.
 </div>
 
 <div class="botonera">
