@@ -10,7 +10,7 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
 <div class="presentacion">
-![](img/metal1.svg){#logo-izq}
+![](img/metal1.svg){#logo}
 
 Los **micrófonos de metal** son unos micrófonos de muy alta sensibilidad y bajo ruido con cuerpo aluminio. Están basados en la cápsula EM272Z1 de Primo y pueden funcionar tanto en una entrada minijack mediante PIP como en una entrada XLR balanceada ---gracias a SimpleP48---, solo dependiendo del cable que se utilice para conectarlos, ya que constan de un conector mini-XLR en su cuerpo que los hace muy versátiles. Su diseño parte de un tubo de aluminio y su fabricación puede ser realizada completamente con herramientas manuales. Llevan un cable miniatura Mogami de máxima calidad con el apantallamiento trenzado. El cuerpo de aluminio permite utilizarlo con accesorios más eficientes, como mini-blimps, liras y antivientos autofabricados. 
 </div>
