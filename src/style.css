@@ -94,12 +94,11 @@ body {
 }
 
 h1.title {
-    font-size: 2rem;
+    font-size: 3rem;
     margin-top: 1em;
     margin-bottom: 1em;
     color: var(--accent-color);
     padding: 0.3em;
-    text-transform: uppercase;
 }
 
 nav#TOC {
@@ -201,13 +200,13 @@ a:active {
 }
 
 h1.title::-moz-selection {
-  background: var(--background);
-  color: var(--accent-color);
+  background: var(--accent-color);
+  color: var(--background);
 }
 
 h1.title::selection {
-  background: var(--background);
-  color: var(--accent-color);
+  background: var(--accent-color);
+  color: var(--background);
 }
 
 ::-moz-selection {
@@ -234,7 +233,7 @@ h1 {
     font-size: 2rem;
     margin-top: 2.5rem;
     text-align:center;
-    line-height: 1rem;
+    line-height: 3rem;
 }
 
 h2, h3, h5, h6 {

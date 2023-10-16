@@ -20,10 +20,20 @@ Un inconveniente es que las lentes estándar y angulares tienden a no cubrir sen
 
 > ¿Que pasó con el cine en Japón en los 50? ¿Hubo un auge mientras en USA había un declive?
 
-Cine cameras need fast lenses because of shooting 18 or more images per second. That's the reason for a completely different culture behind the large variety of cine lenses. Thus f1.2, f1.4, f1.5, f1.8 and so on are typical standard lens speeds of these items, whilst f1.7, f1.8 and f2.8 are the most common standard lens speeds of still cameras. Even cine zoom lenses have speeds beginning with f1.2, f2, f2.4, while most still camera zoom lenses start with lens speed f3.5 . 
+Cine cameras need fast lenses because of shooting 18 or more images per second. That's the reason for a completely different culture behind the large variety of cine lenses. Thus f1.2, f1.4, f1.5, f1.8 and so on are typical standard lens speeds of these items, whilst f1.7, f1.8 and f2.8 are the most common standard lens speeds of still cameras. Even cine zoom lenses have speeds beginning with f1.2, f2, f2.4, while most still camera zoom lenses start with lens speed f3.5 . También que físicamente/ópticamente, es más fácil hacer ópticas mas luminosas para sensores pequeños.
 
 ¿Por qué las lentes de cine y televisión son tan rápidas? Una explicación es por la necesidad de disparar 18 o más imagenes por segundo. Esa es la razón para una cultura completamente diferente detrás del largo catalogo de objetivos para cine. Excepcionalmente podemos encontrar f0.78, f0.95. Lo habitual es f1.2, f1.4, f1.8 como el estandar mas habitual de velocidad para este tipo de objetivos ---mientras que para fotografía, normalmente rondan el f1.8---. ¡Incluso los objetivos zoom tiene velocidades de f1.2, f2, f2.4! Pero la explicación técnica para esto, es que a menor tamaño de sensor ---y menos mm entre elemento trasero y sensor--- es mas fácil conseguir estas velocidades.
 Este video lo explica genial: https://www.youtube.com/watch?v=2p5E7iXxeQE
+
+La fórmula para calcular el número f de apertura es:
+
+f = D / d
+
+Donde:
+
+    "f" es el número f de apertura.
+    "D" es el diámetro de la lente exterior (la abertura efectiva de la lente).
+    "d" es el diámetro del diafragma o apertura en la lente.
 
 > Diferenciar entre multifocal, varifocal y parfocal en los zooms.
 > Historia del zoom, es interesante.
@@ -63,7 +73,7 @@ Angenieux 17-68/2.2 (muy nitido, cubre m4/3)
 CCTV chino 16mm cubre m43
 Pentax 25mm pequeño cubre m43
 
-Fujinon 25mm f0.85 (Parece fácil de adaptar y de calidad)
+
 Canon C-16 13mm f1.5
 Fuji Photo Optical Fujinon TV 50mm f0.7 (Máquinas de radiografías)
 Canon 25mm f0.73 (cuidado con el elemento trasero, creo que podría adaptarlo)
@@ -160,6 +170,20 @@ COMPUTAR 5.5mm 1:1.5 (Algunas 1" otras 2/3", vigilar el elemento trasero muy sal
 YASHICA SC 12.5mm f1.3 TV Lens From Japan Tomioka glass OJO que es dificil de adaptar
 
 Computar TV Zoom Lens 12.5-75mm F1.2 C Mount es 2/3" (No tan bueno como el Fujinon, muchisimo menos nitido)
+
+
+### Ultra Luminosos
+
+Fujinon 25mm f0.85 (Se puede adaptar y de calidad, nítido)
+Ernitec 25mm f0.85
+ERNITEC F0.95 17mm
+Tarcus 25mm f0.85
+NAVITAR MVL17HS - 17 mm EFL, f/0.95, for 1"
+Navitar 25 mm F0.95 for 1"
+Schneider 25mm
+Schneider 17mm
+Canon TV-16 lens 25mm F0.78 C
+
 
 Kowa Prominar 8.5mm ESFERICO muy bueno!
 Kowa / Navitar 6mm C MOUNT MUY BUENO!
