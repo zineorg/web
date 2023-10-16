@@ -1,12 +1,12 @@
 ---
 title: Zine
-description: Cine libre
-date: 14/10/2023
+description: Máquinas libres para capturar sonidos e imágenes
+date: 16/10/2023
 lang: es
 author: pmiramon
-keywords: zine, cine, sonido
-header-includes: <style>.intro{display:none;}</style>
+keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
+header-includes: <style>.intro{display:none;} .cuerpo{max-width:95%;}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-<div class="fotograma">![](https://m.media-amazon.com/images/I/81qxgdl5N5L._SL1200_.jpg){}</div>
+<h1 class="index">Máquinas libres para capturar sonidos e imágenes</h1>

@@ -102,6 +102,15 @@ h1.title {
     text-transform: uppercase;
 }
 
+h1.index {
+    font-size: 5rem;
+    line-height: 5rem;
+    margin: 0;
+    color: #66625d;
+    padding: 0.3em;
+    text-align: right;
+}
+
 nav#TOC {
     top: 0;
     text-align: left;
@@ -384,6 +393,7 @@ thead {
 .fotograma {
   position: relative;
   overflow: hidden;
+  border-radius: 0.35rem;
 }
 
 .fotograma::after {
