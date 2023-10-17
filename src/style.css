@@ -106,9 +106,9 @@ h1.index {
     font-size: 5rem;
     line-height: 5rem;
     margin: 0;
-    color: #66625d;
-    padding: 0.3em;
+    color: var(--foreground);
     text-align: right;
+    opacity: 0.9;
 }
 
 nav#TOC {
