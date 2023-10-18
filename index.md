@@ -13,8 +13,6 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 
 <div class="idioma">
 
-<a class="selector" href="">
-<span>▣ esp □ eng</span>
-</a>
+<a class="selector" href=""><span>▣ esp □ eng</span></a>
 
 </div>
