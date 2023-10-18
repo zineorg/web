@@ -72,6 +72,16 @@ body {
 .menu a.logo:hover {
 }
 
+.menu a.seleccion.english {
+  font-weight: bolder;
+  border-right: 3px solid var(--foreground);
+}
+
+.menu a.seleccion.español {
+  font-weight: bolder;
+  border-right: 3px solid var(--foreground);
+}
+
 .cuerpo {
     line-height: 1.5em;
     margin-top: 2.5em;
@@ -409,26 +419,6 @@ thead {
 }
 @keyframes grano {
   50% {background-position: center;}
-}
-
-.selectoridioma {
-    font-size: 3rem;
-    text-align: right;
-    padding-top: 2rem;
-}
-
-a.selector {
-    text-decoration: none;
-    background-color: none;
-    color: var(--foreground);
-}
-
-.selector:hover span {
-  display: none;
-}
-
-.selector:hover::after {
-  content: '□ esp ▣ eng';
 }
 
 /* ESTILOS POR DEFECTO DE PANDOC
