@@ -73,7 +73,6 @@ body {
 }
 
 .menu a.seleccion.idioma {
-  display: none;
   font-weight: bolder;
   border-right: 3px solid var(--foreground);
 }
