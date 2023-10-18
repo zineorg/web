@@ -3,7 +3,7 @@ title: Acerca de Zine
 description: Zine es un laboratorio de fabricación de máquinas libres para capturar sonidos e imágenes, con acceso abierto a la documentación de su diseño. También encontrarás pequeñas notas sobre la relación —de dependencia— entre la tecnología, la técnica y el arte sonoro y cinematográfico. <hr class="descripcion">
 lang: es
 keywords: zine, cine libre, software libre, hardware libre, privacidad, tecnología libre, autonomia digital, magic lantern, coreboot, libreboot, thinkpad, EM272
-header-includes: <style>h1.title{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
+header-includes: <style>h1.title{display:none;} .idioma{display:none;} @media only screen and (min-width:665px) {a.seleccion.acerca::before{content:"➞ "; font-weight:bolder;}}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 categoria: acercade
 ---
