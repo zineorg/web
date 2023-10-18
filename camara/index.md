@@ -15,7 +15,7 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 
 <br>
 
-Zine16 es un proyecto en desarrollo. Se trata de una cámara digital libre compatible con ópticas manuales de 16mm y 8mm. Está basada en Magic Lantern[^1], por lo que parte de un cuerpo de cámara liberado, permitiendo obtener un negativo digital real. Funciona a 24fps con una obturación de 172,8º. Su tamaño de sensor es variable, por lo que no tiene restricciones para filmar en casi cualquier relacion de aspecto, cómo 1.33:1, 1.66:1 o 2:1. Utiliza dos baterías en serie 18650 en un pequeño circuito de protección contra polaridad inversa basado en un mosfet (pfet). Dispone de un sistema ventilación activa mediante un ventilador y disipadores de calor; este sistema es activado manualmente.
+Zine16 es un proyecto en desarrollo. Se trata de una cámara digital libre compatible con ópticas manuales de 16mm y 8mm. Está basada en Magic Lantern[^1], por lo que parte de un cuerpo de cámara liberado, permitiendo obtener un negativo digital real. Funciona a 24fps con una obturación de 172,8º. Su tamaño de sensor es variable, por lo que no tiene restricciones para filmar en casi cualquier relacion de aspecto ---cómo 1.33:1, 1.66:1 o 2:1--- y con casi cualquier óptica. Utiliza dos baterías en serie 18650 en un pequeño circuito de protección contra polaridad inversa basado en un mosfet (pfet). Dispone de un sistema ventilación activa mediante un ventilador y disipadores de calor; este sistema es activado manualmente.
 
 [^1]: https://en.wikipedia.org/wiki/Magic_Lantern_(firmware)
 

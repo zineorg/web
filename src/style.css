@@ -411,6 +411,26 @@ thead {
   50% {background-position: center;}
 }
 
+.idioma {
+    font-size: 3rem;
+    text-align: right;
+    padding-top: 2rem;
+}
+
+a.selector {
+    text-decoration: none;
+    background-color: none;
+    color: var(--foreground);
+}
+
+.selector:hover span {
+  display: none;
+}
+
+.selector:hover::after {
+  content: '□ esp ▣ eng';
+}
+
 /* ESTILOS POR DEFECTO DE PANDOC
     Puede que sean prescindibles */
 

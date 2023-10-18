@@ -10,3 +10,13 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
 <h1 class="index">Máquinas libres para capturar sonidos e imágenes</h1>
+
+<div class="idioma">
+
+    <a class="selector" href="">
+        <span>
+        ▣ esp □ eng
+        </span>
+    </a>
+
+</div>
