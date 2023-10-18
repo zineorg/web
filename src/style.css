@@ -72,12 +72,7 @@ body {
 .menu a.logo:hover {
 }
 
-.menu a.seleccion.english {
-  font-weight: bolder;
-  border-right: 3px solid var(--foreground);
-}
-
-.menu a.seleccion.español {
+.menu a.seleccion.idioma {
   font-weight: bolder;
   border-right: 3px solid var(--foreground);
 }
