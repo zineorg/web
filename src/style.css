@@ -66,6 +66,7 @@ body {
 
 .menu a.seleccion.logo {
   font-weight: bolder;
+  font-size: 1.3rem;
   border-right: 3px solid var(--foreground);
 }
 
@@ -429,21 +430,14 @@ thead {
 /* RESOLUCIONES DE TELÉFONO:
     Al final de la hoja de estilo.*/
 
-@media only screen and (max-width: 665px) {
+@media only screen and (max-width: 800px) {
 
-    .menu a.logo {
-      border-bottom: 3px solid var(--foreground);
-    }
-
-    
-    
     img#logo {
         float: none;
         margin-left: auto;
         margin-right: auto;
         padding: 0;
         max-width: 100%;
-
     }
     
     p.descripcion {
