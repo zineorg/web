@@ -6,6 +6,7 @@ for f in ../microfono2/*.md; do pandoc "$f" --toc --toc-depth=3 --template plant
 for f in ../geofono/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c /src/style.css -B menu.html -A pie.html -o "../geofono/$(basename "${f%.*}").html"; done
 for f in ../camara/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c /src/style.css -B menu.html -A pie.html -o "../camara/$(basename "${f%.*}").html"; done
 for f in ../notas/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c /src/style.css -B menu.html -A pie.html -o "../notas/$(basename "${f%.*}").html"; done
+for f in ../en/*.md; do pandoc "$f" --toc --toc-depth=3 --template plantilla.html -c /src/style.css -B menu-en.html -A pie-en.html -o "../en/$(basename "${f%.*}").html"; done
 rm ../README.html
 git add ../ -A
 echo "Introduce el mensaje para el commit:"
