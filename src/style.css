@@ -453,7 +453,11 @@ thead {
     }
 
     .menu a {
-        width: 100%;
+        width: 50%;
+    }
+
+    .menu a.seleccion.logo {
+      border-bottom: 3px solid var(--foreground);
     }
     
 /*    .presentacion {
