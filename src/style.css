@@ -430,7 +430,7 @@ thead {
 /* RESOLUCIONES DE TELÉFONO:
     Al final de la hoja de estilo.*/
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 799px) {
 
     img#logo {
         float: none;
@@ -450,6 +450,10 @@ thead {
         margin-right: auto;
         margin-bottom: 2em;
         max-width: fit-content;
+    }
+
+    .menu a {
+        width: 100%;
     }
     
 /*    .presentacion {
