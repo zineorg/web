@@ -465,7 +465,7 @@ thead {
     }
 
 .pie {
-        padding: 0.4rem;
+        align-items: center;
     }
 
 
@@ -477,7 +477,6 @@ thead {
     .pie a.seleccion.acerca {
       line-height: 1.5rem;
       padding: 1rem;
-      border-bottom: 2px dashed var(--foreground);
       width: 60%;
     }
 
