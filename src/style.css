@@ -109,8 +109,8 @@ h1.title {
 }
 
 h1.index {
-    font-size: 5rem;
-    line-height: 5rem;
+    font-size: calc(6vw + 2rem);
+    line-height: calc(6vw + 2rem);
     margin: 0;
     color: var(--foreground);
     text-align: right;
@@ -465,24 +465,18 @@ thead {
     }
 
     h1.index {
-        font-size: inherit;
-        line-height: inherit;
-        margin: 0;
-        color: var(--foreground);
-        text-align: right;
-        opacity: 0.9;
     }
 
-    .pie {
+    /*.pie {
         display: flex;
         flex-direction: column-reverse;
-    }
+    }*/
 
     .pie a.seleccion.acerca {
       border-right: none;
       line-height: 1.5rem;
       padding: 1rem;
-      border-top: 3px solid var(--foreground);
+      border-bottom: 2px dashed var(--foreground);
     }
 
 }
