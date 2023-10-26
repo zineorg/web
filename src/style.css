@@ -433,7 +433,7 @@ thead {
 @media only screen and (max-width: 799px) {
 
     header {
-        background: var(--foreground);
+        
     }
 
     img#logo {
@@ -458,6 +458,7 @@ thead {
     
     .menu {
         line-height: 2.5em;
+        background: var(--foreground);
     }
 
     .menu a {
