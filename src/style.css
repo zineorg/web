@@ -432,6 +432,10 @@ thead {
 
 @media only screen and (max-width: 799px) {
 
+    header {
+        background: var(--foreground);
+    }
+
     img#logo {
         float: none;
         margin-left: auto;
@@ -451,17 +455,24 @@ thead {
         margin-bottom: 2em;
         max-width: fit-content;
     }
+    
+    .menu {
+        line-height: 2.5em;
+    }
 
     .menu a {
         width: 50%;
+        text-transform: uppercase;
+        color: var(--background);
     }
 
     .menu a.seleccion.logo {
-      border-bottom: 3px solid var(--foreground);
+      text-transform: none;
+      font-size: 1.8rem;
     }
 
     .menu a.seleccion.idioma {
-      border-bottom: 3px solid var(--foreground);
+      text-transform: none;
     }
 
 .pie {
