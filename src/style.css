@@ -473,6 +473,7 @@ thead {
 
     .menu a.seleccion.idioma {
       text-transform: none;
+      font-size: 1.8rem;
     }
 
 .pie {
