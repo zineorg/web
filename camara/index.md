@@ -5,7 +5,7 @@ date: 21/09/2023
 lang: es
 author: pmiramon
 keywords: zine, cine, camara, 16mm, magic lantern
-header-includes: <style>.intro{display:none;} .idioma{display:none;} @media only screen and (min-width:665px) {a.seleccion.camara::before{content:"➞ "; font-weight:bolder;}}</style>
+header-includes: <style>.intro{display:none;} .idioma{display:none;} a.seleccion.camara::before{content:"➞ "; font-weight:bolder;}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 

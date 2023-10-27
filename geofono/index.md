@@ -5,7 +5,7 @@ date: 15/10/2023
 lang: es
 author: pmiramon
 keywords: zine, cine, geofono, geophone, sonoro
-header-includes: <style>.intro{display:none;} .idioma{display:none;} .cuerpo{max-width:95%;} @media only screen and (min-width:665px) {a.seleccion.geofono::before{content:"➞ "; font-weight:bolder;}}</style>
+header-includes: <style>.intro{display:none;} .idioma{display:none;} .cuerpo{max-width:95%;} a.seleccion.geofono::before{content:"➞ "; font-weight:bolder;}</style>
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
