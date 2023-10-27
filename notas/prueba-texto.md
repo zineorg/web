@@ -37,9 +37,7 @@ These impressions of relevance, of euphoria, of failure, of fusion with a gestur
 
 [^5]: MARTIN P., “Optical Viewfinding”, p. 145-149.
 
-<div class="fotograma">
-<img src="https://m.media-amazon.com/images/I/81qxgdl5N5L._SL1200_.jpg" />
-</div>
+<div class="fotograma"><img src="https://m.media-amazon.com/images/I/81qxgdl5N5L._SL1200_.jpg" /></div>
 
 Beyond the qualities or defects attributed to this camera that remained a prototype, for Thomas Weyland, it “allows apprentice operators to learn the ropes ... forces to think the limits, to confront them and to find solutions that allow to exceed them, and possibly come back to them later to go even further.[^6]” The reason that explains why the École nationale supérieure Louis-Lumière devoted an educational workshop to the Delta Penelope, and why in this issue of the Cahier ENS Louis-Lumière it is a subject of focus to teachers, students and ex-students lies in the perspective of the ontological project which presided over its invention: to locate the aesthetic stake in the confluence of the gesture and the tool because “its entire conception is an invitation to the manual apprehension of the operator, be it the rotary selector, the optical viewfinder, or the shape of the camera made to fit to the shoulder.[^7]” In contrast, therefore, to the increasingly disembodied perception of the digital tool. Hence the challenge of the educational workshop “Filming with the Delta Penelope” that allowed students to reflect on the concept of a prototype, of the non-standardized, thus leaving open the possible responses to technical constraints.
 
