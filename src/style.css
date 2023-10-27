@@ -474,6 +474,7 @@ thead {
 
     .menu a.seleccion.idioma {
         text-transform: none;
+        font-size: 1.2rem;
         border-bottom: 3px solid var(--background);
         border-right: 3px solid var(--background);
         border-bottom-right-radius: 30px;
