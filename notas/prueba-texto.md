@@ -17,7 +17,15 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 
 [^1]: BAZIN J., Bensa Alban, «Les objets et les choses: Des objets à la “chose”». In: Genèses, 17, 1994, p. 6.
 
+::: fotograma
+![](https://m.media-amazon.com/images/I/81qxgdl5N5L._SL1200_.jpg)
+:::
+
 On October 13 and 14, 2011, the Cinémathèque française organized a symposium named Digital Revolution: What if Cinema Lost Its Memory? Among the participants: Jean-Pierre Beauviala, the president of the Aaton Company, until 2013. He proposes the large audience in the Henri Langlois hall a dialogue around the question Towards a hybrid cinema? The idea of a possible hybridity that could allow for the preservation of the best of silver-based film in the digital realm, “to temper the loss, to limit the differences between film and digital,[^2]” was never abandoned by the inventor. Jean-Pierre Beauviala added touches of this hybridity, sometimes with little scientific evidence: in the same symposium, when he stated that “the autochrome is exactly the principle which is used in the best performing digital cameras[^3]” and launched the project of a digital sound recording device with two optical stereo tracks, visible to the naked eye; in his conversations with the students of the ENS Louis- Lumière he stressed the importance of continuing to teach silver-based film (March 13, 2018); when he imagined tools that resulted from the observation of gestures and lastly, in his last patent for the Delta Penelope camera.
+
+::: fotograma
+![Prueba de pie de imagen](https://m.media-amazon.com/images/I/81qxgdl5N5L._SL1200_.jpg)
+:::
 
 [^2]: GRIZET D., Les appareils de prise de vues de la société Aaton (1971-2013). Du «direct» au «numérique»: enjeux techniques et esthétiques, Master's thesis, Recherche en Études cinématographiques, under the supervision of MOUËLLIC G., Université Rennes 2, 2017, p. 87.
 
