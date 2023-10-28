@@ -500,9 +500,17 @@ thead {
 
     h1.title {
     text-transform: none;
-}
+    }
+
+    .fotograma {
+        margin: 0;
+    }
 
 }
+
+    .acercade {
+      margin-bottom: 0;
+    }
 
 @media only screen and (max-width: 499px) {
 
