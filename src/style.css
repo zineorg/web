@@ -401,6 +401,7 @@ thead {
   position: relative;
   overflow: hidden;
   border-radius: 0.35rem;
+  margin: 2rem;
 }
 
 .fotograma::after {
