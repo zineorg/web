@@ -11,7 +11,7 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 
 Las notas son «fragmentos» que hacen referencia a autores, ideas, citas, obras y enlaces relacionadas con la imagen, el sonido y su relación con la ténica. Su orden de visualización no responde a ningún patrón y el contenido de cada nota nunca es definitivo.
 
-<div class="botonera">
+::: botonera
 
 [Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.](#intro){.boton .articulo}
 
@@ -29,5 +29,5 @@ Las notas son «fragmentos» que hacen referencia a autores, ideas, citas, obras
 
 [Ullalaboris. Quis nostrud exercitation ullalaboris. Quis nostrud exercitation.](#intro){.boton}
 
-</div>
+:::
 

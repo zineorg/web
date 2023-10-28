@@ -9,7 +9,9 @@ header-includes: <style>.intro{display:none;} .idioma{display:none;} a.seleccion
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-<div class="presentacion">
+::: presentacion
+
+<br>
 
 ![](img/camara1.svg)
 
@@ -27,6 +29,6 @@ Zine16 es un proyecto en desarrollo. Se trata de una cámara digital libre compa
 
 (Re)utiliza ópticas de cine y televisión de montura C[^2], conocida por ser la montura universal más antigüa que aún sigue en uso. El cuerpo está fabricado en plástico reciclado reforzado y su empuñadura está fabricada con una mezcla reciclada de madera. El diseño soporta el usor de un visor LCD Zacuto. Su sistema de almacenamiento utiliza tarjetas SD con la frecuencia aumentada, por lo que es muy económico. Esta completamente diseñada en FreeCAD. No graba sonido, ni permite el uso de monitores externos, ni de baterías propietarias. Tampoco tiene soporte para ópticas con autofoco, ni con estabilizador.
 
-</div>
+:::
 
 [^2]: https://en.wikipedia.org/wiki/C_mount

@@ -9,7 +9,7 @@ header-includes: <style>.intro{display:none;} .idioma{display:none;} .cuerpo{max
 rights: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-<div class="presentacion">
+::: presentacion
 ![](img/geofono.svg){#logo}
 
 Un geófono es un dispositivo utilizado para capturar sonidos poco comunes o difíciles de obtener con micrófonos convencionales. Estos transductores constan de una masa suspendida en un resorte, que convierte las vibraciones en señales eléctricas; éstas son registradas y procesadas por equipos de grabación de audio como sonidos de baja frecuencia, llegando a registrar sonidos muy graves. Gracias a su alta sensibilidad, puede capturar incluso vibraciones muy pequeñas: aparatos electricos, tráfico rodado, estructuras urbanas, flujos de agua, colmenas y hormigueros, instrumentos musicales e incluso el movimiento de la savía en el interior de los árboles.
@@ -18,9 +18,9 @@ En geofísica se utilizan para detectar y registrar las vibraciones o movimiento
 
 Nuestro diseño se basa en el geófono ION SM-6 omnidireccional de Sensor Nederland. Tiene una impedancia de 3500 Ω y una frecuencia nominal de 14 Hz. Su sensibilidad en circuito abierto es de 80.0 V/m/s.
 
-</div>
+:::
 
-<div class="botonera">
+::: botonera
 
 [Instrucciones](instrucciones.html){.boton}
 
@@ -28,4 +28,4 @@ Nuestro diseño se basa en el geófono ION SM-6 omnidireccional de Sensor Nederl
 
 [Ayuda](ayuda.html){.boton}
 
-</div>
+:::
