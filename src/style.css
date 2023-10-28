@@ -432,8 +432,8 @@ thead {
 
 @media only screen and (max-width: 799px) {
 
-    header {
-        
+    body {
+        display: block;
     }
 
     img#logo {

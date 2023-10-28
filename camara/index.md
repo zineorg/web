@@ -11,7 +11,7 @@ rights: Creative Commons Attribution-ShareAlike 4.0 International License
 
 <div class="presentacion">
 
-![](img/camara1.svg){}
+![](img/camara1.svg)
 
 <br>
 
@@ -21,7 +21,7 @@ Zine16 es un proyecto en desarrollo. Se trata de una cámara digital libre compa
 
 <br>
 
-![](img/camara2.svg){}
+![](img/camara2.svg)
 
 <br>
 
