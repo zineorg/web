@@ -23,7 +23,7 @@ Zine16 is a project under development. It is a free digital camera compatible wi
 
 <br>
 
-![](img/camara2.svg)
+![](/camara/img/camara2.svg)
 
 <br>
 
