@@ -101,6 +101,8 @@ Cosmicar 4.8mm (Enfoque fijo)
 Cosmicar 6mm
 Cosmicar 6.5mm f/1.8 Enfoque fijo
 
+Tarcus 6.5mm f1.8 enfoque fijo cubre una pulgada (incluso podria valer para 4/3!)
+
 Schneider Variogon Zoom
 Sun / Cosmicar 22.5-90mm
 
@@ -191,6 +193,9 @@ Schneider 25mm
 Schneider 17mm
 Canon TV-16 lens 25mm F0.78 C
 
+Nominar 25mm F0.95 C
+Angenieux 25mm F 0.95 C (algo menos nitido?)
+NAVITAR 25MM F0.95 C
 
 Kowa Prominar 8.5mm ESFERICO muy bueno!
 Kowa / Navitar 6mm C MOUNT MUY BUENO!
