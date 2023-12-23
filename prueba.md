@@ -27,6 +27,33 @@ Las notas son «fragmentos» que hacen referencia a autores, ideas, citas, obras
 
 [#409: «Série noire»](#intro){.boton .articulo}
 
+[#408: Ida Lupino · I](#intro){.boton .articulo}
+
+[#407: Marie-Louise Iribe](#intro){.boton .articulo}
+
+[#406: Germaine Un Texto más largo a ver Dulac · III](#intro){.boton .articulo}
+
+[#405: Germaine Dulac · II](#intro){.boton .articulo}
+
+[#404: «Psychotronic» · VI ](#intro){.boton .articulo}
+
+[#403: «Psychotronic» · V](#intro){.boton .articulo}
+
+[#401: «Série noire»](#intro){.boton .articulo}
+
+[#400: Ida Lupino · I](#intro){.boton .articulo}
+
+[#399: Marie-Louise Iribe](#intro){.boton .articulo}
+
+[#398: Germaine Prueba Prueba Dulac · III](#intro){.boton .articulo}
+
+[#397: Germaine Otro Dulac · II](#intro){.boton .articulo}
+
+[#396: «Psychotronic» · VI ](#intro){.boton .articulo}
+
+[#395: «Psychotronic» · V](#intro){.boton .articulo}
+
+[#394: «Série noire»](#intro){.boton .articulo}
 
 :::
 
