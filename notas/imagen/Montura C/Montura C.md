@@ -57,6 +57,12 @@ https://www.pacificrimcamera.com/
 
 /guerrillafilmmaking.tv
 
+"The lens mount on the H-8 REX was the same 1" thread diameter as found on the standard C-mount of the H-16 and other 16mm cameras. However, the optical distance between lens seat and film plane was 15.305mm (compared with 17.52 on 16mm). [2] The lenses designed specifically for the H-8 Reflex were identified by the letters "H8 RX" inscribed on the lens barrel" Existe adaptador eosm h8 en raf camera.
+
+existen adaptadores leica m to eosm en aliexpress.
+
+existen adaptadores D-mount a EOSM en rafcamera.
+
 # Marcas de montura C
 
 ## BBB:
