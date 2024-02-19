@@ -86,6 +86,23 @@ I’ve now got the Sound Devices MixPre3 and still use my Olympus LS-11 in ‘ul
 
 [^*]: http://www.avisoft.com/recorder-tests/
 
+## ZOOM F3
+
+As I understand it, think of the volume control on the F3 as the post gain faders. The signal isn’t going to clip unless the microphone physically overloads or the mic preamp overloads. So all you’re adjusting is how loud you hear it in the headphone output.
+
+For a second, drop the idea of 32 bit recording. The way the F3 works, and most 32 bit recorders, is by having dual ADCs.
+One ADC is for quiet sources (high gain) and one is for loud sources (low gain).
+The math under the hood uses voltages received from the microphones based on their sensitivity to decide which ADC to use.
+Normally it stays in the high gain ADC mode.
+When loud signals occur, and to preemptively prevent clipping, it swaps to the low gain ADC.
+This automatic switch is the magic. The two ADCs enable the higher headroom to not clip.
+However, there is a huge drawback for anyone working in 88200 or higher sample rates. The noise signature of the low gain ADC injects 30dB of noise when it comes in. So, it is lower gain and not clipped internally in the gain structure, but the curve of the noise signature is exponentially worse the higher the frequencies go. Thus, if you do ever do SFX that you plan to pitch down you are screwed when the low gain ADC decides to occur on the math under the hood because it injected that noise in a way you can’t fix in post.
+Now back to 32 bit. It’s only 32 bit to handle the dual ADCs. While it will never clip in the recorder, it can still clip at the capsule, and can easily inject the low gain ADC noise for any medium-loud sound sources which ruins takes if you plan to ever pitch things down like sound effects.
+
+ not sure if the F3 has the same dual ADCs as the F6, but if that's the case then there's no need at all to set gain. Between the two ADCs the whole dynamic range of a given microphone can be captured without needing to control the gain. Then recording that signal at 32 bits also makes gain control unnecessary. You just record and that's it. Later you set the desired gain in post and before bit reduction for exporting (e.g., to 24 bits), without having to worry about bringing up noise floor. On non 32 bit recorders and limited range ADC you have to control the gain before the ADC since the microphone's dynamic range is wider than what the converter can take, so you have to choose what section of the whole dynamic range you want to fit into the ADC.
+
+Basically gain control in audio recorders exist to overcome technical limitations of the capturing system (e.g., analog tape dynamic range or analog to digital converters, noise floor due to limited bit depth, etc.). This new generation of recorders with 32 bit dual stage ADCs make gain control unnecessary
+
 ### ¿Dónde comprarlos?
 
 https://www.veldshop.nl/en/clippy-em272-stereo-microphone.html
