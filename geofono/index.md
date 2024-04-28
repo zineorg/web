@@ -16,7 +16,7 @@ Un geófono es un dispositivo utilizado para capturar sonidos poco comunes o dif
 
 En geofísica se utilizan para detectar y registrar las vibraciones o movimientos del suelo. Estas vibraciones pueden ser generadas por diversas fuentes, como terremotos, explosiones, maquinaria pesada o el movimiento de fluidos subterráneos. Son un componente esencial de los sismógrafos.
 
-Nuestro diseño se basa en el geófono ION SM-6 omnidireccional de Sensor Nederland. Tiene una impedancia de 3500 Ω y una frecuencia nominal de 14 Hz. Su sensibilidad en circuito abierto es de 80.0 V/m/s.
+Nuestro diseño se basa en geófonos omnidireccionales de alta sensibilidad (80.0 V/m/s). Son amortiguados y tienen una impedancias de unos 2000 Ω y una frecuencia nominal de 14 Hz.
 
 :::
 

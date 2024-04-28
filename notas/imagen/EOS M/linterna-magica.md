@@ -93,3 +93,5 @@ I set the exposure to be slightly under the Write Speed limit of the card,  so I
 Conclusion: For those who prefer using the higher resolution / high bit depth Presets, or just extend recording times, the following is recommended:
 Kill Global Draw must be set to On;
 and ISO / Aperture assignments to the custom buttons must be avoided while recording.
+
+https://www.imaging-resource.com/PRODS/E7D/E7DIMATEST.HTM
