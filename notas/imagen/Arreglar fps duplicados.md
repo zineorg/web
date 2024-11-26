@@ -20,6 +20,15 @@ Con corte inicial de la charla:
 
 ffmpeg -i original.mkv -ss 00:15:10 -vf "decimate=cycle=5" -crf 17 -tune film -c:a copy tunefilm.mkv
 
+Forzando el framerate para que no sea variable:
+
+ffmpeg -i video.mkv -vf "decimate=cycle=5,fps=24" -crf 17 -tune film -c:a copy salida.mkv
+
+ffmpeg -i video.mkv -vf "decimate=cycle=5,fps=24" -r 24 -crf 17 -tune film -c:a aac -b:a 192k salida.mkv
+
+./ffmpeg -i "warhol.mkv" -vf "decimate=cycle=5,fps=24" -r 24 -crf 17 -tune film -c:a aac -b:a 192k salida.mkv
+
+
  _______              ______________
 |       |            |              |
 | input |  demuxer   | encoded data |   decoder

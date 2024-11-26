@@ -1,0 +1,4 @@
+ProRes can contain many different bitdepths. Apple ProRes4444 is 3x 12bit, so can save 3x the data that a 12bit cDNG contains - that should be more than enough. Log is bad in any kind as all tones are compressed to midtones - no idea why one should do that - that easily leads to banding when pushing afterwards.
+ProResRAW is no real RAW... BRAW is also no real RAW. Both is closer to ProRes than to cDNG, as it is already debayered. They are the reason why Blackmagic neglects RAW processing. 
+
+BRAW and ProResRAW is NO RAW. It is preprocessed as the RAW processing was already done in camera. Using best fitting RAW algorithms for the individual camera. If you crush something in a ProRes file, you did a bad mistake. It doesn't crush when doing it right, exactly as RAW. See BRAW and ProResRAW - you mentioned yourself.

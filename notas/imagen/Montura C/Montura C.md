@@ -65,6 +65,64 @@ existen adaptadores D-mount a EOSM en rafcamera.
 
 # Marcas de montura C
 
+The Elgeet Optical Company was founded in 1946 by David Goldstein in Rochester. Among its first products were lenses for naval tracking, giving the company's lens brand name Navitar. Most known photographic lenses of Elgeet were for movie cameras, but at least one still camera tele lens was made for the American Clarus Model MS-35 rangefinder camera body. In 1955 the company made its fast Elgeet Golden Navitar 12mm f/1.2 wide angle lens for 16mm film which was the World's first mass production of an aspheric lens. Elgeet was also a renowned maker of enlarger lenses. One of the enlarger lens types, the Elgeet 90mm f:6.3 Anastigmat, was chosen as camera lens type for a special still camera, i.e. Avant's Quad Camera for making passport photos.
+
+Elgeet advertised itself as "Makers of the World’s Finest Lenses". Since 1993 the company is named Navitar. 
+
+
+# Luz y luminosidad en montura C
+
+Es decir, es muy rápida, pero no se puede considerar el objetivo más rápido de 16mm, ya que en esas cámaras no se podría usar debido al obturador y demás mecanismos. Esto lo han permitido los sensores digitales, las cámaras de 16mm digitales! Yes, the Fuji 25mm f0.85 is what I am talking about.   The lens does not fit the C-Mount standard of having a flange length of ~4mm.  It has a flange length of ~10mm.  In a modern mirror-less digital there is plenty of space to fit that extra flange length.  But, in an old C-Mount film camera there are gates, shutters, filters and other things utilizing the space.  So you have to push the lens forward and use C-Mount extensions just to mount it on a film camera.  This makes it so that the focus distance is exclusively within the macro ranges.
+
+I did not understand digital cameras in general did not have the spacing issue.  So, when I asked how it was mounted I was trying to figure out how you managed to overcome the spacing issue without sacrificing focal distances.
+
+I suspect this was made for computer vision based on the answers I got from Fuji.
+
+Al final, son objetivos complejos de utilizar con baja luminosidad. Es importante la mayor luminosidad posible, pero no es determinante, ya que incluso el más rápido no lo es tanto. Fijarse también en los angulares, el máximo posible siempre  está bien, siempre y cuando no deforme demasiado.
+
+Si disparas con una cámara MFT a f/1 y con una cámara Full Frame a f/1 en la misma escena y con la misma configuración de ISO y velocidad de obturación, notarás que la cámara Full Frame capturará más luz y producirá una imagen más brillante. Esto sucede porque, aunque ambas cámaras tienen un objetivo f/1, la cámara Full Frame está capturando más luz total debido a su sensor más grande.
+Conclusión:
+
+Aunque el objetivo esté diseñado específicamente para MFT o Full Frame, el tamaño del sensor sigue siendo determinante en la cantidad total de luz que se captura. El número f/1 en MFT no es equivalente en términos de luz capturada a un f/1 en Full Frame; para igualar la luz capturada en Full Frame con f/1, necesitarías un f/2 en MFT.
+Tú dijiste:
+entonces f es un numero relativo? relativo a que?
+ChatGPT Plus
+ChatGPT
+
+Sí, el número f (apertura) es un valor relativo. Es una medida que no indica directamente la cantidad absoluta de luz que llega al sensor, sino la cantidad de luz relativa a la distancia focal de la lente. El número f se define como la relación entre la distancia focal y el diámetro de la apertura efectiva del objetivo.
+
+Un 25mm f/0.85 en un sensor de 2/3" es equivalente a un 97.5mm f/3.3 en Full Frame en términos de campo de visión y cantidad de luz total capturada.
+
+Un 25mm f/0.85 en un sensor de 1" es equivalente a un 67.5mm f/2.3 en Full Frame en términos de campo de visión y cantidad de luz total capturada.
+
+En objetivos diseñados para sensores de 1" es más fácil técnicamente fabricar aperturas grandes (números f más bajos) en comparación con objetivos de formato completo (FF), debido a las siguientes razones:
+1. Tamaño de la óptica:
+
+    Dado que los sensores de 1" son más pequeños, los objetivos también pueden ser más pequeños, lo que facilita la creación de lentes con aperturas más amplias sin necesidad de elementos ópticos gigantescos.
+    Por ejemplo, un lente de apertura f/0.85 en un sensor de 1" tiene un diámetro más manejable en comparación con lo que sería necesario para un lente equivalente en formato completo.
+
+2. Menor área de cobertura:
+
+    Un sensor más pequeño requiere que la óptica cubra un área de imagen más pequeña, lo que reduce la complejidad de corregir aberraciones ópticas en los bordes de la imagen. Esto permite trabajar con aperturas más grandes en cámaras con sensores pequeños sin tener los mismos problemas que en lentes FF.
+
+3. Corrección de aberraciones:
+
+    Aunque la corrección de aberraciones como el coma, la distorsión y las aberraciones cromáticas sigue siendo un desafío en aperturas extremadamente amplias, es más sencillo corregirlas en un objetivo diseñado para un sensor pequeño como el de 1". Esto es debido a que el campo de visión y la distancia focal efectiva son menores, lo que reduce los desafíos ópticos en comparación con los de formato completo.
+
+4. Ejemplos en sensores pequeños:
+
+    En cámaras con sensores pequeños, como compactas avanzadas o cámaras de cine (ej. Micro Cuatro Tercios o cámaras con sensores de 1"), ya se ven objetivos con aperturas muy amplias como f/1.2 o incluso f/0.95, porque los problemas ópticos y mecánicos son más manejables que en sensores FF.
+
+¿Se podría bajar más de f/0.85 en un objetivo de 1"?
+
+Sí, técnicamente es posible, pero con ciertos límites prácticos:
+
+    Óptica compleja: Bajar más de f/0.85 en un objetivo de 1" implicaría trabajar con diseños ópticos avanzados para corregir problemas como la nitidez y aberraciones. Aunque sea más fácil que en FF, los problemas de calidad de imagen (nitidez, distorsión) se incrementarían a medida que baja el valor f.
+
+    Tamaño y costo: Aunque en un sensor pequeño es más factible, un objetivo con una apertura significativamente mayor que f/0.85 podría ser físicamente más grande y más costoso.
+
+En resumen, sí sería más sencillo fabricar un objetivo con una apertura inferior a f/0.85 para un sensor de 1" que para uno full frame, pero sigue habiendo un límite práctico relacionado con la calidad de la imagen y los costes de producción.
+
 ## BBB:
 
 Los tres gran angulares rectilíneos:
@@ -106,6 +164,8 @@ Cosmicar 4.8mm (Enfoque fijo)
 Cosmicar 6mm
 Cosmicar 6.5mm f/1.8 Enfoque fijo
 
+hikrobot MVL-KF0618M-12MPE 6mm, F1.8, 1.1", 12MP Lens, C-Mount (No sé que tal estará)
+
 Tarcus 6.5mm f1.8 enfoque fijo cubre una pulgada (incluso podria valer para 4/3!)
 
 Schneider Variogon Zoom
@@ -113,6 +173,7 @@ Sun / Cosmicar 22.5-90mm
 
 Kowa LM12XC especial para 4/3"!!
 
+Ernitec 5.6mm F1.3 TV C-Mount CCTV Lens (raro, 1"inch?)
 
 
 Cine-Nikkor 13mm RARO
@@ -197,6 +258,9 @@ Navitar 25 mm F0.95 for 1"
 Schneider 25mm
 Schneider 17mm
 Canon TV-16 lens 25mm F0.78 C
+
+Voigtländer 25mm F/0.95
+Angenieux 25mm F/0.95
 
 Nominar 25mm F0.95 C
 Angenieux 25mm F 0.95 C (algo menos nitido?)
